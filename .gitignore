@@ -1,0 +1,32 @@
+.idea/
+target/
+.mvn/
+mvn*
+
+dict.out/
+src/main/resources/base_nouns_possessives.txt
+src/main/resources/combined_inflections.txt
+src/main/resources/words_to_process.txt
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/

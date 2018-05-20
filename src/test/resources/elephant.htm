@@ -1,0 +1,160 @@
+<div class="floatL sub_left">
+ <!-- 조건  start-->
+ <div class="search_datail_form">
+  <div class="clear2 manyLang6" style="margin-top:20px;">
+   <a href="#" id="tab_01" class="tap tab_tit on" style="width:200px;font-size:12px;">Advanced Search</a>
+   <a href="javascript:fnTabchange(4);" id="tab_06" class="tap tab_tit" style="width:280px;font-size:12px;">Search by Theme and Situation</a>
+   <a href="javascript:fnTabchange(3);" id="tab_05" class="tap tab_tit" style="width:250px;font-size:12px;">Search by Definition</a>
+  </div>
+  <div class="box_wrap mb_25">
+   <!-- 자세히 찾기 start-->
+   <div class="tab_cont cont_tab_01 manyLang6">
+    <fieldset>
+     <legend>Advanced Search</legend>
+     <table class="brdSearch3" cellpadding="0" cellspacing="0" width="100%" border="0" summary="Advanced Search">
+      <caption>
+        Advanced Search
+      </caption>
+      <tbody>
+       <tr>
+        <th scope="row" width="15%" rowspan="2">Classification</th>
+        <td class="searchDetailBox6" style="font-size:12px;"> <input type="checkbox" name="all_gubun" value="ALL" title="All" id="all_gubun" onclick="fnCheckAll('gubun');fnCheckData();" checked><label for="all_gubun" class="mr_20 gubunBox6">All</label> <input type="checkbox" name="gubun" title="Word" id="gubun_w" onclick="fnCheckCode('gubun');fnCheckData();" value="W" class="gubun"><label for="gubun_w" class="mr_20 gubunBox6">Word</label> <input type="checkbox" name="gubun" title="Phrase" id="gubun_p" onclick="fnCheckCode('gubun');fnCheckData();" value="P" class="gubun"><label for="gubun_p" class="mr_20 gubunBox6">Phrase</label> <input type="checkbox" name="gubun" title="Grammar·Expression" id="gubun_e" onclick="fnCheckCode('gubun');fnCheckData();" value="E" class="gubun"><label for="gubun_e" class="mr_20 gubunBox6">Grammar·Expression</label> </td>
+       </tr>
+       <tr>
+        <td class="searchDetailBox6" style="font-size:12px;"> <input type="checkbox" name="all_wordNativeCode" value="ALL" title="All" id="all_wordNativeCode" onclick="fnCheckAll('wordNativeCode');" checked><label for="all_gubun" class="mr_20 wordNativeBox6">All</label><br> <input type="checkbox" name="wordNativeCode" title="Native word" id="wordNativeCode1" onclick="fnCheckCode('wordNativeCode');" value="1" class="wordNativeCode"><label for="wordNativeCode1" class="mr_20 wordNativeBox6">Native word</label> <input type="checkbox" name="wordNativeCode" title="Sino-Korean word" id="wordNativeCode2" onclick="fnCheckCode('wordNativeCode');" value="2" class="wordNativeCode"><label for="wordNativeCode2" class="mr_20 wordNativeBox6">Sino-Korean word</label> <input type="checkbox" name="wordNativeCode" title="Loanword" id="wordNativeCode3" onclick="fnCheckCode('wordNativeCode');" value="3" class="wordNativeCode"><label for="wordNativeCode3" class="mr_20 wordNativeBox6">Loanword</label> <input type="checkbox" name="wordNativeCode" title="Hybrid word" id="wordNativeCode0" onclick="fnCheckCode('wordNativeCode');" value="0" class="wordNativeCode"><label for="wordNativeCode0" class="mr_20 wordNativeBox6">Hybrid word</label> </td>
+       </tr>
+       <tr>
+        <th scope="row">Part of Speech</th>
+        <td class="searchDetailBox6" style="font-size:12px;">
+         <table class="sub_tbl" border="0" cellspacing="0" cellpadding="0" summary="Part of Speech">
+          <caption>
+           Part of Speech
+          </caption>
+          <colgroup>
+           <col width="18%">
+          </colgroup>
+          <colgroup>
+           <col>
+          </colgroup>
+          <colgroup>
+           <col>
+          </colgroup>
+          <tbody>
+           <tr>
+            <td class="searchDetailBox6" colspan="3" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"><input type="checkbox" name="all_sp_code" id="all_sp_code" value="ALL" checked onclick="fnCheckAll('sp_code');"><label for="all_sp_code">All</label></td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code1" title="명사" value="1" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code1">Noun<font class="koreaLang spCodeBox6">(명사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code2" title="대명사" value="2" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code2">Pronoun<font class="koreaLang spCodeBox6">(대명사)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code3" title="수사" value="3" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code3">Numeral<font class="koreaLang spCodeBox6">(수사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code4" title="조사" value="4" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code4">Postpositional Particle<font class="koreaLang spCodeBox6">(조사)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code5" title="동사" value="5" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code5">Verb<font class="koreaLang spCodeBox6">(동사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code6" title="형용사" value="6" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code6">Adjective<font class="koreaLang spCodeBox6">(형용사)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code7" title="관형사" value="7" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code7">Determiner<font class="koreaLang spCodeBox6">(관형사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code8" title="부사" value="8" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code8">Adverb<font class="koreaLang spCodeBox6">(부사)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code9" title="감탄사" value="9" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code9">Interjection<font class="koreaLang spCodeBox6">(감탄사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code10" title="접사" value="10" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code10">Affix<font class="koreaLang spCodeBox6">(접사)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code11" title="의존 명사" value="11" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code11">Bound Noun<font class="koreaLang spCodeBox6">(의존 명사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code12" title="보조 동사" value="12" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code12">Auxiliary Verb<font class="koreaLang spCodeBox6">(보조 동사)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code13" title="보조 형용사" value="13" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code13">Auxiliary Adjective<font class="koreaLang spCodeBox6">(보조 형용사)</font></label> </td>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;"> <input type="checkbox" name="sp_code" id="sp_code14" title="어미" value="14" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code14">Ending of a Word<font class="koreaLang spCodeBox6">(어미)</font></label> </td>
+           </tr>
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;padding-top: 2px;padding-bottom: 2px;" colspan="2"> <input type="checkbox" name="sp_code" id="sp_code27" title="품사 없음" value="27" onclick="fnCheckCode('sp_code');" class="sp_code"><label for="sp_code27">Part of speech not applicable (a root, an abbreviated word, etc.)<font class="koreaLang spCodeBox6">(품사 없음)</font></label> </td>
+           </tr>
+          </tbody>
+         </table> </td>
+       </tr>
+       <tr>
+        <th scope="row">Vocabulary by Level</th>
+        <td class="searchDetailBox6" style="font-size:12px;"> <input type="checkbox" name="all_imcnt" value="ALL" title="All" id="all_imcnt" onclick="fnCheckAll('imcnt');" checked><label for="all_imcnt" class="mr_20 wordNativeBox6" style="margin-right:0px;">All</label> <input type="checkbox" name="imcnt" title="Elementary level" id="im_cnt1" onclick="fnCheckCode('imcnt');" value="1" class="imcnt"><label for="im_cnt1" class="mr_20" style="margin-right:0px;">Elementary level</label> <input type="checkbox" name="imcnt" title="Intermediate level" id="im_cnt2" onclick="fnCheckCode('imcnt');" value="2" class="imcnt"><label for="im_cnt2" class="mr_20" style="margin-right:0px;">Intermediate level</label> <input type="checkbox" name="imcnt" title="Advanced level" id="im_cnt3" onclick="fnCheckCode('imcnt');" value="3" class="imcnt"><label for="im_cnt3" class="mr_20" style="margin-right:0px;">Advanced level</label> <input type="checkbox" name="imcnt" title="None" id="im_cnt0" onclick="fnCheckCode('imcnt');" value="0" class="imcnt"><label for="im_cnt0" class="mr_20" style="margin-right:0px;">None</label> </td>
+       </tr>
+       <tr>
+        <th scope="row">Multimedia</th>
+        <td class="searchDetailBox6" style="font-size:12px;"> <input type="checkbox" name="all_multimedia" id="all_multimedia" value="ALL" checked onclick="fnCheckAll('multimedia');"><label for="all_multimedia" class="multimediaFont6">All</label> <input type="checkbox" name="multimedia" id="multimedia1" value="P" onclick="fnCheckCode('multimedia');" class="multimedia" style="margin-left:10px;"><label for="multimedia1" class="multimediaFont6">Photo</label> <input type="checkbox" name="multimedia" id="multimedia2" value="I" onclick="fnCheckCode('multimedia');" class="multimedia" style="margin-left:10px;"><label for="multimedia2" class="multimediaFont6">Illustration</label> <input type="checkbox" name="multimedia" id="multimedia3" value="V" onclick="fnCheckCode('multimedia');" class="multimedia" style="margin-left:10px;"><label for="multimedia3" class="multimediaFont6">Video</label> <input type="checkbox" name="multimedia" id="multimedia4" value="A" onclick="fnCheckCode('multimedia');" class="multimedia" style="margin-left:10px;"><label for="multimedia4" class="multimediaFont6">Animation</label> <input type="checkbox" name="multimedia" id="multimedia5" value="S" onclick="fnCheckCode('multimedia');" class="multimedia" style="margin-left:10px;"><label for="multimedia5" class="multimediaFont6">Sound</label> <input type="checkbox" name="multimedia" id="multimedia6" value="N" onclick="fnCheckCode('multimedia');" class="multimedia" style="margin-left:10px;"><label for="multimedia6" class="multimediaFont6">None</label> </td>
+       </tr>
+       <tr>
+        <th scope="row">Theme and Situation</th>
+        <td class="searchDetailBox6" style="font-size:12px;"> <a class="btn b_gray small manyLang6" href="javascript:fnActCategoryLayerOpen();" style="margin-bottom:10px !important;">Theme and Situation</a>
+         <div id="actCategoryTextBox" style="display:none;">
+          <div id="act1Box" style="display:none;margin-top:10px;font-weight: bold;">
+           ·Elementary level&nbsp;
+           <span id="act1BoxSpan" style="font-weight:normal;">인사하기, 소개하기(자기소개)</span>
+          </div>
+          <div id="act2Box" style="display:none;font-weight: bold;">
+           ·Intermediate level&nbsp;
+           <span id="act2BoxSpan" style="font-weight:normal;">개인 정보 교환하기, 교통 이용하기</span>
+          </div>
+          <div id="act3Box" style="display:none;font-weight: bold;">
+           ·Advanced level&nbsp;
+           <span id="act3BoxSpan" style="font-weight:normal;">지리정보, 경제∙경영</span>
+          </div>
+         </div> </td>
+       </tr>
+       <tr>
+        <th scope="row">Number of Syllables</th>
+        <td class="searchDetailBox6" style="font-size:12px;"> <input type="text" style="width:30px;margin-left:3px;" class="white" id="searchSyllableStart" name="searchSyllableStart" title="Number of Syllables" value=""> Syllable ~<input type="text" style="width:30px;" class="white" id="searchSyllableEnd" name="searchSyllableEnd" title="Number of Syllables" value=""> Syllable <span class="syllable btn_ml2"> <a href="javascript:fnSearchSyllable(0);" class="word_num on">All</a> <a href="javascript:fnSearchSyllable(1);" class="word_num" style="width: 45px;">1</a> <a href="javascript:fnSearchSyllable(2);" class="word_num" style="width: 45px;">2</a> <a href="javascript:fnSearchSyllable(3);" class="word_num" style="width: 45px;">3</a> <a href="javascript:fnSearchSyllable(4);" class="word_num" style="width: 45px;">4</a> <a href="javascript:fnSearchSyllable(5);" class="word_num" style="width: 45px;">5</a> </span> </td>
+       </tr>
+       <tr>
+        <th scope="row"><label for="word_search">Search</label></th>
+        <td class="searchDetailBox6" style="font-size:12px;"> <a href="javascript:addSearchBox();"><img src="/JSP/image/button/plus3.gif" style="margin-left:4px; margin-bottom:3px;" alt=""></a> <a href="javascript:del_searchOptionBox();"><img src="/JSP/image/button/minus3.gif" style="margin-left:4px; margin-bottom:3px;" alt=""></a> <br>
+         <table class="dicEdit_layer_warp">
+          <tbody id="searchOptionBox">
+           <tr>
+            <td class="searchDetailBox6" style="font-size:12px;">
+             <div class="sel_b1">
+              <select name="searchOp" style="display:none;margin-top:5px;" class="manyLang6 w_sel100 searchBox6"> <option value="AND" selected>And</option> <option value="NOT">Excluding</option> </select>
+              <select name="searchTarget" onchange="fnTargetType(this);" style="margin-top:5px;" class="manyLang6 w_sel100 searchBox6"> <option value="word">Headword</option> <option value="definition">Definition</option> <option value="example">Usage Example</option> <option value="org_language">Original Language</option> <option value="pronunciation">Pronunciation</option> <option value="conjugation">Application</option> <option value="shorten">Short Form</option> <option value="idiom">Idiom</option> <option value="proverb">Proverbs</option> <option value="trans_word" selected>(English) Word</option> <option value="trans_word_def">(English) Word Definition</option> <option value="trans_subword">(English) Idioms·Proverbs</option> </select>
+              <select name="searchOrglanguage" class="w_sel100 manyLang6 searchBox6" style="display:none;margin-top:5px;"> <option value="-1" selected>All</option> <option value="0">Native word</option> <option value="32">Sino-Korean word</option> <option value="97">Unknown</option> <option value="17">English</option> <option value="1">Greek</option> <option value="4">German</option> <option value="5">Latin</option> <option value="12">Sanskrit</option> <option value="16">Spanish</option> <option value="18">Italian</option> <option value="20">Japanese</option> <option value="21">Chinese</option> <option value="25">Persian</option> <option value="26">Portuguese</option> <option value="28">French</option> <option value="30">Hebrew</option> <option value="99">Other</option> </select>
+              <select name="wordCondition" class="replaceFont manyLang6 w_sel100 searchBox6;" style="margin-top:5px;"> <option value="wordAll">Contained Letter</option> <option value="wordStart">First Letter</option> <option value="wordEnd">Last Letter</option> <option value="wordSame" selected>Match</option> </select>
+             </div>
+             <div class="p_5">
+              <input type="text" name="query" class="white w90p manyLang6" style="text-align:left;" title="Search" value="elephant" onkeypress="return searchHandleEnter(event);">
+             </div> </td>
+           </tr>
+          </tbody>
+         </table> </td>
+       </tr>
+      </tbody>
+     </table>
+     <div class="button_c">
+      <button type="button" class="btn_blue_on manyLang6" onclick="searchPaging(1);">Search</button>
+     </div>
+    </fieldset>
+   </div>
+  </div>
+ </div>
+ <!-- 조건: end -->
+ <!-- search_list -->
+ <div class="gray_line mt_40 clear2 searchResultBox">
+  <span class="manyLang6" style="font-size:17px;"> Detail search results (<span class="num_red">1</span> results) </span>
+  <div class="search_btnset fr">
+   <ul>
+    <li><a href="#" class="plus"><img src="/JSP/image/button/btn_zoomin.gif" alt="Larger" title="Larger" style="padding-top: 2px;"></a></li>
+    <li class="btn_mr2"><a href="#" class="minus"><img src="/JSP/image/button/btn_zoomout.gif" alt="Smaller" title="Smaller" style="padding-top: 2px;"></a></li>
+    <li style="margin-right: 0px;"> <select name="blockCount" class="manyLang6"> <option value="10">View 10 per page</option> <option value="20">View 20 per page</option> <option value="30">View 30 per page</option> <option value="50">View 50 per page</option> <option value="100" selected>View 100 per page</option> </select> <a href="javascript:searchPaging(1);" class="goBtn btn_search manyLang6 titleBtnFont6" style="vertical-align: top;">Apply</a> </li>
+   </ul>
+  </div>
+ </div>
+ <ul class="search_list w700 printArea">
+  <li> <p> <a href="javascript:checkSubmit('28148','Y');" style="color:#0054FF;text-decoration:underline;" title="Advanced View"><strong>코끼리</strong></a> <em style="font-style:normal;margin-left:4px;margin-right:-1px;">「명사」</em> <em class="manyLang6" style="margin-right: 0px;"> Noun </em> [코끼리<img src="/JSP/image/icon/ico_sound_kr.png" alt="" title="" onclick="javascript:fnSoundPlay('http://dicmedia.korean.go.kr:8899/multimedia/multimedia_files/convert/20120506/75897/SND000064600.mp3');" style="cursor: pointer;">] <span class="score_3" title="Elementary level" style="margin-left: -3px;"></span> <a href="javascript:checkSubmit('28148','Y');" class="allview6 manyLang6 titleBtnFont6" style="padding-top:2px;">View All </a> </p>
+   <ol>
+    <li> <p class="manyLang6 theme1 " style="line-height: 30px;"> <span class="transFont6">elephant</span> </p> <p class="sub_p1" style="line-height: 20px;">매우 긴 코와 두 개의 큰 어금니가 있는, 육지에 사는 동물 가운데 가장 큰 동물.</p> <p class="sub_p1 manyLang6 defFont6">The largest animal living on land that has a very long nose and two large tusks.</p> </li>
+   </ol> </li>
+ </ul>
+ <ul class="paging" style="padding-top:25px;padding-bottom: 5px;">
+  <li class="now"><a href="#">1</a></li>
+ </ul>
+</div>
