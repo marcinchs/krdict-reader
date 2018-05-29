@@ -1,0 +1,1964 @@
+[
+  {
+    "id": {
+      "id": "bn:17454962n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "주지",
+        "simpleLemma": "주지",
+        "source": "WIKIDATA",
+        "senseKey": "Q1135621",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:17454962n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 233668332
+      },
+      {
+        "fullLemma": "주지승",
+        "simpleLemma": "주지승",
+        "source": "WIKIDATA",
+        "senseKey": "Q1135621",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:17454962n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 233668329
+      }
+    ],
+    "domains": {},
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WIKI",
+        "sourceSense": "233668320",
+        "language": "EN",
+        "gloss": "In addition to its use in a Christian context, abbot is a term used in English-speaking countries for a monk who holds the position of administrator of a Buddhist monastery or large Buddhist temple.",
+        "tokens": []
+      }
+    ],
+    "examples": [],
+    "images": [
+      {
+        "name": "KhenRinpocheRatoTemple.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KhenRinpocheRatoTemple.jpg/200px-KhenRinpocheRatoTemple.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/KhenRinpocheRatoTemple.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Sōjiji_Butsuden_2009.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/S%C5%8Djiji_Butsuden_2009.jpg/200px-S%C5%8Djiji_Butsuden_2009.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/S%C5%8Djiji_Butsuden_2009.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Dharma_Wheel.svg#WIKIDATA",
+        "languages": [
+          "JA",
+          "ZH"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "Buddhism",
+        "language": "EN"
+      },
+      {
+        "category": "Buddhist_terminology",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  },
+  {
+    "id": {
+      "id": "bn:00000237n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "대수도사제",
+        "simpleLemma": "대수도사제",
+        "source": "WIKI",
+        "senseKey": "756733",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492558
+      },
+      {
+        "fullLemma": "수도원장",
+        "simpleLemma": "수도원장",
+        "source": "WIKI",
+        "senseKey": "195117",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492618
+      },
+      {
+        "fullLemma": "대수도사제",
+        "simpleLemma": "대수도사제",
+        "source": "WIKIDATA",
+        "senseKey": "Q213159",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 237041921
+      },
+      {
+        "fullLemma": "수도원장",
+        "simpleLemma": "수도원장",
+        "source": "WIKIDATA",
+        "senseKey": "Q103163",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 172629072
+      },
+      {
+        "fullLemma": "수도원장",
+        "simpleLemma": "수도원장",
+        "source": "WIKT",
+        "senseKey": "308s1e1",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492978
+      },
+      {
+        "fullLemma": "승정",
+        "simpleLemma": "승정",
+        "source": "WIKT",
+        "senseKey": "308s1e1",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492977
+      },
+      {
+        "fullLemma": "대수도원장",
+        "simpleLemma": "대수도원장",
+        "source": "WIKIRED",
+        "senseKey": "201597",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492650
+      },
+      {
+        "fullLemma": "아빠스",
+        "simpleLemma": "아빠스",
+        "source": "WIKIRED",
+        "senseKey": "852661",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492605
+      },
+      {
+        "fullLemma": "archimandrite",
+        "simpleLemma": "archimandrite",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46493070
+      },
+      {
+        "fullLemma": "대_수도_원장",
+        "simpleLemma": "대_수도_원장",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46493116
+      },
+      {
+        "fullLemma": "archimandrite",
+        "simpleLemma": "archimandrite",
+        "source": "WIKITR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000237n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "0.40426_19_47",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492771
+      }
+    ],
+    "domains": {
+      "RELIGION_MYSTICISM_AND_MYTHOLOGY": 0.4237908124923706
+    },
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "07053509n"
+          ],
+          "2.0": [
+            "09135599n"
+          ],
+          "2.1": [
+            "09611440n"
+          ],
+          "1.5": [
+            "05912913n"
+          ],
+          "1.7": [
+            "08015511n"
+          ],
+          "3.0": [
+            "09754404n"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:09754404n",
+        "pos": "NOUN",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "46493068",
+        "language": "EN",
+        "gloss": "The superior of an abbey of monks",
+        "tokens": [
+          {
+            "start": 28,
+            "end": 32,
+            "id": {
+              "id": "bn:00055630n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "monks"
+          },
+          {
+            "start": 19,
+            "end": 23,
+            "id": {
+              "id": "bn:00000234n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "abbey"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46492538",
+        "language": "EN",
+        "gloss": "The title archimandrite, primarily used in the Eastern Orthodox and the Eastern Catholic churches, originally referred to a superior abbot whom a bishop appointed to supervise several \u0027ordinary\u0027 abbots and monasteries, or to the abbot of some especially great and important monastery.",
+        "tokens": [
+          {
+            "start": 4,
+            "end": 8,
+            "id": {
+              "id": "bn:00035925n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "title"
+          },
+          {
+            "start": 47,
+            "end": 62,
+            "id": {
+              "id": "bn:00029508n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Eastern Orthodox"
+          },
+          {
+            "start": 206,
+            "end": 216,
+            "id": {
+              "id": "bn:00058319n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "monasteries"
+          },
+          {
+            "start": 274,
+            "end": 282,
+            "id": {
+              "id": "bn:00058319n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "monastery"
+          },
+          {
+            "start": 146,
+            "end": 151,
+            "id": {
+              "id": "bn:00010706n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "bishop"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46492587",
+        "language": "EN",
+        "gloss": "Abbot, meaning father, is an ecclesiastical title given to the male head of a monastery in various traditions, including Christianity.",
+        "tokens": [
+          {
+            "start": 121,
+            "end": 132,
+            "id": {
+              "id": "bn:00018828n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Christianity"
+          },
+          {
+            "start": 44,
+            "end": 48,
+            "id": {
+              "id": "bn:00035925n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "title"
+          },
+          {
+            "start": 15,
+            "end": 20,
+            "id": {
+              "id": "bn:00009616n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "father"
+          },
+          {
+            "start": 78,
+            "end": 86,
+            "id": {
+              "id": "bn:00058319n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "monastery"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDATA",
+        "sourceSense": "251992267",
+        "language": "EN",
+        "gloss": "Religious title",
+        "tokens": []
+      },
+      {
+        "source": "WIKIDATA",
+        "sourceSense": "260303623",
+        "language": "EN",
+        "gloss": "Title",
+        "tokens": []
+      },
+      {
+        "source": "OMWIKI",
+        "sourceSense": "46493046",
+        "language": "EN",
+        "gloss": "The head of a monastery of monks.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "46492954",
+        "language": "EN",
+        "gloss": "The superior or head of an abbey or monastery.",
+        "tokens": [
+          {
+            "start": 27,
+            "end": 31,
+            "id": {
+              "id": "bn:00000234n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "abbey"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "46493006",
+        "language": "EN",
+        "gloss": "The superior of a large monastery, or group of monasteries, in the Orthodox Church.",
+        "tokens": [
+          {
+            "start": 67,
+            "end": 81,
+            "id": {
+              "id": "bn:00029508n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Orthodox Church"
+          }
+        ]
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "46492954",
+        "language": "EN",
+        "gloss": "Superior or head of an abbey or monastery.",
+        "tokens": [
+          {
+            "start": 23,
+            "end": 27,
+            "id": {
+              "id": "bn:00000234n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "abbey"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46492558",
+        "language": "KO",
+        "gloss": "대수도사제는 기독교 성직자의 일종으로, 동방 정교회의 수도사제 가운데 고위 수도사제로서 수도원장을 역임할 자격을 가진 수도사제의 직급이다.",
+        "tokens": [
+          {
+            "start": 7,
+            "end": 9,
+            "id": {
+              "id": "bn:00018828n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "기독교"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46492618",
+        "language": "KO",
+        "gloss": "아빠스는 라틴어로 아버지를 뜻하며, 전통적으로 로마 가톨릭교회의 베네딕도 규칙서를 따르는 수도회들과 일부 특정 기독교 수도회들에서 속한 자치 수도원의 원장을 일컫는 명칭이다.",
+        "tokens": [
+          {
+            "start": 62,
+            "end": 64,
+            "id": {
+              "id": "bn:00018828n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "기독교"
+          },
+          {
+            "start": 79,
+            "end": 82,
+            "id": {
+              "id": "bn:00055630n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "수도원의"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "source": "WIKT",
+        "sourceSense": "46492954",
+        "language": "EN",
+        "example": "The newly appointed abbot decided to take a tour of the abbey with the cardinal\u0027s emissary.",
+        "tokens": []
+      }
+    ],
+    "images": [
+      {
+        "name": "Template-Abbot_-_Provost.svg#WIKI",
+        "languages": [
+          "BG",
+          "PL",
+          "HU",
+          "SW",
+          "ID",
+          "DE",
+          "LA",
+          "NL",
+          "IT",
+          "EN",
+          "CY",
+          "GL",
+          "SK",
+          "NAP",
+          "CS"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Template-Abbot_-_Provost.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Template-Abbot_-_Provost.svg",
+        "badImage": false
+      },
+      {
+        "name": "Abbatia_CIST_Sbernadiensis_27a.jpg#WIKI",
+        "languages": [
+          "AR",
+          "PT",
+          "LI",
+          "AST",
+          "DE",
+          "SV",
+          "ES",
+          "IT",
+          "FR",
+          "IA",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abbatia_CIST_Sbernadiensis_27a.jpg/200px-Abbatia_CIST_Sbernadiensis_27a.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Abbatia_CIST_Sbernadiensis_27a.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Santo_Domingo_de_Silos_entronizado_como_obispo,_por_Bartolomé_Bermejo.jpg#WIKI",
+        "languages": [
+          "KO",
+          "RO",
+          "ID",
+          "AF",
+          "FA",
+          "ZH",
+          "LV",
+          "NO",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg/200px-Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Gregorio-e-archimandriti.JPG#WIKI",
+        "languages": [
+          "IO",
+          "PT",
+          "LMO",
+          "ES",
+          "NL",
+          "IT",
+          "FR",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gregorio-e-archimandriti.JPG/200px-Gregorio-e-archimandriti.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Gregorio-e-archimandriti.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Stroj_opata_cysterskiego.JPG#WIKI",
+        "languages": [
+          "HY",
+          "AZ",
+          "PL",
+          "RU",
+          "VEP",
+          "BE",
+          "KK",
+          "LT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stroj_opata_cysterskiego.JPG/200px-Stroj_opata_cysterskiego.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Stroj_opata_cysterskiego.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Template-Territorial_Abbot.svg#WIKI",
+        "languages": [
+          "PL",
+          "PT",
+          "JA",
+          "NL",
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Template-Territorial_Abbot.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Template-Territorial_Abbot.svg",
+        "badImage": false
+      },
+      {
+        "name": "Abade.jpg#WIKI",
+        "languages": [
+          "UK",
+          "BG",
+          "SK",
+          "PT",
+          "CS"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Abade.jpg/200px-Abade.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Abade.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Иоаникий_Голятовский.jpg#WIKI",
+        "languages": [
+          "RU",
+          "BE",
+          "CS",
+          "KK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%D0%98%D0%BE%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8%D0%B9_%D0%93%D0%BE%D0%BB%D1%8F%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg/200px-%D0%98%D0%BE%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8%D0%B9_%D0%93%D0%BE%D0%BB%D1%8F%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/%D0%98%D0%BE%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8%D0%B9_%D0%93%D0%BE%D0%BB%D1%8F%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg",
+        "badImage": false
+      },
+      {
+        "name": "StPakhom.jpg#WIKI",
+        "languages": [
+          "ID",
+          "SW",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/StPakhom.jpg/200px-StPakhom.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/StPakhom.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Bendeikt_von_Nursia_in_Muensterschwazach.jpg#WIKI",
+        "languages": [
+          "ID",
+          "SW",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bendeikt_von_Nursia_in_Muensterschwazach.jpg/200px-Bendeikt_von_Nursia_in_Muensterschwazach.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bendeikt_von_Nursia_in_Muensterschwazach.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Cruz_template.svg#WIKI",
+        "languages": [
+          "CY",
+          "SK",
+          "ZH"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cruz_template.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cruz_template.svg",
+        "badImage": false
+      },
+      {
+        "name": "Abadessa.jpg#WIKI",
+        "languages": [
+          "UK",
+          "BG",
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Abadessa.jpg/200px-Abadessa.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Abadessa.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Template-Abbess.svg#WIKI",
+        "languages": [
+          "BG",
+          "DE",
+          "NL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Template-Abbess.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Template-Abbess.svg",
+        "badImage": false
+      },
+      {
+        "name": "O_abade.JPG#WIKI",
+        "languages": [
+          "GA",
+          "PT",
+          "ID"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/O_abade.JPG/200px-O_abade.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/O_abade.JPG",
+        "badImage": false
+      },
+      {
+        "name": "StAnthony.jpg#WIKI",
+        "languages": [
+          "AST",
+          "ES",
+          "CA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/StAnthony.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/StAnthony.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbot_Christiaan_de_Hondt.jpg#WIKI",
+        "languages": [
+          "AST",
+          "EU",
+          "ES"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Abbot_Christiaan_de_Hondt.jpg/200px-Abbot_Christiaan_de_Hondt.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Abbot_Christiaan_de_Hondt.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbot_Francis_Michael_and_Prior_Anthony_Delisi.jpg#WIKI",
+        "languages": [
+          "FA",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Abbot_Francis_Michael_and_Prior_Anthony_Delisi.jpg/200px-Abbot_Francis_Michael_and_Prior_Anthony_Delisi.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Abbot_Francis_Michael_and_Prior_Anthony_Delisi.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Houghton_Typ_515.38.456a_-_Totentanz,_14.jpg#WIKI",
+        "languages": [
+          "FI",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Houghton_Typ_515.38.456a_-_Totentanz%2C_14.jpg/200px-Houghton_Typ_515.38.456a_-_Totentanz%2C_14.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Houghton_Typ_515.38.456a_-_Totentanz%2C_14.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Archimandrite\u0027s_crozier_(Kirillo-Belozersk).jpg#WIKI",
+        "languages": [
+          "EO",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Archimandrite%27s_crozier_%28Kirillo-Belozersk%29.jpg/200px-Archimandrite%27s_crozier_%28Kirillo-Belozersk%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Archimandrite%27s_crozier_%28Kirillo-Belozersk%29.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Fra_Angelico_031.jpg#WIKI",
+        "languages": [
+          "PT",
+          "HE"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fra_Angelico_031.jpg/200px-Fra_Angelico_031.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fra_Angelico_031.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbot_Suger.jpg#WIKI",
+        "languages": [
+          "AST",
+          "ES"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Abbot_Suger.jpg/200px-Abbot_Suger.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Abbot_Suger.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Архимандрит_Палладий.jpg#WIKI",
+        "languages": [
+          "FI",
+          "ES"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%82_%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9.jpg/200px-%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%82_%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%82_%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%B9.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbesse.png#WIKI",
+        "languages": [
+          "PT",
+          "HU"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Abbesse.png/200px-Abbesse.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Abbesse.png",
+        "badImage": false
+      },
+      {
+        "name": "Archimandrita.haddad.JPG#WIKI",
+        "languages": [
+          "EO",
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Archimandrita.haddad.JPG/200px-Archimandrita.haddad.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Archimandrita.haddad.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Gesupietrochiave.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gesupietrochiave.jpg/200px-Gesupietrochiave.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gesupietrochiave.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Psalterium_Feriatum_Cod_Don_309_042.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Psalterium_Feriatum_Cod_Don_309_042.jpg/200px-Psalterium_Feriatum_Cod_Don_309_042.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Psalterium_Feriatum_Cod_Don_309_042.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Erzabt_Ildefons_Schober_OSB.JPG#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erzabt_Ildefons_Schober_OSB.JPG/200px-Erzabt_Ildefons_Schober_OSB.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Erzabt_Ildefons_Schober_OSB.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Archabbot.png#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Archabbot.png/200px-Archabbot.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Archabbot.png",
+        "badImage": false
+      },
+      {
+        "name": "Seraphin_chichagov_as_archimandrite.jpg#WIKI",
+        "languages": [
+          "LA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Seraphin_chichagov_as_archimandrite.jpg/200px-Seraphin_chichagov_as_archimandrite.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Seraphin_chichagov_as_archimandrite.jpg",
+        "badImage": false
+      },
+      {
+        "name": "ProvostOrAbbotCoA_PioM.svg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/ProvostOrAbbotCoA_PioM.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/ProvostOrAbbotCoA_PioM.svg",
+        "badImage": false
+      },
+      {
+        "name": "TerritorialAbbotCoA_PioM.svg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/TerritorialAbbotCoA_PioM.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/TerritorialAbbotCoA_PioM.svg",
+        "badImage": false
+      },
+      {
+        "name": "Gramtrans_logo.png#WIKI",
+        "languages": [
+          "EO"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gramtrans_logo.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gramtrans_logo.png",
+        "badImage": false
+      },
+      {
+        "name": "00058_christ_pantocrator_mosaic_hagia_sophia_656x800.jpg#WIKI",
+        "languages": [
+          "RO"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/00058_christ_pantocrator_mosaic_hagia_sophia_656x800.jpg/200px-00058_christ_pantocrator_mosaic_hagia_sophia_656x800.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/00058_christ_pantocrator_mosaic_hagia_sophia_656x800.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Wikilingue_logo_25px.png#WIKI",
+        "languages": [
+          "EO"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wikilingue_logo_25px.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wikilingue_logo_25px.png",
+        "badImage": false
+      },
+      {
+        "name": "WiktionaryUk.svg#WIKI",
+        "languages": [
+          "UK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/WiktionaryUk.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/WiktionaryUk.svg",
+        "badImage": false
+      },
+      {
+        "name": "Abbedissa,_Nordisk_familjebok.png#WIKI",
+        "languages": [
+          "NL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Abbedissa%2C_Nordisk_familjebok.png/200px-Abbedissa%2C_Nordisk_familjebok.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Abbedissa%2C_Nordisk_familjebok.png",
+        "badImage": false
+      },
+      {
+        "name": "Gheorghe_Tattarescu_-_Arhimandritul_Iosif_Naniescu.jpg#WIKI",
+        "languages": [
+          "JA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gheorghe_Tattarescu_-_Arhimandritul_Iosif_Naniescu.jpg/200px-Gheorghe_Tattarescu_-_Arhimandritul_Iosif_Naniescu.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Gheorghe_Tattarescu_-_Arhimandritul_Iosif_Naniescu.jpg",
+        "badImage": false
+      },
+      {
+        "name": "YellowHardHat.jpg#WIKI",
+        "languages": [
+          "SL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/YellowHardHat.jpg/200px-YellowHardHat.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/YellowHardHat.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Cruz_template.png#WIKI",
+        "languages": [
+          "AZ"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cruz_template.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cruz_template.png",
+        "badImage": false
+      },
+      {
+        "name": "Evangel.JPG#WIKI",
+        "languages": [
+          "EL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Evangel.JPG/200px-Evangel.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Evangel.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Ambox_move.png#WIKI",
+        "languages": [
+          "SIMPLE"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ambox_move.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ambox_move.png",
+        "badImage": false
+      },
+      {
+        "name": "Wikipedia-favicon.png#WIKI",
+        "languages": [
+          "NAP"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wikipedia-favicon.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wikipedia-favicon.png",
+        "badImage": false
+      },
+      {
+        "name": "Orthodox_cross.svg#WIKI",
+        "languages": [
+          "SR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Orthodox_cross.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Orthodox_cross.svg",
+        "badImage": false
+      },
+      {
+        "name": "Religion_template.svg#WIKI",
+        "languages": [
+          "UK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Religion_template.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Religion_template.svg",
+        "badImage": false
+      },
+      {
+        "name": "Bernhard_von_Clairvaux_(Initiale-B).jpg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bernhard_von_Clairvaux_%28Initiale-B%29.jpg/200px-Bernhard_von_Clairvaux_%28Initiale-B%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bernhard_von_Clairvaux_%28Initiale-B%29.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Wiktionary-ico-de.png#WIKI",
+        "languages": [
+          "SK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wiktionary-ico-de.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wiktionary-ico-de.png",
+        "badImage": false
+      },
+      {
+        "name": "Viccionari.png#WIKI",
+        "languages": [
+          "CA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Viccionari.png/200px-Viccionari.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Viccionari.png",
+        "badImage": false
+      },
+      {
+        "name": "Clocher_abbaye_cluny_4.JPG#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Clocher_abbaye_cluny_4.JPG/200px-Clocher_abbaye_cluny_4.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Clocher_abbaye_cluny_4.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Galizionario.png#WIKI",
+        "languages": [
+          "GL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Galizionario.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Galizionario.png",
+        "badImage": false
+      },
+      {
+        "name": "Petheodoro.JPG#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Petheodoro.JPG/200px-Petheodoro.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Petheodoro.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Golden_Christian_Cross.svg#WIKI",
+        "languages": [
+          "EL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Golden_Christian_Cross.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Golden_Christian_Cross.svg",
+        "badImage": false
+      },
+      {
+        "name": "Magnifying_glass_icon_mgx2.svg#WIKI",
+        "languages": [
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Magnifying_glass_icon_mgx2.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Magnifying_glass_icon_mgx2.svg",
+        "badImage": false
+      },
+      {
+        "name": "WiktionaryLt.svg#WIKI",
+        "languages": [
+          "LT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/WiktionaryLt.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/WiktionaryLt.svg",
+        "badImage": false
+      },
+      {
+        "name": "Dom_Louis-Marie_de_Geyer_d\u0027Orth_en_2016.jpg#WIKI",
+        "languages": [
+          "FR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dom_Louis-Marie_de_Geyer_d%27Orth_en_2016.jpg/200px-Dom_Louis-Marie_de_Geyer_d%27Orth_en_2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dom_Louis-Marie_de_Geyer_d%27Orth_en_2016.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Efrem_Kuznetsov,_bishop.jpg#WIKI",
+        "languages": [
+          "KO"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Efrem_Kuznetsov%2C_bishop.jpg/200px-Efrem_Kuznetsov%2C_bishop.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Efrem_Kuznetsov%2C_bishop.jpg",
+        "badImage": false
+      },
+      {
+        "name": "MCC-69468_Abtsstaf_van_de_abdij_te_Egmond,_in_de_krul_een_voorstelling_van_de_kroning_van_Maria_door_Christus,_voorstellingen_van_heiligen_en_apostelen_in_doors_(2).tif#WIKI",
+        "languages": [
+          "NL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MCC-69468_Abtsstaf_van_de_abdij_te_Egmond%2C_in_de_krul_een_voorstelling_van_de_kroning_van_Maria_door_Christus%2C_voorstellingen_van_heiligen_en_apostelen_in_doors_%282%29.tif/lossy-page1-200px-thumbnail.tif.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/MCC-69468_Abtsstaf_van_de_abdij_te_Egmond%2C_in_de_krul_een_voorstelling_van_de_kroning_van_Maria_door_Christus%2C_voorstellingen_van_heiligen_en_apostelen_in_doors_%282%29.tif",
+        "badImage": false
+      },
+      {
+        "name": "Gold_cross.png#WIKI",
+        "languages": [
+          "BG"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gold_cross.png/200px-Gold_cross.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gold_cross.png",
+        "badImage": false
+      },
+      {
+        "name": "Архимандрит_Никодим_(Гонтаренко).jpg#WIKI",
+        "languages": [
+          "RU"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%82_%D0%9D%D0%B8%D0%BA%D0%BE%D0%B4%D0%B8%D0%BC_%28%D0%93%D0%BE%D0%BD%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%29.jpg/200px-%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%82_%D0%9D%D0%B8%D0%BA%D0%BE%D0%B4%D0%B8%D0%BC_%28%D0%93%D0%BE%D0%BD%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%82_%D0%9D%D0%B8%D0%BA%D0%BE%D0%B4%D0%B8%D0%BC_%28%D0%93%D0%BE%D0%BD%D1%82%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%29.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Hildegard_von_Bingen.jpg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/200px-Hildegard_von_Bingen.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hildegard_von_Bingen.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Wiktionary-logo-hu.svg#WIKI",
+        "languages": [
+          "HU"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wiktionary-logo-hu.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wiktionary-logo-hu.svg",
+        "badImage": false
+      },
+      {
+        "name": "Icon-religion.png#WIKI",
+        "languages": [
+          "SW"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Icon-religion.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Icon-religion.png",
+        "badImage": false
+      },
+      {
+        "name": "Glastonburyabbey.jpg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Glastonburyabbey.jpg/200px-Glastonburyabbey.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Glastonburyabbey.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Kruis_san_damiano.gif#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kruis_san_damiano.gif/200px-Kruis_san_damiano.gif",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kruis_san_damiano.gif",
+        "badImage": false
+      },
+      {
+        "name": "ChristianityPUA.svg#WIKI",
+        "languages": [
+          "AR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ChristianityPUA.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ChristianityPUA.svg",
+        "badImage": false
+      },
+      {
+        "name": "Nuvola_mimetypes_charnotfound.PNG#WIKI",
+        "languages": [
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "OTHER",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/it/6/63/Nuvola_mimetypes_charnotfound.PNG",
+        "url": "https://upload.wikimedia.org/wikipedia/it/6/63/Nuvola_mimetypes_charnotfound.PNG",
+        "badImage": false
+      },
+      {
+        "name": "Brasão_de_abade_mitrado.jpg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bras%C3%A3o_de_abade_mitrado.jpg/200px-Bras%C3%A3o_de_abade_mitrado.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bras%C3%A3o_de_abade_mitrado.jpg",
+        "badImage": false
+      },
+      {
+        "name": "ReligionSymbol.svg#WIKI",
+        "languages": [
+          "LV"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/ReligionSymbol.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/ReligionSymbol.svg",
+        "badImage": false
+      },
+      {
+        "name": "Wiktionary-logo-sl.svg#WIKI",
+        "languages": [
+          "SL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wiktionary-logo-sl.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wiktionary-logo-sl.svg",
+        "badImage": false
+      },
+      {
+        "name": "Carlo_Crivelli_052.jpg#WIKI",
+        "languages": [
+          "NL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Carlo_Crivelli_052.jpg/200px-Carlo_Crivelli_052.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carlo_Crivelli_052.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Port-du-salut-dom-bernard-de-girmont.JPG#WIKI",
+        "languages": [
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Port-du-salut-dom-bernard-de-girmont.JPG/200px-Port-du-salut-dom-bernard-de-girmont.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Port-du-salut-dom-bernard-de-girmont.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Emblem_of_the_Papacy_SE.svg#WIKIDATA",
+        "languages": [
+          "RU",
+          "ID",
+          "BE",
+          "EN"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Emblem_of_the_Papacy_SE.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Emblem_of_the_Papacy_SE.svg",
+        "badImage": false
+      },
+      {
+        "name": "IHS-monogram-Jesus-medievalesque.svg#WIKIDATA",
+        "languages": [
+          "AR",
+          "FR"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/IHS-monogram-Jesus-medievalesque.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/IHS-monogram-Jesus-medievalesque.svg",
+        "badImage": false
+      },
+      {
+        "name": "Abbatia_CIST_Sbernadiensis_27a.jpg#WIKIDATA",
+        "languages": [
+          "MUL"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abbatia_CIST_Sbernadiensis_27a.jpg/200px-Abbatia_CIST_Sbernadiensis_27a.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Abbatia_CIST_Sbernadiensis_27a.jpg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "동방_기독교",
+        "language": "KO"
+      },
+      {
+        "category": "기독교_성직자",
+        "language": "KO"
+      },
+      {
+        "category": "베네딕도회",
+        "language": "KO"
+      },
+      {
+        "category": "출처가_필요한_글/2013년_5월",
+        "language": "KO"
+      },
+      {
+        "category": "Abbots",
+        "language": "EN"
+      },
+      {
+        "category": "Christian_religious_occupations",
+        "language": "EN"
+      },
+      {
+        "category": "Eastern_Christian_ecclesiastical_offices",
+        "language": "EN"
+      },
+      {
+        "category": "Ecclesiastical_titles",
+        "language": "EN"
+      },
+      {
+        "category": "Monasticism",
+        "language": "EN"
+      },
+      {
+        "category": "Organisation_of_Catholic_religious_orders",
+        "language": "EN"
+      },
+      {
+        "category": "Religious_leadership_roles",
+        "language": "EN"
+      },
+      {
+        "category": "Religious_terminology",
+        "language": "EN"
+      },
+      {
+        "category": "Roman_Catholic_Church_offices",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  },
+  {
+    "id": {
+      "id": "bn:03874219n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "abbot",
+        "simpleLemma": "abbot",
+        "source": "BABELNET",
+        "senseKey": "bn:03874219n",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:03874219n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 0
+      }
+    ],
+    "domains": {
+      "PHYSICS_AND_ASTRONOMY": 0.8761467933654785
+    },
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WIKI",
+        "sourceSense": "24732713",
+        "language": "EN",
+        "gloss": "Abbot is a small lunar impact crater that lies on the rugged ground between the Mare Fecunditatis in the south and west, and the Mare Crisium to the north.",
+        "tokens": [
+          {
+            "start": 80,
+            "end": 96,
+            "id": {
+              "id": "bn:01333309n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Mare Fecunditatis"
+          },
+          {
+            "start": 129,
+            "end": 140,
+            "id": {
+              "id": "bn:01290184n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Mare Crisium"
+          },
+          {
+            "start": 23,
+            "end": 35,
+            "id": {
+              "id": "bn:03485975n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "impact crater"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDIS",
+        "sourceSense": "24732713",
+        "language": "EN",
+        "gloss": "Lunar impact crater named for Charles Greeley Abbot",
+        "tokens": [
+          {
+            "start": 6,
+            "end": 18,
+            "id": {
+              "id": "bn:03485975n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "impact crater"
+          },
+          {
+            "start": 30,
+            "end": 50,
+            "id": {
+              "id": "bn:02731447n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Charles Greeley Abbot"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDATA",
+        "sourceSense": "155633616",
+        "language": "EN",
+        "gloss": "Lunar crater",
+        "tokens": []
+      }
+    ],
+    "examples": [],
+    "images": [
+      {
+        "name": "Full_Moon_Luc_Viatour.jpg#OMWIKI",
+        "languages": [
+          "DA",
+          "FR"
+        ],
+        "urlSource": "OMWIKI",
+        "license": "CC_BY_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/200px-Full_Moon_Luc_Viatour.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Full_Moon_Luc_Viatour.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbot_crater_clementine_color_albedo.jpg#WIKI",
+        "languages": [
+          "RU",
+          "PT",
+          "JA",
+          "HA",
+          "DE",
+          "SV",
+          "ES",
+          "FA",
+          "LB",
+          "EN",
+          "CA",
+          "EL",
+          "ZH"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Reiner_crater_clementine_color_albedo.jpg/200px-Reiner_crater_clementine_color_albedo.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Reiner_crater_clementine_color_albedo.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbot_LO-IV-184H_LTVT.jpg#WIKI",
+        "languages": [
+          "RU",
+          "DE",
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Abbot_LO-IV-184H_LTVT.jpg/200px-Abbot_LO-IV-184H_LTVT.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Abbot_LO-IV-184H_LTVT.jpg",
+        "badImage": false
+      },
+      {
+        "name": "DeepPink_pog.svg#WIKI",
+        "languages": [
+          "IT",
+          "CA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/DeepPink_pog.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/DeepPink_pog.svg",
+        "badImage": false
+      },
+      {
+        "name": "Moon-Mdf-2005.jpg#WIKI",
+        "languages": [
+          "DA",
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Moon-Mdf-2005.jpg/200px-Moon-Mdf-2005.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Moon-Mdf-2005.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Lune_ico.png#WIKI",
+        "languages": [
+          "EL",
+          "FR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lune_ico.png/200px-Lune_ico.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Lune_ico.png",
+        "badImage": false
+      },
+      {
+        "name": "Red_Dot.svg#WIKI",
+        "languages": [
+          "DA",
+          "SV"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Red_Dot.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Red_Dot.svg",
+        "badImage": false
+      },
+      {
+        "name": "Location_of_lunar_crater_apollonius.jpg#WIKI",
+        "languages": [
+          "RU",
+          "JA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Location_of_lunar_crater_apollonius.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Location_of_lunar_crater_apollonius.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Copernicus_crater_AS12-52-7739.jpg#WIKI",
+        "languages": [
+          "ZH"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Copernicus_crater_AS12-52-7739.jpg/200px-Copernicus_crater_AS12-52-7739.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Copernicus_crater_AS12-52-7739.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Nuvola_apps_kmoon_left.png#WIKI",
+        "languages": [
+          "PL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nuvola_apps_kmoon_left.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nuvola_apps_kmoon_left.png",
+        "badImage": false
+      },
+      {
+        "name": "Nuvola_apps_kmoon.png#WIKI",
+        "languages": [
+          "CA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nuvola_apps_kmoon.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nuvola_apps_kmoon.png",
+        "badImage": false
+      },
+      {
+        "name": "Steel_pog.svg#WIKI",
+        "languages": [
+          "PL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Steel_pog.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Steel_pog.svg",
+        "badImage": false
+      },
+      {
+        "name": "Moon_Map_-_Equatorial_region_45S_to_45N_-_LPC1_-_NASA.jpg#WIKI",
+        "languages": [
+          "DE"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Moon_Map_-_Equatorial_region_45S_to_45N_-_LPC1_-_NASA.jpg/200px-Moon_Map_-_Equatorial_region_45S_to_45N_-_LPC1_-_NASA.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Moon_Map_-_Equatorial_region_45S_to_45N_-_LPC1_-_NASA.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Redpoint.svg#WIKI",
+        "languages": [
+          "FR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Redpoint.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Redpoint.svg",
+        "badImage": false
+      },
+      {
+        "name": "Moon_apollo12.jpg#WIKI",
+        "languages": [
+          "ES"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Moon_apollo12.jpg/200px-Moon_apollo12.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Moon_apollo12.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Point_rouge.png#WIKI",
+        "languages": [
+          "DA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Point_rouge.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Point_rouge.png",
+        "badImage": false
+      },
+      {
+        "name": "Tango_Globe_of_Letters.svg#WIKI",
+        "languages": [
+          "CA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tango_Globe_of_Letters.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tango_Globe_of_Letters.svg",
+        "badImage": false
+      },
+      {
+        "name": "Abbot_crater_clementine_color_albedo.jpg#WIKIDATA",
+        "languages": [
+          "MUL"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Abbot_crater_clementine_color_albedo.jpg/200px-Abbot_crater_clementine_color_albedo.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Abbot_crater_clementine_color_albedo.jpg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "Impact_craters_on_the_Moon",
+        "language": "EN"
+      },
+      {
+        "category": "LQ13_quadrangle",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "NAMED_ENTITY",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  }
+]

@@ -8,6 +8,11 @@ src/main/resources/base_nouns_possessives.txt
 src/main/resources/combined_inflections.txt
 src/main/resources/words_to_process.txt
 
+### babelnet
+src/main/resources/wnplusplus
+src/main/resources/jlt
+config
+
 ### STS ###
 .apt_generated
 .classpath

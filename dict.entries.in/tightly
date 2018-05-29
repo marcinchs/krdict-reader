@@ -1,7 +1,7 @@
 <i>adverb</i>: 팽팽히 [팽팽히], 콱콱 [콱콱], 콱 [콱], 질끈 [질끈], 바싹바싹 [바싹빠싹], 바싹 [바싹], 단단히 [단단히], 꽁꽁 [꽁꽁], 꼭꼭 [꼭꼭], 꼭 [꼭] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adverb</i><br>
-<dt>팽팽히 [팽팽히]</dt><br>
+<dt><span>&#8227;&nbsp;</span>팽팽히 [팽팽히]</dt><br>
 <dd>1. tightly; tautly</dd><br>
 <dd>물체가 늘어지지 않고 힘 있게 곧게 펴져 있는 정도로.</dd><br>
 <dd>In the manner of an object being straight, not being loose.</dd><br>
@@ -17,14 +17,14 @@
 <dd>5. tensely</dd><br>
 <dd>정세나 분위기 등이 부드럽지 못하고 매우 딱딱한 정도로.</dd><br>
 <dd>In a situation, atmosphere, etc., which is very stiff, not smooth.</dd><br>
-<dt>콱콱 [콱콱]</dt><br>
+<dt><span>&#8227;&nbsp;</span>콱콱 [콱콱]</dt><br>
 <dd>1. with thrusts</dd><br>
 <dd>세게 연달아 박거나 찌르거나 부딪치는 모양.</dd><br>
 <dd>A word describing an act of ramming, prodding, or hitting something strongly and repeatedly.</dd><br>
 <dd>2. tightly</dd><br>
 <dd>매우 심하게 막히거나 막는 모양.</dd><br>
 <dd>A word describing something being severely blocked or blocking other things.</dd><br>
-<dt>콱 [콱]</dt><br>
+<dt><span>&#8227;&nbsp;</span>콱 [콱]</dt><br>
 <dd>1. with a thrust</dd><br>
 <dd>세게 박거나 찌르거나 부딪치는 모양.</dd><br>
 <dd>A word describing an act of ramming, prodding, or hitting something strongly.</dd><br>
@@ -34,14 +34,14 @@
 <dd>3. suddenly</dd><br>
 <dd>마구 쏟거나 엎지르는 모양.</dd><br>
 <dd>A word describing an act of carelessly spilling or pouring something.</dd><br>
-<dt>질끈 [질끈]</dt><br>
+<dt><span>&#8227;&nbsp;</span>질끈 [질끈]</dt><br>
 <dd>1. tightly; firmly</dd><br>
 <dd>단단히 졸라매는 모양.</dd><br>
 <dd>In the manner of fastening something tightly.</dd><br>
 <dd>2. tightly; firmly</dd><br>
 <dd>힘을 주어 벌어진 사이를 눌러 붙이는 모양.</dd><br>
 <dd>In the manner of pressing things together tightly.</dd><br>
-<dt>바싹바싹 [바싹빠싹]</dt><br>
+<dt><span>&#8227;&nbsp;</span>바싹바싹 [바싹빠싹]</dt><br>
 <dd>1. completely</dd><br>
 <dd>물기가 아주 없어지도록 자꾸 마르거나 줄어드는 모양.</dd><br>
 <dd>A word describing something being dried or shrunk continuously until no moisture is left.</dd><br>
@@ -63,7 +63,7 @@
 <dd>7. right away</dd><br>
 <dd>무슨 일을 매우 거침없이 빨리 끝내는 모양.</dd><br>
 <dd>A word describing one finishing something quickly at once.</dd><br>
-<dt>바싹 [바싹]</dt><br>
+<dt><span>&#8227;&nbsp;</span>바싹 [바싹]</dt><br>
 <dd>1. completely</dd><br>
 <dd>물기가 거의 없이 마르거나 줄어드는 모양.</dd><br>
 <dd>A word describing something being dried or shrunk until little moisture is left.</dd><br>
@@ -85,7 +85,7 @@
 <dd>7. right away</dd><br>
 <dd>무슨 일을 거침없이 빨리 끝내는 모양.</dd><br>
 <dd>A word describing one finishing something quickly at once.</dd><br>
-<dt>단단히 [단단히]</dt><br>
+<dt><span>&#8227;&nbsp;</span>단단히 [단단히]</dt><br>
 <dd>1. hard</dd><br>
 <dd>사물이 어떤 힘에 의해 모양이 변하지 않게.</dd><br>
 <dd>(an object) Hard enough not to be changed by a certain force.</dd><br>
@@ -110,14 +110,14 @@
 <dd>8. strongly</dd><br>
 <dd>일의 기본 바탕이 튼튼하게.</dd><br>
 <dd>(the ground for something made) Strongly.</dd><br>
-<dt>꽁꽁 [꽁꽁]</dt><br>
+<dt><span>&#8227;&nbsp;</span>꽁꽁 [꽁꽁]</dt><br>
 <dd>1. solid; hard</dd><br>
 <dd>물이나 땅, 사물 등이 아주 단단하게 언 모양.</dd><br>
 <dd>A word describing the state of water, soil, an object, etc., being frozen very hard.</dd><br>
 <dd>2. tightly</dd><br>
 <dd>풀리거나 열리지 않도록 아주 단단하게 묶거나 잠근 모양.</dd><br>
 <dd>A word describing the manner of locking or tying something very tight so that it does not come undone or it does not open.</dd><br>
-<dt>꼭꼭 [꼭꼭]</dt><br>
+<dt><span>&#8227;&nbsp;</span>꼭꼭 [꼭꼭]</dt><br>
 <dd>1. firmly; tightly</dd><br>
 <dd>잇따라 힘주어 세게 누르거나 잡는 모양.</dd><br>
 <dd>In the manner of pressing repeatedly or holding strongly.</dd><br>
@@ -127,7 +127,7 @@
 <dd>3. completely</dd><br>
 <dd>잇따라 보이지 않게 숨거나 한 곳에서 나오지 않는 모양.</dd><br>
 <dd>In the manner of repeatedly hiding or not coming out of a place so as not to be seen.</dd><br>
-<dt>꼭 [꼭]</dt><br>
+<dt><span>&#8227;&nbsp;</span>꼭 [꼭]</dt><br>
 <dd>1. firmly; tightly</dd><br>
 <dd>어떤 것을 빈틈이 없이 힘주어 세게 누르거나 잡는 모양.</dd><br>
 <dd>In the manner of pressing or holding something strongly and fast.</dd><br>

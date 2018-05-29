@@ -1,7 +1,7 @@
 <i>noun</i>: 오전 [오ː전] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>noun</i><br>
-<dt>오전 [오ː전]</dt><br>
+<dt><span>&#8227;&nbsp;</span>오전 [오ː전]</dt><br>
 <dd>1. morning</dd><br>
 <dd>아침부터 낮 열두 시까지의 동안.</dd><br>
 <dd>The time from morning to noon.</dd><br>

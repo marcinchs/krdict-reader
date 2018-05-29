@@ -1,7 +1,7 @@
 <i>adjective</i>: 훤하다 [훤ː하다], 환하다 [환ː하다], 헐겁다 [헐겁따], 옅다 [엳따], 연하다 [연ː하다], 어설프다 [어ː설프다], 어렴풋하다 [어렴푸타다], 얇다 [얄ː따], 순하다 [순ː하다], 빤하다 [빤ː하다], 부드럽다 [부드럽따], 밝다 [박따], 말갛다 [말ː가타], 경하다 [경하다], 경미하다 [경미하다], 거뜬하다 [거뜬하다], 가뿐하다 [가뿐하다], 가볍다 [가볍따], 가뜬하다 [가뜬하다] <i>noun</i>: 조명등 [조ː명등], 전등불 [전ː등뿔], 전등 [전ː등], 전깃불 [전ː기뿔 /전ː긷뿔], 빛 [빋], 불빛 [불삗], 불 [불], 등불 [등뿔], 광명 [광명], 광 [광], 경량급 [경냥끕] <i>verb</i>: 켜다 [켜다], 지피다 [지피다], 조명하다 [조ː명하다], 점화하다 [점화하다], 붙이다 [부치다], 밝히다 [발키다], 던지다 [던지다], 댕기다 [댕기다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adjective</i><br>
-<dt>훤하다 [훤ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>훤하다 [훤ː하다]</dt><br>
 <dd>1. bright; light</dd><br>
 <dd>조금 흐릿하게 밝다.</dd><br>
 <dd>Being slightly, dimly bright.</dd><br>
@@ -17,7 +17,7 @@
 <dd>5. familiar; knowledgeable</dd><br>
 <dd>어떤 일이나 대상에 대해 잘 알고 있다.</dd><br>
 <dd>Having an accurate and deep knowledge about a certain task or object.</dd><br>
-<dt>환하다 [환ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>환하다 [환ː하다]</dt><br>
 <dd>1. bright; light; radiant</dd><br>
 <dd>빛이 비치어 맑고 밝다.</dd><br>
 <dd>Being very clear and bright as light shines.</dd><br>
@@ -42,14 +42,14 @@
 <dd>8. refreshed</dd><br>
 <dd>맛이 얼얼한 듯하면서 개운하고 시원한 느낌이 있다.</dd><br>
 <dd>Feeling tingly, clean, and refreshed in one's mouth</dd><br>
-<dt>헐겁다 [헐겁따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>헐겁다 [헐겁따]</dt><br>
 <dd>1. loose; slack</dd><br>
 <dd>어떤 물건과 그것이 끼워질 자리가 꼭 맞지 않고 틈이 있다.</dd><br>
 <dd>A gap being made by a certain object not fitting into a hole when inserted into it.</dd><br>
 <dd>2. light; light-hearted</dd><br>
 <dd>가벼운 느낌이 들다.</dd><br>
 <dd>Feeling light.</dd><br>
-<dt>옅다 [엳따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옅다 [엳따]</dt><br>
 <dd>1. shallow</dd><br>
 <dd>물의 겉면이 밑바닥에 가깝다.</dd><br>
 <dd>The surface of water being close to the ground.</dd><br>
@@ -77,14 +77,14 @@
 <dd>9. low; faint; hushed</dd><br>
 <dd>소리가 높지 않고 보통보다 작다.</dd><br>
 <dd>For a sound being not high and smaller than the average.</dd><br>
-<dt>연하다 [연ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연하다 [연ː하다]</dt><br>
 <dd>1. soft; supple</dd><br>
 <dd>딱딱하거나 질기지 않고 부드럽다.</dd><br>
 <dd>Tender, neither hard nor tough.</dd><br>
 <dd>2. light; weak</dd><br>
 <dd>색이나 농도가 옅다.</dd><br>
 <dd>A color or color concentration being pale or low.</dd><br>
-<dt>어설프다 [어ː설프다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어설프다 [어ː설프다]</dt><br>
 <dd>1. awkward; slovenly; poor</dd><br>
 <dd>익숙하지 않아 엉성하고 서투르다.</dd><br>
 <dd>Imperfect and clumsy because one is not familiar with something.</dd><br>
@@ -100,7 +100,7 @@
 <dd>5. thin; light</dd><br>
 <dd>연기나 냄새 등이 짙거나 선명하지 않고 매우 연하다.</dd><br>
 <dd>Smoke, smell, etc., being very weak, not thick or strong.</dd><br>
-<dt>어렴풋하다 [어렴푸타다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어렴풋하다 [어렴푸타다]</dt><br>
 <dd>1. vague; faint</dd><br>
 <dd>기억이나 생각 등이 분명하지 않고 흐릿하다.</dd><br>
 <dd>One's memory, thought, etc., being dim, not distinct.</dd><br>
@@ -116,7 +116,7 @@
 <dd>5. vague; dim</dd><br>
 <dd>빛이 밝지 않고 희미하다.</dd><br>
 <dd>Light being not bright but dim.</dd><br>
-<dt>얇다 [얄ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>얇다 [얄ː따]</dt><br>
 <dd>1. thin</dd><br>
 <dd>두께가 두껍지 않다.</dd><br>
 <dd>Not thick.</dd><br>
@@ -129,7 +129,7 @@
 <dd>4. thin</dd><br>
 <dd>빤히 들여다보일 만큼 속이 좁다.</dd><br>
 <dd>One’s mind being so shallow as to be guessed easily.</dd><br>
-<dt>순하다 [순ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>순하다 [순ː하다]</dt><br>
 <dd>1. meek; mild; docile</dd><br>
 <dd>성질, 태도 등이 부드럽고 착하다.</dd><br>
 <dd>One's personality, attitude, etc., being gentle and good.</dd><br>
@@ -142,7 +142,7 @@
 <dd>4. smooth</dd><br>
 <dd>어렵지 않고 쉽다.</dd><br>
 <dd>Easy, not difficult.</dd><br>
-<dt>빤하다 [빤ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>빤하다 [빤ː하다]</dt><br>
 <dd>1. light; luminous</dd><br>
 <dd>어두운 곳에 밝은 빛이 비치어 조금 환하다.</dd><br>
 <dd>Slightly bright as a light shines in darkness.</dd><br>
@@ -152,7 +152,7 @@
 <dd>3. fixed; steady; intent</dd><br>
 <dd>바라보는 눈이 또렷하다.</dd><br>
 <dd>One's staring eyes being clear.</dd><br>
-<dt>부드럽다 [부드럽따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>부드럽다 [부드럽따]</dt><br>
 <dd>1. soft; smooth</dd><br>
 <dd>살갗에 닿는 느낌이 거칠거나 뻣뻣하지 않고 미끄럽다.</dd><br>
 <dd>Silky, not rough or stiff, to the touch.</dd><br>
@@ -171,7 +171,7 @@
 <dd>6. smooth; light</dd><br>
 <dd>술이 독하지 않아 목으로 넘기기 좋다.</dd><br>
 <dd>An alcoholic beverage being not strong so as to go down smoothly through the throat.</dd><br>
-<dt>밝다 [박따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>밝다 [박따]</dt><br>
 <dd>1. light; brilliant; luminous</dd><br>
 <dd>어떤 물체가 내는 빛이 환하다.</dd><br>
 <dd>The light emanating from something being bright.</dd><br>
@@ -202,7 +202,7 @@
 <dd>10. well acquainted with; familiar with</dd><br>
 <dd>어떤 일에 대하여 아는 것이 많다.</dd><br>
 <dd>Knowing a lot about something.</dd><br>
-<dt>말갛다 [말ː가타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>말갛다 [말ː가타]</dt><br>
 <dd>1. clear; crystal; limpid</dd><br>
 <dd>깨끗하고 맑다.</dd><br>
 <dd>Clean and clear.</dd><br>
@@ -212,7 +212,7 @@
 <dd>3. clear; pure</dd><br>
 <dd>표정이나 정신이 생기 있고 또렷하다.</dd><br>
 <dd>A person's face or spirit being lively and clear.</dd><br>
-<dt>경하다 [경하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>경하다 [경하다]</dt><br>
 <dd>1. imprudent; rash</dd><br>
 <dd>말이나 행동이 조심성이 없고 침착하지 못하다.</dd><br>
 <dd>Careless and nervous in speaking or behaving.</dd><br>
@@ -222,18 +222,18 @@
 <dd>3. trifling; light</dd><br>
 <dd>가치나 비중 등이 적어서 중요하지 않다.</dd><br>
 <dd>The value or proportion of something being too small to be important.</dd><br>
-<dt>경미하다 [경미하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>경미하다 [경미하다]</dt><br>
 <dd>slight; minor; light</dd><br>
 <dd>정도가 심하지 않고 가볍다.</dd><br>
 <dd>A degree being not serious but light.</dd><br>
-<dt>거뜬하다 [거뜬하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>거뜬하다 [거뜬하다]</dt><br>
 <dd>1. light; easy; simple</dd><br>
 <dd>다루기가 간편하고 손쉽다.</dd><br>
 <dd>Simple and easy to handle.</dd><br>
 <dd>2. cheerful; refreshed</dd><br>
 <dd>몸이나 마음이 가볍고 상쾌하다.</dd><br>
 <dd>One's body or feeling being light and refreshed.</dd><br>
-<dt>가뿐하다 [가뿐하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가뿐하다 [가뿐하다]</dt><br>
 <dd>1. light</dd><br>
 <dd>들기 어렵지 않을 정도로 무게가 가볍다.</dd><br>
 <dd>Light enough in weight to be easily lifted.</dd><br>
@@ -246,7 +246,7 @@
 <dd>4. feel relieved</dd><br>
 <dd>마음에 부담이 없이 가볍고 편하다.</dd><br>
 <dd>Feeling better and comfortable without a burden.</dd><br>
-<dt>가볍다 [가볍따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가볍다 [가볍따]</dt><br>
 <dd>1. light</dd><br>
 <dd>무게가 적다.</dd><br>
 <dd>Weighing little.</dd><br>
@@ -292,7 +292,7 @@
 <dd>15. light</dd><br>
 <dd>마음이 홀가분하고 즐겁다.</dd><br>
 <dd>Feeling light-hearted and pleasant.</dd><br>
-<dt>가뜬하다 [가뜬하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가뜬하다 [가뜬하다]</dt><br>
 <dd>1. light; easy-to-handle</dd><br>
 <dd>다루기가 가볍고 간편하다.</dd><br>
 <dd>Light and easy to lift or handle.</dd><br>
@@ -301,23 +301,23 @@
 <dd>Body or mind being light and refreshed.</dd><br>
 </li>
 <li><i>noun</i><br>
-<dt>조명등 [조ː명등]</dt><br>
+<dt><span>&#8227;&nbsp;</span>조명등 [조ː명등]</dt><br>
 <dd>light</dd><br>
 <dd>빛을 비추어 밝게 보이게 하는 데 쓰는 등.</dd><br>
 <dd>A light used to illuminate something to make it bright.</dd><br>
-<dt>전등불 [전ː등뿔]</dt><br>
+<dt><span>&#8227;&nbsp;</span>전등불 [전ː등뿔]</dt><br>
 <dd>light; lamp</dd><br>
 <dd>전등에 켜진 불.</dd><br>
 <dd>The illumination emanating from a light bulb.</dd><br>
-<dt>전등 [전ː등]</dt><br>
+<dt><span>&#8227;&nbsp;</span>전등 [전ː등]</dt><br>
 <dd>light; light bulb</dd><br>
 <dd>전기로 불을 밝히는 등.</dd><br>
 <dd>A light bulb that is powered by electricity.</dd><br>
-<dt>전깃불 [전ː기뿔 /전ː긷뿔]</dt><br>
+<dt><span>&#8227;&nbsp;</span>전깃불 [전ː기뿔 /전ː긷뿔]</dt><br>
 <dd>light</dd><br>
 <dd>전등에 켜진 불.</dd><br>
 <dd>The light from an electric light bulb.</dd><br>
-<dt>빛 [빋]</dt><br>
+<dt><span>&#8227;&nbsp;</span>빛 [빋]</dt><br>
 <dd>1. light</dd><br>
 <dd>해, 달, 전등, 불 등에서 나와 사물을 밝게 비추는 것.</dd><br>
 <dd>Rays that emanate from objects such as the sun or fire or an electric lamp and illuminate other objects and their surroundings.</dd><br>
@@ -339,14 +339,14 @@
 <dd>7. color</dd><br>
 <dd>((일부 명사 뒤에 붙어))‘빛깔’의 뜻을 나타내는 말.</dd><br>
 <dd>(after certain nouns) The word that means 'color.'</dd><br>
-<dt>불빛 [불삗]</dt><br>
+<dt><span>&#8227;&nbsp;</span>불빛 [불삗]</dt><br>
 <dd>1. firelight; glow</dd><br>
 <dd>타오르는 불의 빛.</dd><br>
 <dd>A light of burning fire.</dd><br>
 <dd>2. light; beam</dd><br>
 <dd>켜 놓은 불에서 나오는 빛.</dd><br>
 <dd>A ray emitted from a light that is turned on.</dd><br>
-<dt>불 [불]</dt><br>
+<dt><span>&#8227;&nbsp;</span>불 [불]</dt><br>
 <dd>1. fire</dd><br>
 <dd>물질이 빛과 열을 내며 타는 것.</dd><br>
 <dd>The act of a substance burning while emitting light and heat.</dd><br>
@@ -359,7 +359,7 @@
 <dd>4. fire</dd><br>
 <dd>(비유적으로) 불이 타는 듯이 열렬하고 거세게 타오르는 감정.</dd><br>
 <dd>(figurative) A passionate and strong feeling like a burning flame.</dd><br>
-<dt>등불 [등뿔]</dt><br>
+<dt><span>&#8227;&nbsp;</span>등불 [등뿔]</dt><br>
 <dd>1. lamp</dd><br>
 <dd>어두운 데를 밝히려고 등에 켠 불.</dd><br>
 <dd>Light lit in a lamp to light a dark place.</dd><br>
@@ -369,7 +369,7 @@
 <dd>3. light; hope</dd><br>
 <dd>(비유적으로) 앞날에 희망을 주는 존재.</dd><br>
 <dd>(figurative) A thing that gives hope for future.</dd><br>
-<dt>광명 [광명]</dt><br>
+<dt><span>&#8227;&nbsp;</span>광명 [광명]</dt><br>
 <dd>1. being light and bright</dd><br>
 <dd>밝고 환함.</dd><br>
 <dd>A compound noun meaning being light and bright.</dd><br>
@@ -379,7 +379,7 @@
 <dd>3. light</dd><br>
 <dd>불교에서, 부처나 보살의 몸에서 나는 빛.</dd><br>
 <dd>In Buddhism, a light from Buddha or Bodhisattva's body.</dd><br>
-<dt>광 [광]</dt><br>
+<dt><span>&#8227;&nbsp;</span>광 [광]</dt><br>
 <dd>1. shine; light</dd><br>
 <dd>해, 달, 전등, 불 등에서 나와 사물을 밝게 비추는 것.</dd><br>
 <dd>Something emitted by the sun, the moon, a lamp, a fire, etc., which illuminates things.</dd><br>
@@ -389,24 +389,24 @@
 <dd>3. gwang</dd><br>
 <dd>화투에서 점수가 이십 점짜리인 카드.</dd><br>
 <dd>A 20-point-card in hwatu game.</dd><br>
-<dt>경량급 [경냥끕]</dt><br>
+<dt><span>&#8227;&nbsp;</span>경량급 [경냥끕]</dt><br>
 <dd>lightweight; light</dd><br>
 <dd>선수의 몸무게에 따라 등급을 매겨서 하는 경기에서, 몸무게가 가벼운 편에 드는 등급.</dd><br>
 <dd>The class for a light-weighted player in a sports match that divides players by weight.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>켜다 [켜다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>켜다 [켜다]</dt><br>
 <dd>1. light; ignite; set</dd><br>
 <dd>등잔이나 양초 등에 불을 붙이거나 성냥이나 라이터 등으로 불을 일으키다.</dd><br>
 <dd>To light an oil lamp or candle, or to set a flame using a matchstick or lighter.</dd><br>
 <dd>2. turn on</dd><br>
 <dd>전기 제품 등을 작동하게 만들다.</dd><br>
 <dd>To make an electric appliance, etc., start working.</dd><br>
-<dt>지피다 [지피다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>지피다 [지피다]</dt><br>
 <dd>burn; light</dd><br>
 <dd>아궁이나 화로 등에 땔감을 넣어 불을 붙이다.</dd><br>
 <dd>To build a fire with firewood in a furnace, brazier, etc.</dd><br>
-<dt>조명하다 [조ː명하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>조명하다 [조ː명하다]</dt><br>
 <dd>1. light</dd><br>
 <dd>빛을 비추어 밝게 보이게 하다.</dd><br>
 <dd>To illuminate something to make it bright.</dd><br>
@@ -416,11 +416,11 @@
 <dd>3. light</dd><br>
 <dd>무대나 사진 촬영의 대상에 빛을 비추다.</dd><br>
 <dd>To illuminate a stage or a subject to be photographed.</dd><br>
-<dt>점화하다 [점화하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>점화하다 [점화하다]</dt><br>
 <dd>light; turn on</dd><br>
 <dd>불을 붙이거나 켜다.</dd><br>
 <dd>To kindle or light something.</dd><br>
-<dt>붙이다 [부치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>붙이다 [부치다]</dt><br>
 <dd>1. stick; paste</dd><br>
 <dd>무엇에 닿아서 떨어지지 않게 하다.</dd><br>
 <dd>To make something not come off somewhere.</dd><br>
@@ -490,7 +490,7 @@
 <dd>23. stay</dd><br>
 <dd>생활하거나 식사할 데를 임시로 정해 지내다.</dd><br>
 <dd>To have a fixed place to live or have meals for a while.</dd><br>
-<dt>밝히다 [발키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>밝히다 [발키다]</dt><br>
 <dd>1. light up; brighten up</dd><br>
 <dd>불이나 전등 등으로 어두운 곳을 환하게 하다.</dd><br>
 <dd>To light up a dark place with a torch, lamp, etc.</dd><br>
@@ -512,7 +512,7 @@
 <dd>7. give hope</dd><br>
 <dd>미래에 희망을 주다.</dd><br>
 <dd>To give hope for the future.</dd><br>
-<dt>던지다 [던지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>던지다 [던지다]</dt><br>
 <dd>1. throw</dd><br>
 <dd>손에 든 물건을 팔을 움직여 공중으로 내보내다.</dd><br>
 <dd>To move one's arm and throw the object in one's hand in the air.</dd><br>
@@ -549,7 +549,7 @@
 <dd>12. vote</dd><br>
 <dd>선거 등에서 표를 내다.</dd><br>
 <dd>To cast a vote in an election, etc.</dd><br>
-<dt>댕기다 [댕기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>댕기다 [댕기다]</dt><br>
 <dd>catch; light</dd><br>
 <dd>불이 옮아서 붙다. 또는 불을 붙게 하다.</dd><br>
 <dd>To catch fire; to light a fire.</dd><br>

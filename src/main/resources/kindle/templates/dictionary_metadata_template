@@ -9,10 +9,16 @@
 		<dc:creator>krdict.korean.go.kr</dc:creator>
 		<dc:creator>wordlist.aspell.net/12dicts</dc:creator>
 		<dc:creator>wordnet.princeton.edu</dc:creator>
+		<dc:creator>Extended Open Multilingual Wordnet</dc:creator>
 		<dc:creator>Marcin Chmielewski</dc:creator>
 		<dc:subject>Reference</dc:subject>
 		<dc:date>%s</dc:date>
-		<dc:source>https://krdict.korean.go.kr/eng/mainAction?nation=eng, http://wordlist.aspell.net/12dicts, https://wordnet.princeton.edu/</dc:source>
+		<dc:source>
+		https://krdict.korean.go.kr/eng/mainAction?nation=eng,
+		 http://wordlist.aspell.net/12dicts,
+		 https://wordnet.princeton.edu/,
+		 http://compling.hss.ntu.edu.sg/omw/summx.html
+		 </dc:source>
 	</dc-metadata>
 	<x-metadata>
         <output encoding="UTF-8" flatten-dynamic-dir="yes"/>
@@ -24,6 +30,7 @@
 <!-- list of all the files needed to produce the .prc file -->
 <manifest>
 <item href="acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml" />
+<item href="wordnetLicense.xhtml" id="wordnetLicense" media-type="application/xhtml+xml" />
 <item href="notes.xhtml" id="notes" media-type="application/xhtml+xml" />
 <item href="rel_notes.xhtml" id="rel_notes" media-type="application/xhtml+xml" />
 %s
@@ -32,6 +39,7 @@
 <!-- list of the html files in the correct order  -->
 <spine>
 <itemref idref="acknowledgements"/>
+<itemref idref="wordnetLicense"/>
 <itemref idref="notes"/>
 <itemref idref="rel_notes"/>
 %s

@@ -1,19 +1,19 @@
 <i>noun</i>: 포볼 [], 산책 [산ː책], 산보 [산ː뽀], 걸음 [거름] <i>verb</i>: 행보하다 [행보하다], 산책하다 [산ː채카다], 산보하다 [산ː뽀하다], 보행하다 [보ː행하다], 떼다 [떼ː다], 걸어오다 [거러오다], 걸어가다 [거러가다], 걸리다 [걸리다], 걷다 [걷ː따], 거닐다 [거ː닐다], 가다 [가다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>noun</i><br>
-<dt>포볼 []</dt><br>
+<dt><span>&#8227;&nbsp;</span>포볼 []</dt><br>
 <dd>walk</dd><br>
 <dd>야구에서 투수가 타자에게 스트라이크가 아닌 볼을 네 번 던지는 일.</dd><br>
 <dd>In baseball, the state in which the pitcher throws four non-strike balls to a hitter.</dd><br>
-<dt>산책 [산ː책]</dt><br>
+<dt><span>&#8227;&nbsp;</span>산책 [산ː책]</dt><br>
 <dd>walk; stroll</dd><br>
 <dd>잠깐 쉬거나 건강을 위해서 주변을 천천히 걷는 일.</dd><br>
 <dd>An act of walking slowly around a nearby place for rest or health.</dd><br>
-<dt>산보 [산ː뽀]</dt><br>
+<dt><span>&#8227;&nbsp;</span>산보 [산ː뽀]</dt><br>
 <dd>walk; stroll</dd><br>
 <dd>바람을 쐬거나 가벼운 운동을 하기 위해 멀지 않은 거리를 천천히 걷는 것.</dd><br>
 <dd>An act of walking leisurely to a nearby place for doing some light exercise or enjoying the fresh air.</dd><br>
-<dt>걸음 [거름]</dt><br>
+<dt><span>&#8227;&nbsp;</span>걸음 [거름]</dt><br>
 <dd>1. step; walk</dd><br>
 <dd>다리를 움직여 두 발을 번갈아 옮겨 놓는 동작.</dd><br>
 <dd>The act of moving legs and feet forward one after the other.</dd><br>
@@ -28,7 +28,7 @@
 <dd>The unit for counting the movement of two feet.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>행보하다 [행보하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>행보하다 [행보하다]</dt><br>
 <dd>1. walk; step</dd><br>
 <dd>걸음을 걷다.</dd><br>
 <dd>To take a step</dd><br>
@@ -41,19 +41,19 @@
 <dd>4. peddle; sell</dd><br>
 <dd>어떤 곳으로 장사하러 다니다.</dd><br>
 <dd>To go from place to place selling goods.</dd><br>
-<dt>산책하다 [산ː채카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>산책하다 [산ː채카다]</dt><br>
 <dd>walk; stroll</dd><br>
 <dd>잠깐 쉬거나 건강을 위해서 주변을 천천히 걷다.</dd><br>
 <dd>To walk slowly around a nearby place for rest or health.</dd><br>
-<dt>산보하다 [산ː뽀하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>산보하다 [산ː뽀하다]</dt><br>
 <dd>walk; stroll</dd><br>
 <dd>바람을 쐬거나 가벼운 운동을 하기 위해 멀지 않은 거리를 천천히 걷다.</dd><br>
 <dd>To walk in a leisurely manner to a nearby place in order to do some light exercise or enjoy the fresh air.</dd><br>
-<dt>보행하다 [보ː행하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>보행하다 [보ː행하다]</dt><br>
 <dd>walk</dd><br>
 <dd>걸어 다니다.</dd><br>
 <dd>To move on foot.</dd><br>
-<dt>떼다 [떼ː다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>떼다 [떼ː다]</dt><br>
 <dd>1. take off; detach; remove</dd><br>
 <dd>붙어 있거나 이어져 있는 것을 떨어지게 하다.</dd><br>
 <dd>To separate something attached or connected to each other.</dd><br>
@@ -90,7 +90,7 @@
 <dd>12. wean off</dd><br>
 <dd>성장 초기 단계에서 일상적으로 하던 일을 그치다.</dd><br>
 <dd>To stop doing something that was done daily at an early stage of development.</dd><br>
-<dt>걸어오다 [거러오다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>걸어오다 [거러오다]</dt><br>
 <dd>1. walk; come on foot</dd><br>
 <dd>목적지를 향하여 다리를 움직여서 이동하여 오다.</dd><br>
 <dd>To take a step forward in the direction of a destination.</dd><br>
@@ -100,7 +100,7 @@
 <dd>3. walk; tread; follow</dd><br>
 <dd>(비유적으로) 지내 오거나 발전하여 오다.</dd><br>
 <dd>(figurative) To follow a certain path or evolve.</dd><br>
-<dt>걸어가다 [거러가다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>걸어가다 [거러가다]</dt><br>
 <dd>1. walk; tread; stride</dd><br>
 <dd>목적지를 향하여 다리를 움직여 나아가다.</dd><br>
 <dd>To take a step forward in the direction of a destination.</dd><br>
@@ -110,11 +110,11 @@
 <dd>3. walk; tread; follow</dd><br>
 <dd>(비유적으로) 어떤 분야의 일을 계속해 나가거나, 운명적으로 주어진 과정을 거쳐 나가다.</dd><br>
 <dd>(figurative) For someone to continue to work in a certain field or go through a certain process destined for him/her.</dd><br>
-<dt>걸리다 [걸리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>걸리다 [걸리다]</dt><br>
 <dd>walk</dd><br>
 <dd>걷게 하다.</dd><br>
 <dd>To make someone walk.</dd><br>
-<dt>걷다 [걷ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>걷다 [걷ː따]</dt><br>
 <dd>1. walk</dd><br>
 <dd>바닥에서 발을 번갈아 떼어 옮기면서 움직여 위치를 옮기다.</dd><br>
 <dd>To lift one's feet, one foot at a time, from the ground and change their positions.</dd><br>
@@ -124,11 +124,11 @@
 <dd>3. hold; work</dd><br>
 <dd>어떤 직업에 종사하다.</dd><br>
 <dd>To engage in a certain profession.</dd><br>
-<dt>거닐다 [거ː닐다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>거닐다 [거ː닐다]</dt><br>
 <dd>walk; stroll</dd><br>
 <dd>가까운 거리를 이리저리 한가롭게 걷다.</dd><br>
 <dd>To walk about over a short distance in a leisurely manner.</dd><br>
-<dt>가다 [가다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가다 [가다]</dt><br>
 <dd>1. go; travel</dd><br>
 <dd>한 곳에서 다른 곳으로 장소를 이동하다.</dd><br>
 <dd>To move from one place to another place.</dd><br>

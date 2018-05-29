@@ -1,14 +1,14 @@
 <i>adjective</i>: 힘없다 [히멉따], 흐릿하다 [흐리타다], 흐리멍덩하다 [흐리멍덩하다], 은은하다 [으는하다], 옅다 [엳따], 엷다 [열ː따], 여리다 [여리다], 어찔하다 [어찔하다], 어슴푸레하다 [어슴푸레하다], 어렴풋하다 [어렴푸타다], 아련하다 [아련하다], 실낱같다 [실ː랃깓따], 몽롱하다 [몽농하다], 끄느름하다 [끄느름하다], 가늘다 [가늘다], 가녀리다 [가녀리다] <i>noun</i>: 졸도 [졸또] <i>verb</i>: 혼절하다 [혼절하다], 졸도하다 [졸또하다], 실신하다 [실씬하다], 까물까물하다 [까물까물하다], 까무러치다 [까무러치다], 기절하다 [기절하다], 가물대다 [가물대다], 가물거리다 [가물거리다], 가물가물하다 [가물가물하다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adjective</i><br>
-<dt>힘없다 [히멉따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>힘없다 [히멉따]</dt><br>
 <dd>1. weak; feeble; faint</dd><br>
 <dd>기운이나 의욕 등이 없다.</dd><br>
 <dd>Lacking energy or desire to do something.</dd><br>
 <dd>2. powerless; helpless</dd><br>
 <dd>힘이나 권세 등이 없다.</dd><br>
 <dd>Lacking power or authority, etc.</dd><br>
-<dt>흐릿하다 [흐리타다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>흐릿하다 [흐리타다]</dt><br>
 <dd>1. unclear; vague; indistinct</dd><br>
 <dd>뚜렷하지 않고 어렴풋하다.</dd><br>
 <dd>Being obscure, not clear.</dd><br>
@@ -24,7 +24,7 @@
 <dd>5. cloudy; foggy</dd><br>
 <dd>날씨가 맑지 않고 조금 흐리다.</dd><br>
 <dd>The weather not being clear, slightly dull.</dd><br>
-<dt>흐리멍덩하다 [흐리멍덩하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>흐리멍덩하다 [흐리멍덩하다]</dt><br>
 <dd>1. unclear; blurred</dd><br>
 <dd>정신이 맑지 않고 흐리다.</dd><br>
 <dd>One's mind being fuzzy, not being clear.</dd><br>
@@ -37,7 +37,7 @@
 <dd>4. dim; faint</dd><br>
 <dd>귀에 들리는 것이 분명하지 않고 희미하다.</dd><br>
 <dd>A sound, voice, etc., being obscure, not being clear.</dd><br>
-<dt>은은하다 [으는하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>은은하다 [으는하다]</dt><br>
 <dd>1. indistinct; delicate; dim</dd><br>
 <dd>겉으로 보이는 무엇이 뚜렷하게 드러나지 않고 희미하다.</dd><br>
 <dd>Vague, not appearing clearly.</dd><br>
@@ -47,7 +47,7 @@
 <dd>3. faint</dd><br>
 <dd>냄새나 맛이 진하거나 세지 않고 약하다.</dd><br>
 <dd>A smell, flavor, etc., being moderate, not strong.</dd><br>
-<dt>옅다 [엳따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옅다 [엳따]</dt><br>
 <dd>1. shallow</dd><br>
 <dd>물의 겉면이 밑바닥에 가깝다.</dd><br>
 <dd>The surface of water being close to the ground.</dd><br>
@@ -75,7 +75,7 @@
 <dd>9. low; faint; hushed</dd><br>
 <dd>소리가 높지 않고 보통보다 작다.</dd><br>
 <dd>For a sound being not high and smaller than the average.</dd><br>
-<dt>엷다 [열ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>엷다 [열ː따]</dt><br>
 <dd>1. thin</dd><br>
 <dd>두께가 적다.</dd><br>
 <dd>Small in thickness.</dd><br>
@@ -88,7 +88,7 @@
 <dd>4. faint</dd><br>
 <dd>있는 듯 없는 듯 가볍다.</dd><br>
 <dd>So weak as to be barely perceived.</dd><br>
-<dt>여리다 [여리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>여리다 [여리다]</dt><br>
 <dd>1. soft; delicate; tender</dd><br>
 <dd>단단하거나 질기지 않아 부드럽거나 약하다.</dd><br>
 <dd>Soft or weak, not hard or tough.</dd><br>
@@ -98,11 +98,11 @@
 <dd>3. feeble; faint</dd><br>
 <dd>빛이나 색, 소리 등이 약간 흐리거나 약하다.</dd><br>
 <dd>For light, a color, sound, etc., to be slightly dim or weak.</dd><br>
-<dt>어찔하다 [어찔하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어찔하다 [어찔하다]</dt><br>
 <dd>dizzy; faint</dd><br>
 <dd>갑자기 정신이 아득하고 어지럽다.</dd><br>
 <dd>Feeling hazy and giddy suddenly.</dd><br>
-<dt>어슴푸레하다 [어슴푸레하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어슴푸레하다 [어슴푸레하다]</dt><br>
 <dd>1. obscure; faint</dd><br>
 <dd>빛이 약하거나 희미하다.</dd><br>
 <dd>A light being weak or not bright.</dd><br>
@@ -112,7 +112,7 @@
 <dd>3. vague; faint</dd><br>
 <dd>기억이나 의식이 분명하지 않고 희미하다.</dd><br>
 <dd>One's memory or consciousness being dim, not clear.</dd><br>
-<dt>어렴풋하다 [어렴푸타다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어렴풋하다 [어렴푸타다]</dt><br>
 <dd>1. vague; faint</dd><br>
 <dd>기억이나 생각 등이 분명하지 않고 흐릿하다.</dd><br>
 <dd>One's memory, thought, etc., being dim, not distinct.</dd><br>
@@ -128,32 +128,32 @@
 <dd>5. vague; dim</dd><br>
 <dd>빛이 밝지 않고 희미하다.</dd><br>
 <dd>Light being not bright but dim.</dd><br>
-<dt>아련하다 [아련하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>아련하다 [아련하다]</dt><br>
 <dd>dim; faint; indistinct</dd><br>
 <dd>기억이나 생각 등이 또렷하지 않고 희미하다.</dd><br>
 <dd>For one's memory, thought, etc.,to be vague, not clear.</dd><br>
-<dt>실낱같다 [실ː랃깓따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>실낱같다 [실ː랃깓따]</dt><br>
 <dd>1. fine</dd><br>
 <dd>아주 가늘다.</dd><br>
 <dd>Very thin.</dd><br>
 <dd>2. faint</dd><br>
 <dd>목숨이나 희망 등이 가는 실같이 작고 보잘것없어 끊어지거나 사라질 듯하다.</dd><br>
 <dd>A life, hope, etc., being fragile and prone to vanish like a thin thread on the verge of breaking.</dd><br>
-<dt>몽롱하다 [몽농하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>몽롱하다 [몽농하다]</dt><br>
 <dd>1. dim; faint; vague</dd><br>
 <dd>뚜렷하게 보이지 않고 희미하다.</dd><br>
 <dd>Not being clearly visible and dim.</dd><br>
 <dd>2. muddled; being in a stupor</dd><br>
 <dd>정신이 뚜렷하지 않고 흐릿하다.</dd><br>
 <dd>One's mind being in a haze or in a fog.</dd><br>
-<dt>끄느름하다 [끄느름하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>끄느름하다 [끄느름하다]</dt><br>
 <dd>1. gloomy</dd><br>
 <dd>날이 흐려서 어둡다.</dd><br>
 <dd>Dark due to cloudy weather.</dd><br>
 <dd>2. feeble; faint</dd><br>
 <dd>햇빛이나 불이 약하다.</dd><br>
 <dd>The sunlight or fire being weak.</dd><br>
-<dt>가늘다 [가늘다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가늘다 [가늘다]</dt><br>
 <dd>1. thin</dd><br>
 <dd>물체의 너비가 좁거나 굵기가 얇으면서 길다.</dd><br>
 <dd>An object having a narrow width or being thin and long.</dd><br>
@@ -175,7 +175,7 @@
 <dd>7. slight</dd><br>
 <dd>움직이는 정도가 아주 약하다.</dd><br>
 <dd>A movement being very small.</dd><br>
-<dt>가녀리다 [가녀리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가녀리다 [가녀리다]</dt><br>
 <dd>1. slim; slender; fragile</dd><br>
 <dd>몸의 일부분이 몹시 가늘고 약하다.</dd><br>
 <dd>One's body being thin and weak.</dd><br>
@@ -184,25 +184,25 @@
 <dd>One's voice being very feeble and weak.</dd><br>
 </li>
 <li><i>noun</i><br>
-<dt>졸도 [졸또]</dt><br>
+<dt><span>&#8227;&nbsp;</span>졸도 [졸또]</dt><br>
 <dd>faint</dd><br>
 <dd>뇌의 혈액 순환에 문제가 생겨 갑자기 정신을 잃고 쓰러짐. 또는 그런 일.</dd><br>
 <dd>The act of suddenly losing consciousness and falling down due to a problem in cerebral blood circulation, or such incident.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>혼절하다 [혼절하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>혼절하다 [혼절하다]</dt><br>
 <dd>faint; pass out</dd><br>
 <dd>큰 충격이나 고통을 받아 갑자기 정신이 아득하고 어지러워 정신을 잃고 쓰러지다.</dd><br>
 <dd>To lose consciousness and collapse, feeling dizzy and dazed suddenly due to a great shock or pain.</dd><br>
-<dt>졸도하다 [졸또하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>졸도하다 [졸또하다]</dt><br>
 <dd>faint</dd><br>
 <dd>뇌의 혈액 순환에 문제가 생겨 갑자기 정신을 잃고 쓰러지다.</dd><br>
 <dd>To suddenly lose consciousness and fall down due to a problem in cerebral blood circulation.</dd><br>
-<dt>실신하다 [실씬하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>실신하다 [실씬하다]</dt><br>
 <dd>faint; black out; swoon</dd><br>
 <dd>병이나 충격 등으로 정신을 잃다.</dd><br>
 <dd>To lose consciousness due to a disease or shock.</dd><br>
-<dt>까물까물하다 [까물까물하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>까물까물하다 [까물까물하다]</dt><br>
 <dd>1. flicker; blink; glimmer; shimmer</dd><br>
 <dd>작고 약한 불빛이 사라질 듯 말 듯 자꾸 움직이다.</dd><br>
 <dd>To move in a manner of a small, dim light flicking as if it were about to go out.</dd><br>
@@ -212,15 +212,15 @@
 <dd>3. blur; faint</dd><br>
 <dd>의식이나 기억이 희미하게 되다.</dd><br>
 <dd>To become indistinct in a manner of a memory or consciousness fading away to the point of being hazy.</dd><br>
-<dt>까무러치다 [까무러치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>까무러치다 [까무러치다]</dt><br>
 <dd>faint; black out</dd><br>
 <dd>정신을 잃고 쓰러지다.</dd><br>
 <dd>To lose consciousness and collapse.</dd><br>
-<dt>기절하다 [기절하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>기절하다 [기절하다]</dt><br>
 <dd>collapse; faint</dd><br>
 <dd>심하게 놀라거나 충격을 받아 일시적으로 정신을 잃고 쓰러지다.</dd><br>
 <dd>To temporarily lose consciousness and collapse due to a great surprise or shock.</dd><br>
-<dt>가물대다 [가물대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가물대다 [가물대다]</dt><br>
 <dd>1. flicker; blink</dd><br>
 <dd>작고 약한 불빛이 사라질 듯 말 듯 희미하게 움직이다.</dd><br>
 <dd>To move in the manner of a small, dim light flicking as if it were about to go out.</dd><br>
@@ -230,7 +230,7 @@
 <dd>3. blur; faint</dd><br>
 <dd>의식이나 기억 등이 희미하게 되다.</dd><br>
 <dd>To become indistinct in the manner of a memory or consciousness fading away to the point of being hazy.</dd><br>
-<dt>가물거리다 [가물거리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가물거리다 [가물거리다]</dt><br>
 <dd>1. flicker; blink</dd><br>
 <dd>작고 약한 불빛이 사라질 듯 말 듯 희미하게 움직이다.</dd><br>
 <dd>To move in the manner of a small, dim light flicking as if it were about to go out.</dd><br>
@@ -243,7 +243,7 @@
 <dd>4. linger; hang around</dd><br>
 <dd>자꾸 생각나고 잊히지 않다.</dd><br>
 <dd>For a thing or person to be unforgotten, coming to one's mind repeatedly.</dd><br>
-<dt>가물가물하다 [가물가물하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가물가물하다 [가물가물하다]</dt><br>
 <dd>1. flicker; blink</dd><br>
 <dd>작고 약한 불빛이 사라질 듯 말 듯 자꾸 움직이다.</dd><br>
 <dd>To move in the manner of a small, dim light flicking as if it were about to go out.</dd><br>

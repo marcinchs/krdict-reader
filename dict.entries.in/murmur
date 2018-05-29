@@ -1,17 +1,17 @@
 <i>noun</i>: 입속말 [입쏭말], 넋두리 [넉뚜리] <i>verb</i>: 응얼응얼하다 [응어릉얼하다], 응얼대다 [응얼대다], 응얼거리다 [응얼거리다], 웅얼웅얼하다 [웅얼웅얼하다], 웅얼대다 [웅얼대다], 웅얼거리다 [웅얼거리다], 우물우물하다 [우물우물하다], 우물대다 [우물대다], 우물거리다 [우물거리다], 옹알옹알하다 [옹알옹알하다], 옹알대다 [옹알대다], 옹알거리다 [옹알거리다], 오물오물하다 [오물오물하다], 오물대다 [오물대다], 오물거리다 [오물거리다], 넋두리하다 [넉뚜리하다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>noun</i><br>
-<dt>입속말 [입쏭말]</dt><br>
+<dt><span>&#8227;&nbsp;</span>입속말 [입쏭말]</dt><br>
 <dd>murmur; mumble</dd><br>
 <dd>남이 알아듣지 못하게 입 속으로 작고 낮은 목소리로 혼자 하는 말.</dd><br>
 <dd>A low and instinct utterance that a person makes with his/her mouth partly closed so as to keep others from listening.</dd><br>
-<dt>넋두리 [넉뚜리]</dt><br>
+<dt><span>&#8227;&nbsp;</span>넋두리 [넉뚜리]</dt><br>
 <dd>complaint; grumble; murmur</dd><br>
 <dd>자기의 처지나 신세를 하소연하며 길게 늘어놓는 말.</dd><br>
 <dd>A long statement, complaining about one's status or situation.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>응얼응얼하다 [응어릉얼하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>응얼응얼하다 [응어릉얼하다]</dt><br>
 <dd>1. murmur</dd><br>
 <dd>글이나 노래 등을 입속으로 중얼거리듯이 자꾸 읽거나 부르다.</dd><br>
 <dd>To continuously read or sing in an indistinct voice.</dd><br>
@@ -21,7 +21,7 @@
 <dd>3. grumble</dd><br>
 <dd>불평을 입속으로 혼자 중얼거리다.</dd><br>
 <dd>To say one's complaints to oneself in an indistinct voice.</dd><br>
-<dt>응얼대다 [응얼대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>응얼대다 [응얼대다]</dt><br>
 <dd>1. murmur</dd><br>
 <dd>글이나 노래 등을 입속으로 중얼거리듯이 자꾸 읽거나 부르다.</dd><br>
 <dd>To continuously read or sing in an indistinct voice.</dd><br>
@@ -31,7 +31,7 @@
 <dd>3. grumble</dd><br>
 <dd>불평을 입속으로 혼자 중얼거리다.</dd><br>
 <dd>To say one's complaints to oneself in an indistinct voice.</dd><br>
-<dt>응얼거리다 [응얼거리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>응얼거리다 [응얼거리다]</dt><br>
 <dd>1. murmur</dd><br>
 <dd>글이나 노래 등을 입속으로 중얼거리듯이 자꾸 읽거나 부르다.</dd><br>
 <dd>To continuously read or sing in an indistinct voice.</dd><br>
@@ -41,19 +41,19 @@
 <dd>3. grumble</dd><br>
 <dd>불평을 입속으로 혼자 중얼거리다.</dd><br>
 <dd>To say one's complaints to oneself in an indistinct voice.</dd><br>
-<dt>웅얼웅얼하다 [웅얼웅얼하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>웅얼웅얼하다 [웅얼웅얼하다]</dt><br>
 <dd>mutter; murmur; grumble</dd><br>
 <dd>작고 낮은 목소리로 분명하지 않게 혼잣말을 자꾸 하다.</dd><br>
 <dd>To talk to oneself in a low and small voice so that others cannot hear.</dd><br>
-<dt>웅얼대다 [웅얼대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>웅얼대다 [웅얼대다]</dt><br>
 <dd>mutter; murmur; grumble</dd><br>
 <dd>작고 낮은 목소리로 남한테 잘 들리지 않게 혼잣말을 자꾸 하다.</dd><br>
 <dd>To talk to oneself in a low and small voice so that others cannot hear.</dd><br>
-<dt>웅얼거리다 [웅얼거리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>웅얼거리다 [웅얼거리다]</dt><br>
 <dd>mutter; murmur; grumble</dd><br>
 <dd>작고 낮은 목소리로 남한테 잘 들리지 않게 혼잣말을 자꾸 하다.</dd><br>
 <dd>To talk to oneself in a low and small voice so that others cannot hear.</dd><br>
-<dt>우물우물하다 [우물우물하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>우물우물하다 [우물우물하다]</dt><br>
 <dd>1. mumble; murmur</dd><br>
 <dd>말을 분명하게 하지 않고 입 안에서 자꾸 중얼거리다.</dd><br>
 <dd>To keep talking indistinctly as if muttering.</dd><br>
@@ -66,7 +66,7 @@
 <dd>4. hesitate</dd><br>
 <dd>행동을 제대로 하지 못하고 자꾸 머뭇거리다.</dd><br>
 <dd>To act in an uncertain or hesitant manner.</dd><br>
-<dt>우물대다 [우물대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>우물대다 [우물대다]</dt><br>
 <dd>1. mumble; murmur</dd><br>
 <dd>말을 분명하게 하지 않고 입 안에서 중얼거리다.</dd><br>
 <dd>To talk indistinctly as if muttering.</dd><br>
@@ -79,7 +79,7 @@
 <dd>4. hesitate</dd><br>
 <dd>행동을 제대로 하지 못하고 머뭇거리다.</dd><br>
 <dd>To act in an uncertain or hesitant manner.</dd><br>
-<dt>우물거리다 [우물거리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>우물거리다 [우물거리다]</dt><br>
 <dd>1. mumble; murmur</dd><br>
 <dd>말을 분명하게 하지 않고 입 안에서 중얼거리다.</dd><br>
 <dd>To talk indistinctly as if muttering.</dd><br>
@@ -92,28 +92,28 @@
 <dd>4. hesitate</dd><br>
 <dd>행동을 제대로 하지 못하고 머뭇거리다.</dd><br>
 <dd>To act in an uncertain or hesitant manner.</dd><br>
-<dt>옹알옹알하다 [옹알옹알하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옹알옹알하다 [옹알옹알하다]</dt><br>
 <dd>1. mutter; murmur</dd><br>
 <dd>작고 낮은 목소리로 남이 알아듣지 못하게 중얼거리다.</dd><br>
 <dd>To mumble in a small, low voice so that other people cannot understand.</dd><br>
 <dd>2. gurgle</dd><br>
 <dd>아직 말을 하지 못하는 아기가 분명하지 않은 말소리를 자꾸 내다.</dd><br>
 <dd>For a baby that cannot speak yet to constantly make unclear sounds.</dd><br>
-<dt>옹알대다 [옹알대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옹알대다 [옹알대다]</dt><br>
 <dd>1. mutter; murmur</dd><br>
 <dd>작고 낮은 목소리로 남이 알아듣지 못하게 중얼대다.</dd><br>
 <dd>To mumble in a small, low voice so that other people cannot understand.</dd><br>
 <dd>2. gurgle</dd><br>
 <dd>아직 말을 하지 못하는 아기가 분명하지 않은 말소리를 자꾸 내다.</dd><br>
 <dd>For a baby that cannot speak yet to constantly make unclear sounds.</dd><br>
-<dt>옹알거리다 [옹알거리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옹알거리다 [옹알거리다]</dt><br>
 <dd>1. mutter; murmur</dd><br>
 <dd>작고 낮은 목소리로 남이 알아듣지 못하게 중얼거리다.</dd><br>
 <dd>To mumble in a small, low voice so that other people cannot understand.</dd><br>
 <dd>2. gurgle</dd><br>
 <dd>아직 말을 하지 못하는 아기가 분명하지 않은 말소리를 자꾸 내다.</dd><br>
 <dd>For a baby that cannot speak yet to constantly make unclear sounds.</dd><br>
-<dt>오물오물하다 [오물오물하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>오물오물하다 [오물오물하다]</dt><br>
 <dd>1. mumble; murmur</dd><br>
 <dd>말을 분명하게 하지 않고 입 안에서 자꾸 중얼거리다.</dd><br>
 <dd>To talk indistinctly as if muttering.</dd><br>
@@ -126,7 +126,7 @@
 <dd>4. hesitate</dd><br>
 <dd>행동을 분명하게 하지 않거나 약간 머뭇거리다.</dd><br>
 <dd>To act in an uncertain or hesitant manner.</dd><br>
-<dt>오물대다 [오물대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>오물대다 [오물대다]</dt><br>
 <dd>1. mumble; murmur</dd><br>
 <dd>말을 분명하게 하지 않고 입 안에서 중얼거리다.</dd><br>
 <dd>To talk indistinctly as if muttering.</dd><br>
@@ -139,7 +139,7 @@
 <dd>4. hesitate</dd><br>
 <dd>행동을 분명하게 하지 않거나 머뭇거리다.</dd><br>
 <dd>To act in an uncertain or hesitant manner.</dd><br>
-<dt>오물거리다 [오물거리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>오물거리다 [오물거리다]</dt><br>
 <dd>1. mumble; murmur</dd><br>
 <dd>말을 분명하게 하지 않고 입 안에서 중얼거리다.</dd><br>
 <dd>To talk indistinctly as if muttering.</dd><br>
@@ -152,7 +152,7 @@
 <dd>4. hesitate</dd><br>
 <dd>행동을 분명하게 하지 않거나 머뭇거리다.</dd><br>
 <dd>To act in an uncertain or hesitant manner.</dd><br>
-<dt>넋두리하다 [넉뚜리하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>넋두리하다 [넉뚜리하다]</dt><br>
 <dd>complain; grumble; murmur</dd><br>
 <dd>자기의 처지나 신세를 하소연하며 길게 말을 늘어놓다.</dd><br>
 <dd>To make a long statement, complaining about one's status or situation.</dd><br>

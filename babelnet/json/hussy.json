@@ -1,0 +1,679 @@
+[
+  {
+    "id": {
+      "id": "bn:00001542n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "adulteress",
+        "simpleLemma": "adulteress",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00001542n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 18704662
+      },
+      {
+        "fullLemma": "fornicatress",
+        "simpleLemma": "fornicatress",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00001542n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 18704772
+      },
+      {
+        "fullLemma": "느슨한_여자",
+        "simpleLemma": "느슨한_여자",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00001542n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 18704664
+      },
+      {
+        "fullLemma": "매춘부",
+        "simpleLemma": "매춘부",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00001542n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 18704577
+      },
+      {
+        "fullLemma": "반짇고리",
+        "simpleLemma": "반짇고리",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00001542n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 18704728
+      }
+    ],
+    "domains": {},
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "07064761n"
+          ],
+          "2.0": [
+            "09153287n"
+          ],
+          "2.1": [
+            "09629601n"
+          ],
+          "1.5": [
+            "05922387n"
+          ],
+          "1.7": [
+            "08030947n"
+          ],
+          "3.0": [
+            "09772930n"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:09772930n",
+        "pos": "NOUN",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "18704573",
+        "language": "EN",
+        "gloss": "A woman adulterer",
+        "tokens": [
+          {
+            "start": 2,
+            "end": 6,
+            "id": {
+              "id": "bn:00001530n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "woman"
+          },
+          {
+            "start": 8,
+            "end": 16,
+            "id": {
+              "id": "bn:00001541n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "adulterer"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "18704810",
+        "language": "EN",
+        "gloss": "A woman.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "18704813",
+        "language": "EN",
+        "gloss": "A female adulterer.",
+        "tokens": [
+          {
+            "start": 9,
+            "end": 17,
+            "id": {
+              "id": "bn:00001541n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "adulterer"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "18704814",
+        "language": "EN",
+        "gloss": "A bold, outspoken woman.",
+        "tokens": [
+          {
+            "start": 18,
+            "end": 22,
+            "id": {
+              "id": "bn:00001530n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "woman"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "18704819",
+        "language": "EN",
+        "gloss": "A woman guilty of fornication.",
+        "tokens": [
+          {
+            "start": 2,
+            "end": 6,
+            "id": {
+              "id": "bn:00001530n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "woman"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "18704820",
+        "language": "EN",
+        "gloss": "A sexually promiscuous woman; a prostitute.",
+        "tokens": [
+          {
+            "start": 23,
+            "end": 27,
+            "id": {
+              "id": "bn:00001530n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "woman"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "18704821",
+        "language": "EN",
+        "gloss": "A woman held by others as retaining a vulgar and discourteous disposition.",
+        "tokens": [
+          {
+            "start": 2,
+            "end": 6,
+            "id": {
+              "id": "bn:00001530n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "woman"
+          }
+        ]
+      }
+    ],
+    "examples": [],
+    "images": [
+      {
+        "name": "Pompeii-wall_painting.jpg#OMWIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "OMWIKI",
+        "license": "CC_BY_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pompeii-wall_painting.jpg/200px-Pompeii-wall_painting.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pompeii-wall_painting.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Prostitution_Info_Centre.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Prostitution_Info_Centre.jpg/200px-Prostitution_Info_Centre.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Prostitution_Info_Centre.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Prostitution_laws_of_the_world.PNG#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prostitution_laws_of_the_world.PNG/200px-Prostitution_laws_of_the_world.PNG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Prostitution_laws_of_the_world.PNG",
+        "badImage": false
+      },
+      {
+        "name": "Sexual_orientation_-_4_symbols.svg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sexual_orientation_-_4_symbols.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sexual_orientation_-_4_symbols.svg",
+        "badImage": false
+      },
+      {
+        "name": "1537_Braunschweiger_Monogrammist_Bordellszene_anagoria.JPG#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1537_Braunschweiger_Monogrammist_Bordellszene_anagoria.JPG/200px-1537_Braunschweiger_Monogrammist_Bordellszene_anagoria.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/1537_Braunschweiger_Monogrammist_Bordellszene_anagoria.JPG",
+        "badImage": false
+      },
+      {
+        "name": "10.3010_Torino-nightlife.v2.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/10.3010_Torino-nightlife.v2.jpg/200px-10.3010_Torino-nightlife.v2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/10.3010_Torino-nightlife.v2.jpg",
+        "badImage": false
+      },
+      {
+        "name": "1787-prostitutes-caricature.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/1787-prostitutes-caricature.jpg/200px-1787-prostitutes-caricature.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/1787-prostitutes-caricature.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Griechen31.png#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Griechen31.png/200px-Griechen31.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Griechen31.png",
+        "badImage": false
+      },
+      {
+        "name": "EN_BESKYTTERINDE_AF_INDUSTRIEN.gif#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EN_BESKYTTERINDE_AF_INDUSTRIEN.gif/200px-EN_BESKYTTERINDE_AF_INDUSTRIEN.gif",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/EN_BESKYTTERINDE_AF_INDUSTRIEN.gif",
+        "badImage": false
+      },
+      {
+        "name": "Amsterdam_red_light_district.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amsterdam_red_light_district.jpg/200px-Amsterdam_red_light_district.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Amsterdam_red_light_district.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Étienne_Jeaurat_001.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C3%89tienne_Jeaurat_001.jpg/200px-%C3%89tienne_Jeaurat_001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%C3%89tienne_Jeaurat_001.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Sex_worker_statue_Oudekerksplein_Amsterdam.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sex_worker_statue_Oudekerksplein_Amsterdam.jpg/200px-Sex_worker_statue_Oudekerksplein_Amsterdam.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sex_worker_statue_Oudekerksplein_Amsterdam.jpg",
+        "badImage": false
+      },
+      {
+        "name": "82_Yoshiwara_Girls.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/82_Yoshiwara_Girls.jpg/200px-82_Yoshiwara_Girls.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/82_Yoshiwara_Girls.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Dirck_van_Baburen_-_The_Procuress_-_Google_Art_Project.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dirck_van_Baburen_-_The_Procuress_-_Google_Art_Project.jpg/200px-Dirck_van_Baburen_-_The_Procuress_-_Google_Art_Project.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dirck_van_Baburen_-_The_Procuress_-_Google_Art_Project.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Prostitutoin_Adverts.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prostitutoin_Adverts.jpg/200px-Prostitutoin_Adverts.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Prostitutoin_Adverts.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Koceks_-_Surname-i_Vehbi.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Koceks_-_Surname-i_Vehbi.jpg/200px-Koceks_-_Surname-i_Vehbi.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Koceks_-_Surname-i_Vehbi.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Hogarth-Harlot-1_crop.png#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hogarth-Harlot-1_crop.png/200px-Hogarth-Harlot-1_crop.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Hogarth-Harlot-1_crop.png",
+        "badImage": false
+      },
+      {
+        "name": "Phone_box_prostitute_calling_cards_1_crop.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Phone_box_prostitute_calling_cards_1_crop.jpg/200px-Phone_box_prostitute_calling_cards_1_crop.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Phone_box_prostitute_calling_cards_1_crop.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Soi_Cowboy_night.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Soi_Cowboy_night.jpg/200px-Soi_Cowboy_night.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Soi_Cowboy_night.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Suzuki_Haronubu_oiran_ukiyo-e.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Suzuki_Haronubu_oiran_ukiyo-e.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Suzuki_Haronubu_oiran_ukiyo-e.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Toulouse-Lautrec_Prostitutes_DMA.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Toulouse-Lautrec_Prostitutes_DMA.jpg/200px-Toulouse-Lautrec_Prostitutes_DMA.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Toulouse-Lautrec_Prostitutes_DMA.jpg",
+        "badImage": false
+      },
+      {
+        "name": "The_White_Slave_statue.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_White_Slave_statue.jpg/200px-The_White_Slave_statue.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_White_Slave_statue.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Pompeii-wall_painting.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pompeii-wall_painting.jpg/200px-Pompeii-wall_painting.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pompeii-wall_painting.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_6#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm1.static.flickr.com/136/362266486_fbebc60992.jpg",
+        "url": "http://farm1.static.flickr.com/136/362266486_fbebc60992.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_7#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://s2.buzzfeed.com/static/imagebuzz/web02/2009/8/17/8/girls-like-this-naturally-to-be-slut-sexy-girls-26874-1250512790-9.jpg",
+        "url": "http://s2.buzzfeed.com/static/imagebuzz/web02/2009/8/17/8/girls-like-this-naturally-to-be-slut-sexy-girls-26874-1250512790-9.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_3#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm4.static.flickr.com/3206/2480173421_c483e1a1c4.jpg",
+        "url": "http://farm4.static.flickr.com/3206/2480173421_c483e1a1c4.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_4#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm4.static.flickr.com/3030/3063544301_2908ce3d19.jpg",
+        "url": "http://farm4.static.flickr.com/3030/3063544301_2908ce3d19.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_9#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm1.static.flickr.com/69/158142133_ad92253338.jpg",
+        "url": "http://farm1.static.flickr.com/69/158142133_ad92253338.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_1#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm3.static.flickr.com/2796/4280263061_f5c4d23520.jpg",
+        "url": "http://farm3.static.flickr.com/2796/4280263061_f5c4d23520.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_8#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm4.static.flickr.com/3053/3091924671_bdae90e14e.jpg",
+        "url": "http://farm4.static.flickr.com/3053/3091924671_bdae90e14e.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_2#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm3.static.flickr.com/2045/2478998829_993b8f7ca8.jpg",
+        "url": "http://farm3.static.flickr.com/2045/2478998829_993b8f7ca8.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_0#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm3.static.flickr.com/2086/2304324242_0e2b07fcc3.jpg",
+        "url": "http://farm3.static.flickr.com/2086/2304324242_0e2b07fcc3.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09772930n_5#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm1.static.flickr.com/160/343395840_23ccf0d81f.jpg",
+        "url": "http://farm1.static.flickr.com/160/343395840_23ccf0d81f.jpg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "Casual_sex",
+        "language": "EN"
+      },
+      {
+        "category": "Human_sexuality",
+        "language": "EN"
+      },
+      {
+        "category": "Illegal_occupations",
+        "language": "EN"
+      },
+      {
+        "category": "Occupations",
+        "language": "EN"
+      },
+      {
+        "category": "Organized_crime_activity",
+        "language": "EN"
+      },
+      {
+        "category": "Prostitution",
+        "language": "EN"
+      },
+      {
+        "category": "Sex_industry",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  }
+]

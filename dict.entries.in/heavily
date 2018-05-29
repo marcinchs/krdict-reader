@@ -1,7 +1,7 @@
 <i>adverb</i>: 푹푹 [푹푹], 푹 [푹], 폭폭 [폭폭], 폭삭 [폭싹], 펑펑 [펑펑], 팡팡 [팡팡], 팍팍 [팍팍], 털썩털썩 [털썩털썩], 주룩주룩 [주룩쭈룩], 저벅저벅 [저벅쩌벅], 잔뜩 [잔뜩], 물씬물씬 [물씬물씬], 물씬 [물씬], 더덕더덕 [더덕떠덕] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adverb</i><br>
-<dt>푹푹 [푹푹]</dt><br>
+<dt><span>&#8227;&nbsp;</span>푹푹 [푹푹]</dt><br>
 <dd>1. enough; well</dd><br>
 <dd>충분히 익을 정도로 몹시 끓이거나 삶는 모양.</dd><br>
 <dd>A word describing an act of boiling or steaming something until it is completely cooked.</dd><br>
@@ -38,7 +38,7 @@
 <dd>12. greatly</dd><br>
 <dd>분량이 자꾸 많이 줄어들거나 없어지는 모양.</dd><br>
 <dd>A word describing the quantity of something being repeatedly and greatly reduced or disappearing.</dd><br>
-<dt>푹 [푹]</dt><br>
+<dt><span>&#8227;&nbsp;</span>푹 [푹]</dt><br>
 <dd>1. soundly</dd><br>
 <dd>잠이 깊이 들거나 피곤한 몸을 충분히 편하게 쉬는 모양.</dd><br>
 <dd>A word describing an act of falling asleep or taking a good rest to recover from fatigue.</dd><br>
@@ -78,7 +78,7 @@
 <dd>13. completely</dd><br>
 <dd>가루나 먼지 등이 꽤 많이 덮인 모양.</dd><br>
 <dd>A word describing the state of something being covered with much powder, dust, etc.</dd><br>
-<dt>폭폭 [폭폭]</dt><br>
+<dt><span>&#8227;&nbsp;</span>폭폭 [폭폭]</dt><br>
 <dd>1. enough; well</dd><br>
 <dd>푹 익을 정도로 오랫동안 끓이거나 삶는 모양.</dd><br>
 <dd>A word describing an act of boiling or steaming something until it is completely cooked.</dd><br>
@@ -109,7 +109,7 @@
 <dd>10. with a deep breath</dd><br>
 <dd>숨을 크게 내쉬는 모양.</dd><br>
 <dd>A word describing an act of strongly breathing out.</dd><br>
-<dt>폭삭 [폭싹]</dt><br>
+<dt><span>&#8227;&nbsp;</span>폭삭 [폭싹]</dt><br>
 <dd>1. completely; easily</dd><br>
 <dd>매우 엉성한 물건이 부드럽게 가라앉거나 쉽게 부서지는 모양.</dd><br>
 <dd>A word describing an act of a very flimsy object smoothly collapsing or being broken easily.</dd><br>
@@ -134,7 +134,7 @@
 <dd>8. completely</dd><br>
 <dd>집안이 완전히 망해 버린 모양.</dd><br>
 <dd>A word describing the state of a family going completely bankrupt or being ruined.</dd><br>
-<dt>펑펑 [펑펑]</dt><br>
+<dt><span>&#8227;&nbsp;</span>펑펑 [펑펑]</dt><br>
 <dd>1. with a gush</dd><br>
 <dd>물이나 액체가 약간 넓은 구멍으로 세차게 쏟아져 나오는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when water or liquid pours out strongly through a little wide hole, or describing such a scene.</dd><br>
@@ -147,7 +147,7 @@
 <dd>4. shamelessly</dd><br>
 <dd>거짓말이나 허풍을 떠는 말을 함부로 하는 모양.</dd><br>
 <dd>A word describing an act of telling a lie or exaggerating without thinking.</dd><br>
-<dt>팡팡 [팡팡]</dt><br>
+<dt><span>&#8227;&nbsp;</span>팡팡 [팡팡]</dt><br>
 <dd>1. with a gush</dd><br>
 <dd>물이나 액체가 약간 좁은 구멍으로 세차게 쏟아져 나오는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when water or liquid pours out strongly through a slightly wide hole, or describing such a scene.</dd><br>
@@ -157,7 +157,7 @@
 <dd>3. not sparingly</dd><br>
 <dd>돈이나 물 등을 아끼지 않고 함부로 쓰는 모양.</dd><br>
 <dd>A word describing an act of spending money, using water, etc., without thinking.</dd><br>
-<dt>팍팍 [팍팍]</dt><br>
+<dt><span>&#8227;&nbsp;</span>팍팍 [팍팍]</dt><br>
 <dd>1. out loud</dd><br>
 <dd>잇따라 힘 있게 내지르는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when one yells suddenly and strongly, or describing such a scene.</dd><br>
@@ -176,7 +176,7 @@
 <dd>6. densely</dd><br>
 <dd>가루나 연기를 잇따라 뿜는 모양.</dd><br>
 <dd>A word describing the state of someone or something continuously letting out powder or smoke.</dd><br>
-<dt>털썩털썩 [털썩털썩]</dt><br>
+<dt><span>&#8227;&nbsp;</span>털썩털썩 [털썩털썩]</dt><br>
 <dd>1. heavily</dd><br>
 <dd>여럿이 갑자기 힘없이 주저앉거나 쓰러지는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when people sit down suddenly and heavily, or describing such a scene.</dd><br>
@@ -189,15 +189,15 @@
 <dd>4. with a jolt</dd><br>
 <dd>크고 두툼한 물건이 자꾸 세게 움직이는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when big and thick objects keep moving strongly, or describing such a scene.</dd><br>
-<dt>주룩주룩 [주룩쭈룩]</dt><br>
+<dt><span>&#8227;&nbsp;</span>주룩주룩 [주룩쭈룩]</dt><br>
 <dd>hard; heavily; profusely</dd><br>
 <dd>많은 양의 비나 물 등이 빠르게 자꾸 흐르는 소리. 또는 그 모양.</dd><br>
 <dd>With a sound resembling one that is produced when a large amount of rain or water falls down quickly and continuously, or such an action.</dd><br>
-<dt>저벅저벅 [저벅쩌벅]</dt><br>
+<dt><span>&#8227;&nbsp;</span>저벅저벅 [저벅쩌벅]</dt><br>
 <dd>heavily</dd><br>
 <dd>발을 무겁게 내디디며 자꾸 걷는 소리. 또는 그 모양.</dd><br>
 <dd>With a sound produced when one keeps walking with heavy steps, or such a way of walking.</dd><br>
-<dt>잔뜩 [잔뜩]</dt><br>
+<dt><span>&#8227;&nbsp;</span>잔뜩 [잔뜩]</dt><br>
 <dd>1. full; fully; to capacity</dd><br>
 <dd>한계에 이를 때까지 가득.</dd><br>
 <dd>To the full until something reaches the limit.</dd><br>
@@ -207,21 +207,21 @@
 <dd>3. heavily; extremely; intensely</dd><br>
 <dd>더할 수 없이 심하게.</dd><br>
 <dd>To an extreme degree.</dd><br>
-<dt>물씬물씬 [물씬물씬]</dt><br>
+<dt><span>&#8227;&nbsp;</span>물씬물씬 [물씬물씬]</dt><br>
 <dd>1. heavily</dd><br>
 <dd>냄새나 기운이 갑자기 자꾸 심하게 풍기거나 느껴지는 모양.</dd><br>
 <dd>A word describing a smell or energy forming or feeling suddenly, repeatedly, and strongly.</dd><br>
 <dd>2. continuously</dd><br>
 <dd>김이나 연기, 먼지 등이 자꾸 피어오르는 모양.</dd><br>
 <dd>A word describing steam, smoke, dust, etc., rising repeatedly.</dd><br>
-<dt>물씬 [물씬]</dt><br>
+<dt><span>&#8227;&nbsp;</span>물씬 [물씬]</dt><br>
 <dd>1. heavily</dd><br>
 <dd>냄새나 기운이 갑자기 심하게 풍기거나 느껴지는 모양.</dd><br>
 <dd>A word describing a smell or energy forming or feeling suddenly and strongly.</dd><br>
 <dd>2. suddenly</dd><br>
 <dd>김이나 연기, 먼지 등이 갑자기 피어오르는 모양.</dd><br>
 <dd>A word describing steam, smoke, dust, etc., rising suddenly.</dd><br>
-<dt>더덕더덕 [더덕떠덕]</dt><br>
+<dt><span>&#8227;&nbsp;</span>더덕더덕 [더덕떠덕]</dt><br>
 <dd>1. in clusters; closely</dd><br>
 <dd>조그마한 것들이 한곳에 많이 지저분하게 붙어 있는 모양.</dd><br>
 <dd>In a state in which a large number of small things are attached to something in a messy concentration.</dd><br>

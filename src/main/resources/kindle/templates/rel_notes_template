@@ -7,9 +7,11 @@
 </head>
 <body>
 <p>Release notes</p>
-<p>%s contains %s entries.</p>
+<br/>
+<p>%s contains %s entries (including %s from Extended Open Multilingual Wordnet ).</p>
 <p>Number of translations: %s</p>
 <p>File built %s</p>
-</hr>
+<br/>
+<hr/>
 </body>
 </html>

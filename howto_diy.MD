@@ -13,16 +13,19 @@ This project can produce only one jar which is used to look up words. Other acti
 
 It's for you if you have plenty of time.
 
-- if you really want to start from scratch delete _dict.entries.in_ content
+- if you really want to start from scratch delete _dict.entries.in_ and _eomw_ content
 - run mvn clean install to build one jar that will query krdict.korean.go.kr dictionary, this jar takes one word as an argument
 - a list of words _words_to_process.txt_ (created in preparation stage) is really long and quering takes time so you'd better find something to do for the next couple of days. Even if I had known and used their API they allow only 25,000 queries a day, so at best it would have taken 5 days. Unless you rewrite this code using threads and use some clever tricks to change your IP you're in for a long wait
 - look up words - you may use perl script callKrDict.pl from scripts directory (this requires perl installed). A good idea is to call it from within dict.entries.in directory as it saves an outout file in the directory you're in which will save you time later on. It will omit words that were already looked up, also you can pass a letter or a string as an argument to look up only word beginning with that argument
 - it's rare, but you may not get an actual exception but just a couple of html tags without real content. I'm not sure if the problem is in my code or the dictionary service returns something what I didn't account for. This is not easily reproducible (I got it a couple of dozens of times for over 120,000 queries and I wasn't very inclined to check it). If you'll use perl script you'll notice that if word wasn't found output file will be like 40 bytes long and slightly bigger (46 I think) if  parsing went south. Simply remove offending files and rerun the script
 - jar generates one file per entry. When yu're done with generating them put them in _dict.entries.in_ directory
+- if you have access (and legal rights, etc) to some other dictionary sources, you may use them too. Just remember that each entry file has to be put in _dict.entries.in_ directory and its name is the same as the word it's going to be linked to. Also add html formatting to it (take any of existing ones as example) so that it would look good in final dictionary. Modify _dictionary_metadata_template_ - add yourself and your sources to _dc:contributor_.
+- eomw directory contain entries from Extended Open Multilingual Wordnet. You may switch the flag in KindleRequiredFilesCreator to not use them
 - all hard work is now done, so continue the easy way
 
+
 ##### The easy way
-- all entries available in May 2018 are already in dict.entries.in, and we already have inflections file so what remains is to just build files required by kindlegen and an output mobi file.
+- all entries available in May 2018 are already in dict.entries.in and in eomw, and we already have inflections file so what remains is to just build files required by kindlegen and an output mobi file.
 - run org.mchs.dict.local.KindleRequiredFilesCreator.main which will create dict.out directory and all files needed by kindlegen.exe inside
 - if you want to modify them make sure you've read [_AmazonKindlePublishingGuidelines_](http://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf) first
 - open console and run kindlegen, e.g. if you're on windows

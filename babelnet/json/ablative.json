@@ -1,0 +1,505 @@
+[
+  {
+    "id": {
+      "id": "bn:00000332n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "탈격",
+        "simpleLemma": "탈격",
+        "source": "WIKT",
+        "senseKey": "87301s1e1",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000332n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46517900
+      },
+      {
+        "fullLemma": "절제",
+        "simpleLemma": "절제",
+        "source": "WIKITR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000332n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "0.71875_23_32",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46517730
+      },
+      {
+        "fullLemma": "융제",
+        "simpleLemma": "융제",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000332n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46517619
+      },
+      {
+        "fullLemma": "탈격",
+        "simpleLemma": "탈격",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000332n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46517583
+      }
+    ],
+    "domains": {
+      "LANGUAGE_AND_LINGUISTICS": 0.6009403467178345
+    },
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "04764026n"
+          ],
+          "2.0": [
+            "05924341n"
+          ],
+          "2.1": [
+            "06228988n"
+          ],
+          "1.5": [
+            "04169297n"
+          ],
+          "1.7": [
+            "05315943n"
+          ],
+          "3.0": [
+            "06312418n"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:06312418n",
+        "pos": "NOUN",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "46517541",
+        "language": "EN",
+        "gloss": "The case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb",
+        "tokens": [
+          {
+            "start": 82,
+            "end": 86,
+            "id": {
+              "id": "bn:00062699n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "place"
+          },
+          {
+            "start": 41,
+            "end": 49,
+            "id": {
+              "id": "bn:00070528n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "sentences"
+          },
+          {
+            "start": 24,
+            "end": 28,
+            "id": {
+              "id": "bn:00001977n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "agent"
+          },
+          {
+            "start": 58,
+            "end": 67,
+            "id": {
+              "id": "bn:00046964n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "instrument"
+          },
+          {
+            "start": 72,
+            "end": 77,
+            "id": {
+              "id": "bn:00033729n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "manner"
+          },
+          {
+            "start": 33,
+            "end": 39,
+            "id": {
+              "id": "bn:00108319a",
+              "pos": "ADJ",
+              "source": "BABELNET"
+            },
+            "word": "passive"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46517639",
+        "language": "EN",
+        "gloss": "In Latin grammar, the ablative case is one of the six cases of nouns.",
+        "tokens": [
+          {
+            "start": 3,
+            "end": 15,
+            "id": {
+              "id": "bn:00000333n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Latin grammar"
+          },
+          {
+            "start": 63,
+            "end": 67,
+            "id": {
+              "id": "bn:00058188n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nouns"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46517641",
+        "language": "EN",
+        "gloss": "The ablative case is a grammatical case for nouns, pronouns and adjectives in the grammar of various languages; it is sometimes used to express motion away from something, among other uses.",
+        "tokens": [
+          {
+            "start": 44,
+            "end": 48,
+            "id": {
+              "id": "bn:00058188n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nouns"
+          },
+          {
+            "start": 82,
+            "end": 88,
+            "id": {
+              "id": "bn:00041302n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "grammar"
+          },
+          {
+            "start": 23,
+            "end": 38,
+            "id": {
+              "id": "bn:00016411n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "grammatical case"
+          },
+          {
+            "start": 101,
+            "end": 109,
+            "id": {
+              "id": "bn:00049910n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "languages"
+          },
+          {
+            "start": 64,
+            "end": 73,
+            "id": {
+              "id": "bn:00001396n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "adjectives"
+          },
+          {
+            "start": 51,
+            "end": 58,
+            "id": {
+              "id": "bn:00064721n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "pronouns"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDATA",
+        "sourceSense": "252814029",
+        "language": "EN",
+        "gloss": "Case in Latin",
+        "tokens": []
+      },
+      {
+        "source": "OMWIKI",
+        "sourceSense": "46517936",
+        "language": "EN",
+        "gloss": "The case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "46517855",
+        "language": "EN",
+        "gloss": "The ablative case.",
+        "tokens": [
+          {
+            "start": 13,
+            "end": 16,
+            "id": {
+              "id": "bn:00016411n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "case"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "46517886",
+        "language": "EN",
+        "gloss": "A noun case used in some languages to indicate movement away from something, removal, separation. It corresponds roughly to the use in English of prepositions \"of\", \"from\", \"away from\", and \"concerning\".",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "46517918",
+        "language": "EN",
+        "gloss": "Ablative.",
+        "tokens": []
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "46517886",
+        "language": "EN",
+        "gloss": "Grammatical case used to indicate movement away from something, removal, separation, source.",
+        "tokens": []
+      }
+    ],
+    "examples": [],
+    "images": [
+      {
+        "name": "Ablatyw.jpg#WIKI",
+        "languages": [
+          "PL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ablatyw.jpg/200px-Ablatyw.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ablatyw.jpg",
+        "badImage": false
+      },
+      {
+        "name": "SnatchThieves003.jpg#WIKI",
+        "languages": [
+          "LA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SnatchThieves003.jpg/200px-SnatchThieves003.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/SnatchThieves003.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Nuvola_apps_bookcase.png#WIKI",
+        "languages": [
+          "RO"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nuvola_apps_bookcase.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nuvola_apps_bookcase.png",
+        "badImage": false
+      },
+      {
+        "name": "Libri_books2.jpg#WIKI",
+        "languages": [
+          "VEC"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Libri_books2.jpg/200px-Libri_books2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Libri_books2.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Kalb-stub.svg#WIKI",
+        "languages": [
+          "LT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kalb-stub.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kalb-stub.svg",
+        "badImage": false
+      },
+      {
+        "name": "IPA_for_nikulec.svg#WIKI",
+        "languages": [
+          "MK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/IPA_for_nikulec.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/IPA_for_nikulec.svg",
+        "badImage": false
+      },
+      {
+        "name": "GelPen_stub.jpg#WIKI",
+        "languages": [
+          "IS"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/GelPen_stub.jpg/200px-GelPen_stub.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/GelPen_stub.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Pilone.svg#WIKI",
+        "languages": [
+          "SR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pilone.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pilone.svg",
+        "badImage": false
+      },
+      {
+        "name": "Ling_template.svg#WIKI",
+        "languages": [
+          "RU"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ling_template.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ling_template.svg",
+        "badImage": false
+      },
+      {
+        "name": "Turris_Borghese_1.JPG#WIKI",
+        "languages": [
+          "DE"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Turris_Borghese_1.JPG/200px-Turris_Borghese_1.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Turris_Borghese_1.JPG",
+        "badImage": false
+      },
+      {
+        "name": "Six_glyphs.svg#WIKI",
+        "languages": [
+          "JA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Six_glyphs.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Six_glyphs.svg",
+        "badImage": false
+      },
+      {
+        "name": "Logo_of_Spanish_language.svg#WIKI",
+        "languages": [
+          "UK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_of_Spanish_language.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Logo_of_Spanish_language.svg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "Grammatical_cases",
+        "language": "EN"
+      },
+      {
+        "category": "Latin_declension",
+        "language": "EN"
+      },
+      {
+        "category": "Latin_grammar",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  }
+]

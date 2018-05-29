@@ -1,7 +1,7 @@
 <i>noun</i>: 함몰 [함ː몰], 함락 [함ː낙], 폭락 [퐁낙], 패망 [패ː망], 와해 [와해], 붕괴 [붕괴/붕궤], 몰락 [몰락], 멸망 [멸망] <i>verb</i>: 함몰하다 [함ː몰하다], 함몰되다 [함ː몰되다/함ː몰뒈다], 함락하다 [함ː나카다], 함락되다 [함ː낙뙤다/함ː낙뛔다], 폭락하다 [퐁나카다], 패망하다 [패ː망하다], 주저앉히다 [주저안치다], 주저앉다 [주저안따], 와해하다 [와해하다], 와해되다 [와해되다/와해뒈다], 엎어지다 [어퍼지다], 쓰러지다 [쓰러지다], 붕괴하다 [붕괴하다/붕궤하다], 붕괴시키다 [붕괴시키다/붕궤시키다], 뭉그러지다 [뭉그러지다], 물러앉다 [물러안따], 무너지다 [무너지다], 몰락하다 [몰락카다], 몰락되다 [몰락뙤다/몰락뛔다], 멸망시키다 [멸망시키다], 덮치다 [덥치다], 넘어지다 [너머지다], 내려앉다 [내려안따], 끊어지다 [끄너지다], 끊기다 [끈키다], 꼬꾸라지다 [꼬꾸라지다], 꺼꾸러지다 [꺼꾸러지다], 기절하다 [기절하다], 결딴나다 [결딴나다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>noun</i><br>
-<dt>함몰 [함ː몰]</dt><br>
+<dt><span>&#8227;&nbsp;</span>함몰 [함ː몰]</dt><br>
 <dd>1. sinking; collapse; cave-in</dd><br>
 <dd>물속이나 땅속에 빠짐.</dd><br>
 <dd>A state of falling beneath the surface of water or ground.</dd><br>
@@ -11,43 +11,43 @@
 <dd>3. sinking; dent; depression</dd><br>
 <dd>일정한 힘을 받아 표면이 안쪽으로 움푹 들어감.</dd><br>
 <dd>The surface of an object being depressed by a certain force.</dd><br>
-<dt>함락 [함ː낙]</dt><br>
+<dt><span>&#8227;&nbsp;</span>함락 [함ː낙]</dt><br>
 <dd>fall; capture; collapse</dd><br>
 <dd>적의 성, 군사 시설 등을 공격해 무너뜨림.</dd><br>
 <dd>An act of attacking and destroying an enemy's castle, military facility, etc.</dd><br>
-<dt>폭락 [퐁낙]</dt><br>
+<dt><span>&#8227;&nbsp;</span>폭락 [퐁낙]</dt><br>
 <dd>1. plunge; nosedive</dd><br>
 <dd>물건의 값이나 주가 등이 갑자기 크게 떨어짐.</dd><br>
 <dd>The state of the price of goods, stocks, etc., decreasing drastically and quickly.</dd><br>
 <dd>2. collapse; falling</dd><br>
 <dd>인기나 체면 등이 갑자기 매우 심하게 떨어짐.</dd><br>
 <dd>The state of one's popularity, dignity, etc., falling suddenly and dramatically.</dd><br>
-<dt>패망 [패ː망]</dt><br>
+<dt><span>&#8227;&nbsp;</span>패망 [패ː망]</dt><br>
 <dd>collapse; fall</dd><br>
 <dd>싸움에 져서 망함.</dd><br>
 <dd>The state of perishing after losing a fight or war, etc.</dd><br>
-<dt>와해 [와해]</dt><br>
+<dt><span>&#8227;&nbsp;</span>와해 [와해]</dt><br>
 <dd>collapse; breakup</dd><br>
 <dd>어떤 조직이나 계획 등이 무너지고 흩어짐.</dd><br>
 <dd>The disruption and collapse of a group, plan, etc.</dd><br>
-<dt>붕괴 [붕괴/붕궤]</dt><br>
+<dt><span>&#8227;&nbsp;</span>붕괴 [붕괴/붕궤]</dt><br>
 <dd>collapse; breakdown</dd><br>
 <dd>무너지고 깨짐.</dd><br>
 <dd>An instance of falling and breaking.</dd><br>
-<dt>몰락 [몰락]</dt><br>
+<dt><span>&#8227;&nbsp;</span>몰락 [몰락]</dt><br>
 <dd>1. fall; downfall; collapse; ruin</dd><br>
 <dd>재산을 잃거나 권력이 약해져서 보잘것없이 됨.</dd><br>
 <dd>A state of becoming worthless due to loss of wealth or weakened power.</dd><br>
 <dd>2. collapse; fall; destruction; dissolution</dd><br>
 <dd>망해서 완전히 없어짐.</dd><br>
 <dd>A complete extinction as a result of an utter failure.</dd><br>
-<dt>멸망 [멸망]</dt><br>
+<dt><span>&#8227;&nbsp;</span>멸망 [멸망]</dt><br>
 <dd>collapse; destruction; downfall</dd><br>
 <dd>망하여 없어짐.</dd><br>
 <dd>The state of an organization, country, planet, etc., which collapses and ceases to exist.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>함몰하다 [함ː몰하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>함몰하다 [함ː몰하다]</dt><br>
 <dd>1. sink; collapse; cave in</dd><br>
 <dd>물속이나 땅속에 빠지다.</dd><br>
 <dd>To fall beneath the surface of water or ground.</dd><br>
@@ -57,7 +57,7 @@
 <dd>3. sink; dent</dd><br>
 <dd>일정한 힘을 받아 표면이 안쪽으로 움푹 들어가다.</dd><br>
 <dd>For the surface of an object to be depressed by a certain force.</dd><br>
-<dt>함몰되다 [함ː몰되다/함ː몰뒈다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>함몰되다 [함ː몰되다/함ː몰뒈다]</dt><br>
 <dd>1. sink; collapse; cave in</dd><br>
 <dd>물속이나 땅속에 빠지게 되다.</dd><br>
 <dd>To come to fall beneath the surface of water or ground.</dd><br>
@@ -67,26 +67,26 @@
 <dd>3. be sunken; be dented; be depressed</dd><br>
 <dd>일정한 힘을 받아 표면이 안쪽으로 움푹 들어가게 되다.</dd><br>
 <dd>For the surface of an object to become depressed by a certain force.</dd><br>
-<dt>함락하다 [함ː나카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>함락하다 [함ː나카다]</dt><br>
 <dd>make fall; capture; collapse</dd><br>
 <dd>적의 성, 군사 시설 등을 공격해 무너뜨리다.</dd><br>
 <dd>To attack and destroy an enemy's castle, military facility, etc.</dd><br>
-<dt>함락되다 [함ː낙뙤다/함ː낙뛔다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>함락되다 [함ː낙뙤다/함ː낙뛔다]</dt><br>
 <dd>fall; be captured; collapse</dd><br>
 <dd>적의 성, 군사 시설 등이 공격을 받아 무너지다.</dd><br>
 <dd>For an enemy's castle, military facility, etc., to be attacked and destroyed.</dd><br>
-<dt>폭락하다 [퐁나카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>폭락하다 [퐁나카다]</dt><br>
 <dd>1. plunge; plummet; nosedive</dd><br>
 <dd>물건의 값이나 주가 등이 갑자기 크게 떨어지다.</dd><br>
 <dd>For the price of goods, stocks, etc., to decrease drastically and quickly.</dd><br>
 <dd>2. collapse; fall</dd><br>
 <dd>인기나 체면 등이 갑자기 매우 심하게 떨어지다.</dd><br>
 <dd>For one's popularity, dignity, etc., to fall suddenly and dramatically.</dd><br>
-<dt>패망하다 [패ː망하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>패망하다 [패ː망하다]</dt><br>
 <dd>collapse; fall</dd><br>
 <dd>싸움에 져서 망하다.</dd><br>
 <dd>To perish after losing a fight or war, etc.</dd><br>
-<dt>주저앉히다 [주저안치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>주저앉히다 [주저안치다]</dt><br>
 <dd>1. push someone to sit; have someone sit</dd><br>
 <dd>서 있던 자리에 힘없이 앉게 하다.</dd><br>
 <dd>To cause someone to sit weakly where he/she is standing.</dd><br>
@@ -102,7 +102,7 @@
 <dd>5. calm down</dd><br>
 <dd>격한 감정을 약해지거나 사라지게 하다.</dd><br>
 <dd>To cause an intense emotion to subside or disappear.</dd><br>
-<dt>주저앉다 [주저안따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>주저앉다 [주저안따]</dt><br>
 <dd>1. sink to one's knees</dd><br>
 <dd>서 있던 자리에 힘없이 앉다.</dd><br>
 <dd>To sit weakly where one is standing.</dd><br>
@@ -115,15 +115,15 @@
 <dd>4. collapse; fall</dd><br>
 <dd>하던 일이 힘겨워서 도중에 포기하고 그만두다.</dd><br>
 <dd>To give up and stop in the middle of something since one finds it hard to go on.</dd><br>
-<dt>와해하다 [와해하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>와해하다 [와해하다]</dt><br>
 <dd>collapse; break up</dd><br>
 <dd>어떤 조직이나 계획 등이 무너지고 흩어지다. 또는 흩어지게 하다.</dd><br>
 <dd>To disrupt and collapse a group, plan, etc., or to cause something to become disarrayed and collapse.</dd><br>
-<dt>와해되다 [와해되다/와해뒈다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>와해되다 [와해되다/와해뒈다]</dt><br>
 <dd>collapse; be broken up</dd><br>
 <dd>어떤 조직이나 계획 등이 무너지고 흩어지게 되다.</dd><br>
 <dd>For a group, plan, etc., to become disarrayed and collapse.</dd><br>
-<dt>엎어지다 [어퍼지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>엎어지다 [어퍼지다]</dt><br>
 <dd>1. fall</dd><br>
 <dd>앞으로 넘어지다.</dd><br>
 <dd>To fall forward.</dd><br>
@@ -136,7 +136,7 @@
 <dd>4. collapse</dd><br>
 <dd>(속된 말로) 꼼짝하지 않고 누워 있다. 또는 아무 말없이 가만히 있다.</dd><br>
 <dd>(slang) To lie without any movement or stay still without saying a word.</dd><br>
-<dt>쓰러지다 [쓰러지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쓰러지다 [쓰러지다]</dt><br>
 <dd>1. fall; collapse</dd><br>
 <dd>서 있던 것이 한쪽으로 쏠리어 넘어지다.</dd><br>
 <dd>For something standing to fall sideways.</dd><br>
@@ -146,19 +146,19 @@
 <dd>3. go to ruin; collapse; fall</dd><br>
 <dd>집안이나 회사 등이 제 기능을 못 하게 되다.</dd><br>
 <dd>For a family or company, etc., to come to fail to function properly.</dd><br>
-<dt>붕괴하다 [붕괴하다/붕궤하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>붕괴하다 [붕괴하다/붕궤하다]</dt><br>
 <dd>collapse; break down</dd><br>
 <dd>무너지고 깨지다.</dd><br>
 <dd>To fall and break.</dd><br>
-<dt>붕괴시키다 [붕괴시키다/붕궤시키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>붕괴시키다 [붕괴시키다/붕궤시키다]</dt><br>
 <dd>collapse; break down</dd><br>
 <dd>무너지고 깨지게 하다.</dd><br>
 <dd>To make something fall and break.</dd><br>
-<dt>뭉그러지다 [뭉그러지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뭉그러지다 [뭉그러지다]</dt><br>
 <dd>collapse; crumble; fall down</dd><br>
 <dd>원래 모양을 잃고 쓰러지거나 눌리거나 주저앉다.</dd><br>
 <dd>For something to fall, be pressed, or collapse as it loses its original form.</dd><br>
-<dt>물러앉다 [물러안따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>물러앉다 [물러안따]</dt><br>
 <dd>1. move back to sit</dd><br>
 <dd>있던 자리에서 뒤나 옆으로 옮겨 앉다.</dd><br>
 <dd>To move back or step aside, and then sit there.</dd><br>
@@ -171,7 +171,7 @@
 <dd>4. collapse; sink</dd><br>
 <dd>건물, 바닥, 어깨 등이 아래로 내려앉다.</dd><br>
 <dd>For a building, floor, shoulder, etc. to collapse.</dd><br>
-<dt>무너지다 [무너지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>무너지다 [무너지다]</dt><br>
 <dd>1. be pulled down; be torn down; be crumbled</dd><br>
 <dd>높이 쌓이거나 서 있던 것이 허물어지거나 흩어지다.</dd><br>
 <dd>For something piled up or standing high to be torn down or scattered.</dd><br>
@@ -202,25 +202,25 @@
 <dd>10. lose</dd><br>
 <dd>운동 경기 등에서 지다.</dd><br>
 <dd>To lose in a sports game, etc.</dd><br>
-<dt>몰락하다 [몰락카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>몰락하다 [몰락카다]</dt><br>
 <dd>1. collapse; ruin; fall</dd><br>
 <dd>재산을 잃거나 권력이 약해져서 보잘것없어지다.</dd><br>
 <dd>To cause to be worthless due to loss of wealth or weakened power.</dd><br>
 <dd>2. collapse; be destroyed; be dissolved</dd><br>
 <dd>망해서 완전히 없어지다.</dd><br>
 <dd>To cause to become completely extinct as a result of an utter failure.</dd><br>
-<dt>몰락되다 [몰락뙤다/몰락뛔다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>몰락되다 [몰락뙤다/몰락뛔다]</dt><br>
 <dd>1. collapse; ruin; fall</dd><br>
 <dd>재산을 잃거나 권력이 약해져서 보잘것없이 되다.</dd><br>
 <dd>To become worthless due to loss of wealth or weakened power.</dd><br>
 <dd>2. collapse; be destroyed; be dissolved</dd><br>
 <dd>망해서 완전히 없어지게 되다.</dd><br>
 <dd>To cause to become completely extinct as a result of an utter failure.</dd><br>
-<dt>멸망시키다 [멸망시키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>멸망시키다 [멸망시키다]</dt><br>
 <dd>collapse; destroy</dd><br>
 <dd>망하여 없어지게 하다.</dd><br>
 <dd>To make something collapse and cease to exist.</dd><br>
-<dt>덮치다 [덥치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>덮치다 [덥치다]</dt><br>
 <dd>1. hit</dd><br>
 <dd>좋지 않은 여러 가지 일이 한꺼번에 닥쳐오다.</dd><br>
 <dd>For bad things to happen all at once.</dd><br>
@@ -230,14 +230,14 @@
 <dd>3. pounce</dd><br>
 <dd>무엇을 잡으려고 갑자기 들이닥치다.</dd><br>
 <dd>To appear suddenly to seize something or someone.</dd><br>
-<dt>넘어지다 [너머지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>넘어지다 [너머지다]</dt><br>
 <dd>1. fall down; trip over; tumble over</dd><br>
 <dd>서 있던 사람이나 물체가 중심을 잃고 한쪽으로 기울어지며 쓰러지다.</dd><br>
 <dd>For a standing person or object to lose balance and fall down.</dd><br>
 <dd>2. fail; collapse</dd><br>
 <dd>망하거나 어떤 일에 실패하다.</dd><br>
 <dd>To go bankrupt or fail in achieving something.</dd><br>
-<dt>내려앉다 [내려안따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>내려앉다 [내려안따]</dt><br>
 <dd>1. sit down on</dd><br>
 <dd>아래로 내려와 앉다.</dd><br>
 <dd>To sit down on something.</dd><br>
@@ -253,7 +253,7 @@
 <dd>5. be demoted</dd><br>
 <dd>낮은 지위로 자리를 옮겨 앉다.</dd><br>
 <dd>To be transferred to a lower position.</dd><br>
-<dt>끊어지다 [끄너지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>끊어지다 [끄너지다]</dt><br>
 <dd>1. snap; collapse; break</dd><br>
 <dd>실, 줄, 끈 등의 이어진 것이 잘라져 따로 떨어지게 되다.</dd><br>
 <dd>For a connected object such as a string, thread, cord, etc., to be cut and separated.</dd><br>
@@ -287,7 +287,7 @@
 <dd>11. be cut off</dd><br>
 <dd>계속되던 운행이 되지 않다.</dd><br>
 <dd>For a continued service to be cut off.</dd><br>
-<dt>끊기다 [끈키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>끊기다 [끈키다]</dt><br>
 <dd>1. snap; collapse; break</dd><br>
 <dd>실, 줄, 끈 등의 이어진 것이 잘라져 따로 떨어지게 되다.</dd><br>
 <dd>For a connected object such as a string, thread, cord, etc., to be cut and separated.</dd><br>
@@ -321,14 +321,14 @@
 <dd>11. be cut off</dd><br>
 <dd>계속되던 운행이 되지 않다.</dd><br>
 <dd>For a continued service to be cut off.</dd><br>
-<dt>꼬꾸라지다 [꼬꾸라지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>꼬꾸라지다 [꼬꾸라지다]</dt><br>
 <dd>1. tumble down; collapse; fall down</dd><br>
 <dd>몸이 앞으로 구부러지면서 풀썩 쓰러지다.</dd><br>
 <dd>For the body to bend forward and collapse.</dd><br>
 <dd>2. die</dd><br>
 <dd>(속된 말로) 죽다.</dd><br>
 <dd>(slang) To die.</dd><br>
-<dt>꺼꾸러지다 [꺼꾸러지다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>꺼꾸러지다 [꺼꾸러지다]</dt><br>
 <dd>1. (no equivalent expression)</dd><br>
 <dd>거꾸로 넘어지거나 엎어지다.</dd><br>
 <dd>To fall down or turn over upside down.</dd><br>
@@ -338,11 +338,11 @@
 <dd>3. die</dd><br>
 <dd>(속된 말로) 사람이나 동물이 죽다.</dd><br>
 <dd>(slang) For a person or animal to die.</dd><br>
-<dt>기절하다 [기절하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>기절하다 [기절하다]</dt><br>
 <dd>collapse; faint</dd><br>
 <dd>심하게 놀라거나 충격을 받아 일시적으로 정신을 잃고 쓰러지다.</dd><br>
 <dd>To temporarily lose consciousness and collapse due to a great surprise or shock.</dd><br>
-<dt>결딴나다 [결딴나다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>결딴나다 [결딴나다]</dt><br>
 <dd>1. be ruined; be destroyed</dd><br>
 <dd>물건이 망가져 쓸 수 없게 되다.</dd><br>
 <dd>For something to be broken and become utterly useless.</dd><br>

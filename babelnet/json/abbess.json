@@ -1,0 +1,770 @@
+[
+  {
+    "id": {
+      "id": "bn:00000233n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "대_수녀_원장",
+        "simpleLemma": "대_수녀_원장",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000233n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46491982
+      },
+      {
+        "fullLemma": "여자_소_수도_원장",
+        "simpleLemma": "여자_소_수도_원장",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000233n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492073
+      },
+      {
+        "fullLemma": "원장",
+        "simpleLemma": "원장",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00000233n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 46492018
+      }
+    ],
+    "domains": {
+      "RELIGION_MYSTICISM_AND_MYTHOLOGY": 0.3846507966518402
+    },
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "07053378n"
+          ],
+          "2.0": [
+            "09135450n"
+          ],
+          "2.1": [
+            "09611271n"
+          ],
+          "1.5": [
+            "05912800n"
+          ],
+          "1.7": [
+            "08015362n"
+          ],
+          "3.0": [
+            "09754217n"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:09754217n",
+        "pos": "NOUN",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "46491948",
+        "language": "EN",
+        "gloss": "The superior of a group of nuns",
+        "tokens": [
+          {
+            "start": 18,
+            "end": 22,
+            "id": {
+              "id": "bn:00041942n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "group"
+          },
+          {
+            "start": 27,
+            "end": 30,
+            "id": {
+              "id": "bn:00058313n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nuns"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "46492085",
+        "language": "EN",
+        "gloss": "In Christianity, an abbess is the female superior of a community of nuns, which is often an abbey.",
+        "tokens": [
+          {
+            "start": 92,
+            "end": 96,
+            "id": {
+              "id": "bn:00000234n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "abbey"
+          },
+          {
+            "start": 3,
+            "end": 14,
+            "id": {
+              "id": "bn:00018828n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "Christianity"
+          },
+          {
+            "start": 68,
+            "end": 71,
+            "id": {
+              "id": "bn:00058313n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nuns"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDATA",
+        "sourceSense": "252277118",
+        "language": "EN",
+        "gloss": "Female superior of a community of nuns, often an abbey",
+        "tokens": []
+      },
+      {
+        "source": "OMWIKI",
+        "sourceSense": "46491932",
+        "language": "EN",
+        "gloss": "A female superior or governess of a nunnery, or convent of nuns, having the same authority over the nuns which the abbots have over the monks.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "46492190",
+        "language": "EN",
+        "gloss": "A female superior or governess of a nunnery, or convent of nuns, having the same authority over the nuns which the abbots have over the monks.",
+        "tokens": [
+          {
+            "start": 59,
+            "end": 62,
+            "id": {
+              "id": "bn:00058313n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nuns"
+          },
+          {
+            "start": 136,
+            "end": 140,
+            "id": {
+              "id": "bn:00055630n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "monks"
+          },
+          {
+            "start": 115,
+            "end": 120,
+            "id": {
+              "id": "bn:00000237n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "abbots"
+          },
+          {
+            "start": 36,
+            "end": 42,
+            "id": {
+              "id": "bn:00058319n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nunnery"
+          },
+          {
+            "start": 48,
+            "end": 54,
+            "id": {
+              "id": "bn:00022329n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "convent"
+          },
+          {
+            "start": 100,
+            "end": 103,
+            "id": {
+              "id": "bn:00058313n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nuns"
+          }
+        ]
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "46492190",
+        "language": "EN",
+        "gloss": "Female superior of a nunnery.",
+        "tokens": [
+          {
+            "start": 21,
+            "end": 27,
+            "id": {
+              "id": "bn:00058319n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "nunnery"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "source": "WIKT",
+        "sourceSense": "46492190",
+        "language": "EN",
+        "example": "The abbess was always after the nuns to keep the convent immaculately clean.",
+        "tokens": []
+      }
+    ],
+    "images": [
+      {
+        "name": "Template-Abbess.svg#WIKI",
+        "languages": [
+          "SK",
+          "PT",
+          "EO",
+          "CS",
+          "ES",
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Template-Abbess.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Template-Abbess.svg",
+        "badImage": false
+      },
+      {
+        "name": "Gasser_Xaveria_Abbess_Klagenfurt.jpg#WIKI",
+        "languages": [
+          "RU",
+          "LV",
+          "SH",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gasser_Xaveria_Abbess_Klagenfurt.jpg/200px-Gasser_Xaveria_Abbess_Klagenfurt.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Gasser_Xaveria_Abbess_Klagenfurt.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Maria_Theresia_Isabella_Austria_1816_1867_portrait.jpg#WIKI",
+        "languages": [
+          "ID",
+          "ZH",
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Maria_Theresia_Isabella_Austria_1816_1867_portrait.jpg/200px-Maria_Theresia_Isabella_Austria_1816_1867_portrait.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Maria_Theresia_Isabella_Austria_1816_1867_portrait.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abadessa.jpg#WIKI",
+        "languages": [
+          "SK",
+          "PT",
+          "CS"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Abadessa.jpg/200px-Abadessa.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Abadessa.jpg",
+        "badImage": false
+      },
+      {
+        "name": "GetrudNivelles.jpg#WIKI",
+        "languages": [
+          "EO",
+          "ES",
+          "ET"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/GetrudNivelles.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/GetrudNivelles.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Abbedissa,_Nordisk_familjebok.png#WIKI",
+        "languages": [
+          "FI",
+          "SV"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Abbedissa%2C_Nordisk_familjebok.png/200px-Abbedissa%2C_Nordisk_familjebok.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Abbedissa%2C_Nordisk_familjebok.png",
+        "badImage": false
+      },
+      {
+        "name": "Cruz_template.svg#WIKI",
+        "languages": [
+          "SK",
+          "RU"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cruz_template.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cruz_template.svg",
+        "badImage": false
+      },
+      {
+        "name": "Psalterium_Feriatum_Cod_Don_309_042.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Psalterium_Feriatum_Cod_Don_309_042.jpg/200px-Psalterium_Feriatum_Cod_Don_309_042.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Psalterium_Feriatum_Cod_Don_309_042.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Chevalier_légion_d\u0027honneur_2.png#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Chevalier_l%C3%A9gion_d%27honneur_2.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Chevalier_l%C3%A9gion_d%27honneur_2.png",
+        "badImage": false
+      },
+      {
+        "name": "Blönduóskirkja7.jpg#WIKI",
+        "languages": [
+          "IS"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bl%C3%B6ndu%C3%B3skirkja7.jpg/200px-Bl%C3%B6ndu%C3%B3skirkja7.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bl%C3%B6ndu%C3%B3skirkja7.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Magnifying_glass_icon_mgx2.svg#WIKI",
+        "languages": [
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Magnifying_glass_icon_mgx2.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Magnifying_glass_icon_mgx2.svg",
+        "badImage": false
+      },
+      {
+        "name": "Brasão_de_abadessa.jpg#WIKI",
+        "languages": [
+          "PT"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bras%C3%A3o_de_abadessa.jpg/200px-Bras%C3%A3o_de_abadessa.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bras%C3%A3o_de_abadessa.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Ambox_move.png#WIKI",
+        "languages": [
+          "SIMPLE"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ambox_move.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ambox_move.png",
+        "badImage": false
+      },
+      {
+        "name": "Religion_template.svg#WIKI",
+        "languages": [
+          "CY"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Religion_template.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Religion_template.svg",
+        "badImage": false
+      },
+      {
+        "name": "Portrait_of_Louise_Adélaide_d\u0027Orléans_dressed_as_a_pilgrim_by_an_anonymous_artist_after_Jean_Baptiste_Santerre_(Versailles).jpg#WIKI",
+        "languages": [
+          "SCN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Portrait_of_Louise_Ad%C3%A9laide_d%27Orl%C3%A9ans_dressed_as_a_pilgrim_by_an_anonymous_artist_after_Jean_Baptiste_Santerre_%28Versailles%29.jpg/200px-Portrait_of_Louise_Ad%C3%A9laide_d%27Orl%C3%A9ans_dressed_as_a_pilgrim_by_an_anonymous_artist_after_Jean_Baptiste_Santerre_%28Versailles%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Portrait_of_Louise_Ad%C3%A9laide_d%27Orl%C3%A9ans_dressed_as_a_pilgrim_by_an_anonymous_artist_after_Jean_Baptiste_Santerre_%28Versailles%29.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Galizionario.png#WIKI",
+        "languages": [
+          "GL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Galizionario.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Galizionario.png",
+        "badImage": false
+      },
+      {
+        "name": "Internet_Archive_Logo.svg#WIKI",
+        "languages": [
+          "ES"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Internet_Archive_Logo.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Internet_Archive_Logo.svg",
+        "badImage": false
+      },
+      {
+        "name": "Svanhild-Evangeliar.jpg#WIKI",
+        "languages": [
+          "GL"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Svanhild-Evangeliar.jpg/200px-Svanhild-Evangeliar.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Svanhild-Evangeliar.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_6#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://www.cappuccinifoggia.it/files/image/news/cs%2021.JPG",
+        "url": "http://www.cappuccinifoggia.it/files/image/news/cs%2021.JPG",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_2#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://4.bp.blogspot.com/_fR3qnBJPVAE/SWX42EhsASI/AAAAAAAABPs/uDI2U01tWF8/s320/Sister+Mary+7+Jan+09+vows+7.JPG",
+        "url": "http://4.bp.blogspot.com/_fR3qnBJPVAE/SWX42EhsASI/AAAAAAAABPs/uDI2U01tWF8/s320/Sister+Mary+7+Jan+09+vows+7.JPG",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_5#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://www.atma-o-jibon.org/images5/sr_nirmala_joshi3.jpg",
+        "url": "http://www.atma-o-jibon.org/images5/sr_nirmala_joshi3.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_3#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://www.atma-o-jibon.org/images5/madre_teresa_bimbi2.jpg",
+        "url": "http://www.atma-o-jibon.org/images5/madre_teresa_bimbi2.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_0#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://www.oremosjuntos.com/Beata_Margarita_de_Castello1.jpg",
+        "url": "http://www.oremosjuntos.com/Beata_Margarita_de_Castello1.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_1#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://www.dominicos.org/manresa/images/Sor_Pilar_Eguiluz_-_Priora_-.jpg",
+        "url": "http://www.dominicos.org/manresa/images/Sor_Pilar_Eguiluz_-_Priora_-.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_7#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://www.orden.de/img_aktuell/3002binder09.jpg",
+        "url": "http://www.orden.de/img_aktuell/3002binder09.jpg",
+        "badImage": false
+      },
+      {
+        "name": "wn:09754217n_4#IMAGENET",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "IMAGENET",
+        "license": "OTHER",
+        "thumbUrl": "http://farm3.static.flickr.com/2790/4404790156_6de87d190f.jpg",
+        "url": "http://farm3.static.flickr.com/2790/4404790156_6de87d190f.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Emblem_of_the_Papacy_SE.svg#WIKIDATA",
+        "languages": [
+          "ID",
+          "EN"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Emblem_of_the_Papacy_SE.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Emblem_of_the_Papacy_SE.svg",
+        "badImage": false
+      },
+      {
+        "name": "IHS-monogram-Jesus-medievalesque.svg#WIKIDATA",
+        "languages": [
+          "FR"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/IHS-monogram-Jesus-medievalesque.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/IHS-monogram-Jesus-medievalesque.svg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "Abbesses",
+        "language": "EN"
+      },
+      {
+        "category": "Christian_religious_occupations",
+        "language": "EN"
+      },
+      {
+        "category": "Ecclesiastical_titles",
+        "language": "EN"
+      },
+      {
+        "category": "Organisation_of_Catholic_religious_orders",
+        "language": "EN"
+      },
+      {
+        "category": "Priors",
+        "language": "EN"
+      },
+      {
+        "category": "Religious_leadership_roles",
+        "language": "EN"
+      },
+      {
+        "category": "Roman_Catholic_Church_offices",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  },
+  {
+    "id": {
+      "id": "bn:17454962n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "주지",
+        "simpleLemma": "주지",
+        "source": "WIKIDATA",
+        "senseKey": "Q1135621",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:17454962n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 233668332
+      },
+      {
+        "fullLemma": "주지승",
+        "simpleLemma": "주지승",
+        "source": "WIKIDATA",
+        "senseKey": "Q1135621",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:17454962n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 233668329
+      }
+    ],
+    "domains": {},
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WIKI",
+        "sourceSense": "233668320",
+        "language": "EN",
+        "gloss": "In addition to its use in a Christian context, abbot is a term used in English-speaking countries for a monk who holds the position of administrator of a Buddhist monastery or large Buddhist temple.",
+        "tokens": []
+      }
+    ],
+    "examples": [],
+    "images": [
+      {
+        "name": "KhenRinpocheRatoTemple.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KhenRinpocheRatoTemple.jpg/200px-KhenRinpocheRatoTemple.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/KhenRinpocheRatoTemple.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Sōjiji_Butsuden_2009.jpg#WIKI",
+        "languages": [
+          "EN"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/S%C5%8Djiji_Butsuden_2009.jpg/200px-S%C5%8Djiji_Butsuden_2009.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/S%C5%8Djiji_Butsuden_2009.jpg",
+        "badImage": false
+      },
+      {
+        "name": "Dharma_Wheel.svg#WIKIDATA",
+        "languages": [
+          "JA",
+          "ZH"
+        ],
+        "urlSource": "WIKIDATA",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "Buddhism",
+        "language": "EN"
+      },
+      {
+        "category": "Buddhist_terminology",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  }
+]

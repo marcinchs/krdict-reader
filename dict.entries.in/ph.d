@@ -1,7 +1,7 @@
 <i>noun</i>: 박사 [박싸] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>noun</i><br>
-<dt>박사 [박싸]</dt><br>
+<dt><span>&#8227;&nbsp;</span>박사 [박싸]</dt><br>
 <dd>1. doctoral degree; Ph.D.</dd><br>
 <dd>대학에서 주는 가장 높은 학위. 또는 그 학위를 받은 사람.</dd><br>
 <dd>The highest degree offered by a university, or a person who receives such a degree.</dd><br>

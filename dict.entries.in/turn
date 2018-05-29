@@ -1,7 +1,7 @@
 <i>auxiliary verb</i>: 가다 [가다] <i>noun</i>: 회전 [회전/훼전], 순차 [순ː차], 순번 [순ː번], 모퉁이 [모퉁이] <i>verb</i>: 휘돌다 [휘돌다], 회전하다 [회전하다/훼전하다], 회전시키다 [회전시키다/훼전시키다], 향하다 [향ː하다], 틀다 [틀다], 죽다 [죽따], 젓다 [젇ː따], 접어들다 [저버들다], 익다 [익따], 옮아가다 [올마가다], 옮기다 [옴기다], 변하다 [변ː하다], 바뀌다 [바뀌다], 물리다 [물리다], 먹다 [먹따], 만들다 [만들다], 뒤척이다 [뒤처기다], 뒤척뒤척하다 [뒤척뛰처카다], 뒤척대다 [뒤척때다], 뒤척거리다 [뒤척꺼리다], 뒤적이다 [뒤저기다], 뒤적뒤적하다 [뒤적뛰저카다], 뒤적대다 [뒤적때다], 뒤적거리다 [뒤적꺼리다], 되다 [되다/뒈다], 돌이키다 [도리키다], 돌아앉다 [도라안따], 돌아서다 [도라서다], 돌리다 [돌리다], 돌려놓다 [돌려노타], 돌다 [돌ː다], 꺾다 [꺽따] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>auxiliary verb</i><br>
-<dt>가다 [가다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가다 [가다]</dt><br>
 <dd>1. become; turn</dd><br>
 <dd>앞의 말이 나타내는 동작이나 상태, 상태 변화가 계속되거나 진행되는 것을 나타내는 말.</dd><br>
 <dd>An auxiliary verb used to indicate the continuation or progress of a motion, state, or change of state in the preceding statement.</dd><br>
@@ -10,7 +10,7 @@
 <dd>An auxiliary verb used to indicate the occasional repetition of an action to the preceding statement.</dd><br>
 </li>
 <li><i>noun</i><br>
-<dt>회전 [회전/훼전]</dt><br>
+<dt><span>&#8227;&nbsp;</span>회전 [회전/훼전]</dt><br>
 <dd>1. spinning; turning around; rotation</dd><br>
 <dd>물체 자체가 빙빙 돎.</dd><br>
 <dd>A state in which an object spins around.</dd><br>
@@ -23,18 +23,18 @@
 <dd>4. turnover</dd><br>
 <dd>투자한 자금이 모두 되돌아오는 것. 또는 구입한 상품이 모두 팔리는 것.</dd><br>
 <dd>A state in which all of the investment has been recovered or products are sold out during a certain period of time.</dd><br>
-<dt>순차 [순ː차]</dt><br>
+<dt><span>&#8227;&nbsp;</span>순차 [순ː차]</dt><br>
 <dd>turn</dd><br>
 <dd>돌아오는 차례.</dd><br>
 <dd>Order.</dd><br>
-<dt>순번 [순ː번]</dt><br>
+<dt><span>&#8227;&nbsp;</span>순번 [순ː번]</dt><br>
 <dd>1. turn; go</dd><br>
 <dd>차례대로 돌아가는 순서.</dd><br>
 <dd>The order of rotation.</dd><br>
 <dd>2. number in order</dd><br>
 <dd>순서대로 매겨진 번호.</dd><br>
 <dd>A series of numbers enumerated in order.</dd><br>
-<dt>모퉁이 [모퉁이]</dt><br>
+<dt><span>&#8227;&nbsp;</span>모퉁이 [모퉁이]</dt><br>
 <dd>1. corner; turn</dd><br>
 <dd>구부러지거나 꺾여 돌아간 자리.</dd><br>
 <dd>The area enclosed by curves or turns.</dd><br>
@@ -46,7 +46,7 @@
 <dd>A part within a certain range.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>휘돌다 [휘돌다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>휘돌다 [휘돌다]</dt><br>
 <dd>1. whirl; swirl</dd><br>
 <dd>어떤 물체가 어떤 공간에서 마구 돌다.</dd><br>
 <dd>For an object to spin around wildly in a certain space.</dd><br>
@@ -65,7 +65,7 @@
 <dd>6. go around; make the rounds</dd><br>
 <dd>여러 곳을 순서대로 돌다.</dd><br>
 <dd>To go around one place after another.</dd><br>
-<dt>회전하다 [회전하다/훼전하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>회전하다 [회전하다/훼전하다]</dt><br>
 <dd>1. spin; turn around; rotate</dd><br>
 <dd>물체 자체가 빙빙 돌다.</dd><br>
 <dd>For an object to spin around.</dd><br>
@@ -78,7 +78,7 @@
 <dd>4. have a turnover; be sold out</dd><br>
 <dd>투자한 자금이 모두 되돌아오다. 또는 구입한 상품이 모두 팔리다.</dd><br>
 <dd>For all of the investment to be recovered or for products to be sold out during a certain period of time.</dd><br>
-<dt>회전시키다 [회전시키다/훼전시키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>회전시키다 [회전시키다/훼전시키다]</dt><br>
 <dd>1. spin; turn; rotate</dd><br>
 <dd>물체 자체를 빙빙 돌리다.</dd><br>
 <dd>To spin around an object.</dd><br>
@@ -91,7 +91,7 @@
 <dd>4. have a turnover; recover; sell out</dd><br>
 <dd>투자한 자금을 모두 되돌아오게 하다. 또는 구입한 상품을 모두 팔리게 하다.</dd><br>
 <dd>To recover all of the investment or make a product sell out during a certain period of time.</dd><br>
-<dt>향하다 [향ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>향하다 [향ː하다]</dt><br>
 <dd>1. face; turn; direct</dd><br>
 <dd>어느 쪽을 정면이 되게 대하다.</dd><br>
 <dd>To face a certain object or direction.</dd><br>
@@ -104,7 +104,7 @@
 <dd>4. turn; look; face</dd><br>
 <dd>무엇이 어느 한 방향을 바라보게 하다.</dd><br>
 <dd>To make someone look in a certain direction.</dd><br>
-<dt>틀다 [틀다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>틀다 [틀다]</dt><br>
 <dd>1. twist</dd><br>
 <dd>몸이나 몸 한 부분의 방향을 꼬아 돌리다.</dd><br>
 <dd>To twist and turn one’s body or part of one’s body in another direction.</dd><br>
@@ -141,7 +141,7 @@
 <dd>12. turn</dd><br>
 <dd>일정한 방향으로 나가는 물체를 돌려 다른 방향이 되게 하다.</dd><br>
 <dd>To turn an object moving in a certain direction to another direction.</dd><br>
-<dt>죽다 [죽따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>죽다 [죽따]</dt><br>
 <dd>1. die</dd><br>
 <dd>생물이 생명을 잃다.</dd><br>
 <dd>For a living plant, animal, or insect to lose its life.</dd><br>
@@ -175,7 +175,7 @@
 <dd>11. be vehement; be strong; be strenuous</dd><br>
 <dd>모든 힘을 다해. 또는 정도가 매우 심하게.</dd><br>
 <dd>With all one's might or to an extreme degree.</dd><br>
-<dt>젓다 [젇ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>젓다 [젇ː따]</dt><br>
 <dd>1. stir</dd><br>
 <dd>액체나 가루 등이 고르게 퍼지거나 섞이도록 손이나 기구 등으로 이리저리 돌리다.</dd><br>
 <dd>To move a hand, implement, etc., in circular motions so that a liquid, power, etc., is evenly dispersed or mixed.</dd><br>
@@ -191,7 +191,7 @@
 <dd>5. wag; flap</dd><br>
 <dd>동물이 꼬리나 날개를 계속 움직이다.</dd><br>
 <dd>For an animal to keep moving its tail or wings.</dd><br>
-<dt>접어들다 [저버들다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>접어들다 [저버들다]</dt><br>
 <dd>1. arrive; enter</dd><br>
 <dd>일정한 때나 기간에 이르다.</dd><br>
 <dd>To reach a certain time or period.</dd><br>
@@ -201,7 +201,7 @@
 <dd>3. enter</dd><br>
 <dd>일정한 지점이나 길로 들어서다.</dd><br>
 <dd>To get to a certain point or road.</dd><br>
-<dt>익다 [익따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>익다 [익따]</dt><br>
 <dd>1. ripen</dd><br>
 <dd>열매나 씨가 여물다.</dd><br>
 <dd>For a fruit or seed to become ripe.</dd><br>
@@ -217,7 +217,7 @@
 <dd>5. be ripe; be festive</dd><br>
 <dd>사물이나 시기, 분위기 등이 충분히 마련되거나 알맞게 되다.</dd><br>
 <dd>For a thing, timing, atmosphere, etc., to become sufficiently ready or appropriate.</dd><br>
-<dt>옮아가다 [올마가다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옮아가다 [올마가다]</dt><br>
 <dd>1. move; transfer; shift</dd><br>
 <dd>원래 있던 곳에서 다른 곳으로 이동해 가다.</dd><br>
 <dd>To move from a place where one has been to another.</dd><br>
@@ -227,7 +227,7 @@
 <dd>3. shift; turn</dd><br>
 <dd>화제나 주제가 바뀌다.</dd><br>
 <dd>For the topic or subject of conversation to change.</dd><br>
-<dt>옮기다 [옴기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옮기다 [옴기다]</dt><br>
 <dd>1. move; take; shift</dd><br>
 <dd>한곳에서 다른 곳으로 이동하게 하다.</dd><br>
 <dd>To make something move from one place to another.</dd><br>
@@ -255,11 +255,11 @@
 <dd>9. give; transmit</dd><br>
 <dd>병을 다른 사람에게 전염시키다.</dd><br>
 <dd>To infect someone with a disease.</dd><br>
-<dt>변하다 [변ː하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>변하다 [변ː하다]</dt><br>
 <dd>change; turn; become different</dd><br>
 <dd>무엇이 다른 것이 되거나 성질이 달라지다.</dd><br>
 <dd>For something to become something else or become different in nature.</dd><br>
-<dt>바뀌다 [바뀌다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>바뀌다 [바뀌다]</dt><br>
 <dd>1. be changed; be replaced</dd><br>
 <dd>원래 있던 것이 다른 것으로 대체되다.</dd><br>
 <dd>For something that has existed to be replaced by something else.</dd><br>
@@ -278,7 +278,7 @@
 <dd>6. become the next turn</dd><br>
 <dd>차례가 지나서 다음 번 차례가 되다.</dd><br>
 <dd>To become the next turn.</dd><br>
-<dt>물리다 [물리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>물리다 [물리다]</dt><br>
 <dd>1. return</dd><br>
 <dd>산 물건을 원래 주인에게 돌려주고 돈을 되찾게 하다.</dd><br>
 <dd>To make someone return what one has bought to its original owner and receive one's money back.</dd><br>
@@ -294,7 +294,7 @@
 <dd>5. hand over; leave; bequeath</dd><br>
 <dd>재산이나 지위 등을 다른 사람에게 넘겨주다.</dd><br>
 <dd>To hand over a property, title, etc., to someone.</dd><br>
-<dt>먹다 [먹따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>먹다 [먹따]</dt><br>
 <dd>1. eat; have; consume; take</dd><br>
 <dd>음식 등을 입을 통하여 배 속에 들여보내다.</dd><br>
 <dd>To put food into one's mouth and swallow it.</dd><br>
@@ -370,7 +370,7 @@
 <dd>25. grow; become; turn</dd><br>
 <dd>나이가 들다.</dd><br>
 <dd>To grow older.</dd><br>
-<dt>만들다 [만들다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>만들다 [만들다]</dt><br>
 <dd>1. make; create; produce; manufacture</dd><br>
 <dd>힘과 기술을 써서 없던 것을 생기게 하다.</dd><br>
 <dd>To create something that did not exist, using one's power or skill.</dd><br>
@@ -413,63 +413,63 @@
 <dd>14. change; turn</dd><br>
 <dd>사람이나 사물, 현상 등을 어떻게 변화시키다.</dd><br>
 <dd>To change a person, object, phenomenon, etc., somehow.</dd><br>
-<dt>뒤척이다 [뒤처기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤척이다 [뒤처기다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 뒤지다.</dd><br>
 <dd>To look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤척뒤척하다 [뒤척뛰처카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤척뒤척하다 [뒤척뛰처카다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 자꾸 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 자꾸 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤척대다 [뒤척때다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤척대다 [뒤척때다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 자꾸 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 자꾸 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤척거리다 [뒤척꺼리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤척거리다 [뒤척꺼리다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 자꾸 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 자꾸 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤적이다 [뒤저기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤적이다 [뒤저기다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤적뒤적하다 [뒤적뛰저카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤적뒤적하다 [뒤적뛰저카다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 자꾸 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 자꾸 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤적대다 [뒤적때다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤적대다 [뒤적때다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 자꾸 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 자꾸 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>뒤적거리다 [뒤적꺼리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뒤적거리다 [뒤적꺼리다]</dt><br>
 <dd>1. rummage; browse</dd><br>
 <dd>물건들을 이리저리 들추며 자꾸 뒤지다.</dd><br>
 <dd>To repeatedly look over and search things.</dd><br>
 <dd>2. turn</dd><br>
 <dd>물건이나 몸을 자꾸 이리저리 움직이거나 뒤집다.</dd><br>
 <dd>To move an object or one's body this way and that, or turn over.</dd><br>
-<dt>되다 [되다/뒈다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>되다 [되다/뒈다]</dt><br>
 <dd>1. become</dd><br>
 <dd>새로운 신분이나 지위를 가지다.</dd><br>
 <dd>To have a new status or position.</dd><br>
@@ -539,7 +539,7 @@
 <dd>23. become; constitute; make</dd><br>
 <dd>어떤 특별한 뜻을 가지는 상태에 놓이다.</dd><br>
 <dd>To be in a state that has a special meaning.</dd><br>
-<dt>돌이키다 [도리키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>돌이키다 [도리키다]</dt><br>
 <dd>1. turn</dd><br>
 <dd>원래의 방향에서 반대로 방향을 바꾸다.</dd><br>
 <dd>To turn to the opposite direction.</dd><br>
@@ -555,11 +555,11 @@
 <dd>5. go back; return</dd><br>
 <dd>처음의 상태로 다시 돌아가다.</dd><br>
 <dd>To go back to the original state.</dd><br>
-<dt>돌아앉다 [도라안따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>돌아앉다 [도라안따]</dt><br>
 <dd>turn</dd><br>
 <dd>앉은 상태에서 다른 방향으로 몸을 돌려서 앉다.</dd><br>
 <dd>To turn one's body in the opposite direction while sitting down.</dd><br>
-<dt>돌아서다 [도라서다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>돌아서다 [도라서다]</dt><br>
 <dd>1. turn</dd><br>
 <dd>본래 향하던 방향과 반대로 방향을 바꾸어 서다.</dd><br>
 <dd>To stand in a direction that is the opposite of one's original position.</dd><br>
@@ -581,7 +581,7 @@
 <dd>7. pass</dd><br>
 <dd>어떤 장소를 돌아서 지나가다.</dd><br>
 <dd>To go around a place and pass by.</dd><br>
-<dt>돌리다 [돌리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>돌리다 [돌리다]</dt><br>
 <dd>1. turn; spin</dd><br>
 <dd>어떤 것을 원을 그리면서 움직이게 하다.</dd><br>
 <dd>To make something move in a circle.</dd><br>
@@ -627,7 +627,7 @@
 <dd>15. change the subject</dd><br>
 <dd>이야기의 내용을 다른 것으로 바꾸다.</dd><br>
 <dd>To change the content of a conversation to something else.</dd><br>
-<dt>돌려놓다 [돌려노타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>돌려놓다 [돌려노타]</dt><br>
 <dd>1. turn</dd><br>
 <dd>방향을 바꾸어 놓다.</dd><br>
 <dd>To change the position of something to a different direction.</dd><br>
@@ -637,7 +637,7 @@
 <dd>3. exclude</dd><br>
 <dd>어떤 사람을 따돌려 어울리지 못하게 하다.</dd><br>
 <dd>To leave somebody out from socializing.</dd><br>
-<dt>돌다 [돌ː다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>돌다 [돌ː다]</dt><br>
 <dd>1. go round; rotate</dd><br>
 <dd>물체가 일정한 점이나 선을 중심으로 원을 그리면서 움직이다.</dd><br>
 <dd>For an object to move in a circle around a point or line.</dd><br>
@@ -704,7 +704,7 @@
 <dd>22. go around</dd><br>
 <dd>차례차례 다니다.</dd><br>
 <dd>To go one by one.</dd><br>
-<dt>꺾다 [꺽따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>꺾다 [꺽따]</dt><br>
 <dd>1. break; snap</dd><br>
 <dd>물체를 구부려 펴지지 않게 하거나 부러뜨리다.</dd><br>
 <dd>To bend an object to prevent it from unfolding or break it.</dd><br>

@@ -1,0 +1,682 @@
+[
+  {
+    "id": {
+      "id": "bn:00086893v",
+      "pos": "VERB",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "부인하",
+        "simpleLemma": "부인하",
+        "source": "OMWN_KO",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00086893v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251864023
+      }
+    ],
+    "domains": {},
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "00556722v"
+          ],
+          "2.0": [
+            "00793261v"
+          ],
+          "2.1": [
+            "00811349v"
+          ],
+          "1.5": [
+            "00461194v"
+          ],
+          "1.7": [
+            "00651696v"
+          ],
+          "3.0": [
+            "00820075v"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:00820075v",
+        "pos": "VERB",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "98081733",
+        "language": "EN",
+        "gloss": "Refuse to acknowledge; disclaim knowledge of; responsibility for, or association with",
+        "tokens": [
+          {
+            "start": 32,
+            "end": 40,
+            "id": {
+              "id": "bn:00020452n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "knowledge"
+          }
+        ]
+      },
+      {
+        "source": "OMWIKI",
+        "sourceSense": "98081768",
+        "language": "EN",
+        "gloss": "To refuse strongly and solemnly to own or acknowledge.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98081744",
+        "language": "EN",
+        "gloss": "To strongly and solemnly refuse to own or acknowledge; to deny responsibility for, approbation of, and the like.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98081751",
+        "language": "EN",
+        "gloss": "To disclaim connection with, responsibility for, etc.; to refuse to acknowledge; to disown; to abjure; to disavow.",
+        "tokens": [
+          {
+            "start": 29,
+            "end": 42,
+            "id": {
+              "id": "bn:00067370n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "responsibility"
+          }
+        ]
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "98081744",
+        "language": "EN",
+        "gloss": "To refuse to own or acknowledge.",
+        "tokens": []
+      },
+      {
+        "source": "OMWN_KO",
+        "sourceSense": "251864023",
+        "language": "KO",
+        "gloss": "인정하지 아니함.",
+        "tokens": []
+      }
+    ],
+    "examples": [
+      {
+        "source": "WN",
+        "sourceSense": "98081733",
+        "language": "EN",
+        "example": "Her husband disavowed her after 30 years of marriage and six children",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98081744",
+        "language": "EN",
+        "example": "He was charged with embezzlement, but he disavows the crime.",
+        "tokens": []
+      }
+    ],
+    "images": [],
+    "categories": [],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  },
+  {
+    "id": {
+      "id": "bn:00086596v",
+      "pos": "VERB",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "부인하다",
+        "simpleLemma": "부인하다",
+        "source": "WIKT",
+        "senseKey": "39633s1e4",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00086596v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251461663
+      },
+      {
+        "fullLemma": "부정하다",
+        "simpleLemma": "부정하다",
+        "source": "WIKT",
+        "senseKey": "39633s1e4",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00086596v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251461625
+      },
+      {
+        "fullLemma": "부정하",
+        "simpleLemma": "부정하",
+        "source": "OMWN_KO",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00086596v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251862515
+      }
+    ],
+    "domains": {},
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "00554989v"
+          ],
+          "2.0": [
+            "00790829v"
+          ],
+          "2.1": [
+            "00808451v"
+          ],
+          "1.5": [
+            "00459335v"
+          ],
+          "1.7": [
+            "00649884v"
+          ],
+          "3.0": [
+            "00817167v"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:00817167v",
+        "pos": "VERB",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "98067539",
+        "language": "EN",
+        "gloss": "Refuse to recognize or acknowledge",
+        "tokens": [
+          {
+            "start": 0,
+            "end": 5,
+            "id": {
+              "id": "bn:00086391v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "Refuse"
+          },
+          {
+            "start": 10,
+            "end": 18,
+            "id": {
+              "id": "bn:00082272v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "recognize"
+          }
+        ]
+      },
+      {
+        "source": "OMWIKI",
+        "sourceSense": "98067551",
+        "language": "EN",
+        "gloss": "To refuse strongly and solemnly to own or acknowledge.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98067576",
+        "language": "EN",
+        "gloss": "To refuse to own or to refuse to acknowledge one’s own.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98067588",
+        "language": "EN",
+        "gloss": "To refuse to give or grant something to someone.",
+        "tokens": []
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "98067576",
+        "language": "EN",
+        "gloss": "To refuse to own.",
+        "tokens": [
+          {
+            "start": 3,
+            "end": 8,
+            "id": {
+              "id": "bn:00086391v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "refuse"
+          }
+        ]
+      },
+      {
+        "source": "MSTERM",
+        "sourceSense": "98067574",
+        "language": "EN",
+        "gloss": "To refuse, object, block, or oppose the state of a resource or process.",
+        "tokens": [
+          {
+            "start": 3,
+            "end": 8,
+            "id": {
+              "id": "bn:00086391v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "refuse"
+          }
+        ]
+      },
+      {
+        "source": "OMWN_KO",
+        "sourceSense": "251862515",
+        "language": "KO",
+        "gloss": "인정하지 아니함.",
+        "tokens": []
+      }
+    ],
+    "examples": [
+      {
+        "source": "WN",
+        "sourceSense": "98067539",
+        "language": "EN",
+        "example": "Peter denied Jesus",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98067576",
+        "language": "EN",
+        "example": "Lord Capulet and his wife threatened to disown their daughter Juliet if she didn\u0027t go through with marrying Count Paris.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98067588",
+        "language": "EN",
+        "example": "My father denied me a good education.",
+        "tokens": []
+      }
+    ],
+    "images": [],
+    "categories": [],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  },
+  {
+    "id": {
+      "id": "bn:00092723v",
+      "pos": "VERB",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "거절하다",
+        "simpleLemma": "거절하다",
+        "source": "WIKT",
+        "senseKey": "86396s1e1",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00092723v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 98278040
+      },
+      {
+        "fullLemma": "부인하다",
+        "simpleLemma": "부인하다",
+        "source": "WIKT",
+        "senseKey": "39633s1e7",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00092723v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251476154
+      },
+      {
+        "fullLemma": "부정하다",
+        "simpleLemma": "부정하다",
+        "source": "WIKT",
+        "senseKey": "39633s1e7",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00092723v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251476116
+      },
+      {
+        "fullLemma": "거부하다",
+        "simpleLemma": "거부하다",
+        "source": "MSTERM",
+        "senseKey": "1056052",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00092723v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 98277923
+      },
+      {
+        "fullLemma": "거부하",
+        "simpleLemma": "거부하",
+        "source": "OMWN_KO",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00092723v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251847725
+      },
+      {
+        "fullLemma": "거절하",
+        "simpleLemma": "거절하",
+        "source": "OMWN_KO",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "VERB",
+        "synsetID": {
+          "id": "bn:00092723v",
+          "pos": "VERB",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 251847726
+      }
+    ],
+    "domains": {},
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "00462716v"
+          ],
+          "2.0": [
+            "00662708v"
+          ],
+          "2.1": [
+            "00677586v"
+          ],
+          "1.5": [
+            "00384834v"
+          ],
+          "1.7": [
+            "00545169v"
+          ],
+          "3.0": [
+            "00685683v"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:00685683v",
+        "pos": "VERB",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "98278078",
+        "language": "EN",
+        "gloss": "Refuse to accept or acknowledge",
+        "tokens": [
+          {
+            "start": 10,
+            "end": 15,
+            "id": {
+              "id": "bn:00082197v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "accept"
+          }
+        ]
+      },
+      {
+        "source": "OMWIKI",
+        "sourceSense": "98277982",
+        "language": "EN",
+        "gloss": "To refuse strongly and solemnly to own or acknowledge.",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98278015",
+        "language": "EN",
+        "gloss": "To refuse to accept.",
+        "tokens": [
+          {
+            "start": 13,
+            "end": 18,
+            "id": {
+              "id": "bn:00082197v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "accept"
+          }
+        ]
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98278058",
+        "language": "EN",
+        "gloss": "To refuse to give or grant something to someone.",
+        "tokens": []
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "98278015",
+        "language": "EN",
+        "gloss": "Refuse to accept.",
+        "tokens": [
+          {
+            "start": 10,
+            "end": 15,
+            "id": {
+              "id": "bn:00082197v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "accept"
+          }
+        ]
+      },
+      {
+        "source": "MSTERM",
+        "sourceSense": "98277964",
+        "language": "EN",
+        "gloss": "To refuse to accept a file or message.",
+        "tokens": [
+          {
+            "start": 13,
+            "end": 18,
+            "id": {
+              "id": "bn:00082197v",
+              "pos": "VERB",
+              "source": "BABELNET"
+            },
+            "word": "accept"
+          }
+        ]
+      },
+      {
+        "source": "OMWN_KO",
+        "sourceSense": "251847726",
+        "language": "KO",
+        "gloss": "받아들이지 않고 물리침.",
+        "tokens": []
+      }
+    ],
+    "examples": [
+      {
+        "source": "WN",
+        "sourceSense": "98278078",
+        "language": "EN",
+        "example": "The journal rejected the student\u0027s paper",
+        "tokens": []
+      },
+      {
+        "source": "WN",
+        "sourceSense": "98278078",
+        "language": "EN",
+        "example": "I reject the idea of starting a war",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "98278015",
+        "language": "EN",
+        "example": "She even rejected my improved offer.",
+        "tokens": []
+      }
+    ],
+    "images": [],
+    "categories": [],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "EN",
+      "KO"
+    ]
+  }
+]

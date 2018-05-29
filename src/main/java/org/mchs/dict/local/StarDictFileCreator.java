@@ -20,7 +20,7 @@ public class StarDictFileCreator {
 
     public static void main(String[] args) throws IOException {
 
-        Map<String, String> fileSet = DirectoryAndFileOperations.createFileList(FILE_FOLDER_PATH);
+        Map<String, String> fileSet = DirectoryAndFileOperations.createFileList(FILE_FOLDER_PATH, true);
         System.out.println(fileSet.keySet().size() + " entries.");
 
         StringBuilder sb = new StringBuilder();

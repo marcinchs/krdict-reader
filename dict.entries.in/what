@@ -1,14 +1,14 @@
 <i>adverb</i>: 어쩜 [어쩜], 어쩌면 [어쩌면] <i>determiner</i>: 웬 [웬ː], 어떤 [어떤], 무슨 [무슨] <i>interjection</i>: 응 [응], 어 [어], 어 [어], 아니 [아니], 뭐 [뭐ː], 무어 [무어], 머 [머] <i>pronoun</i>: 뭣 [뭗ː], 뭐 [뭐ː], 무엇 [무얻], 무어 [무어], 머 [머] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adverb</i><br>
-<dt>어쩜 [어쩜]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어쩜 [어쩜]</dt><br>
 <dd>1. maybe; perhaps; possibly</dd><br>
 <dd>확실하지는 않지만 짐작하건대.</dd><br>
 <dd>Not sure but presumably.</dd><br>
 <dd>2. how; what</dd><br>
 <dd>도대체 어떻게 해서.</dd><br>
 <dd>How on earth, as if one cannot believe it.</dd><br>
-<dt>어쩌면 [어쩌면]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어쩌면 [어쩌면]</dt><br>
 <dd>1. maybe; perhaps; possibly</dd><br>
 <dd>확실하지는 않지만 짐작하건대.</dd><br>
 <dd>Not sure but presumably.</dd><br>
@@ -17,14 +17,14 @@
 <dd>How on earth.</dd><br>
 </li>
 <li><i>determiner</i><br>
-<dt>웬 [웬ː]</dt><br>
+<dt><span>&#8227;&nbsp;</span>웬 [웬ː]</dt><br>
 <dd>1. what</dd><br>
 <dd>어찌 된.</dd><br>
 <dd>What</dd><br>
 <dd>2. a certain</dd><br>
 <dd>어떠한.</dd><br>
 <dd>A certain</dd><br>
-<dt>어떤 [어떤]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어떤 [어떤]</dt><br>
 <dd>1. what</dd><br>
 <dd>사람이나 사물의 특징, 내용, 성격, 성질, 모양 등이 무엇인지 물을 때 쓰는 말.</dd><br>
 <dd>A word used when asking what characteristic, content, personality, quality, shape, etc., a person or object has.</dd><br>
@@ -37,7 +37,7 @@
 <dd>4. any</dd><br>
 <dd>관련되는 대상을 특별히 제한하지 않고 나타낼 때 쓰는 말.</dd><br>
 <dd>A word used to refer to a subject without setting limits to it.</dd><br>
-<dt>무슨 [무슨]</dt><br>
+<dt><span>&#8227;&nbsp;</span>무슨 [무슨]</dt><br>
 <dd>1. what</dd><br>
 <dd>확실하지 않거나 잘 모르는 일, 대상, 물건 등을 물을 때 쓰는 말.</dd><br>
 <dd>An expression used to ask about a business, subject or object that one is not sure of or does not exactly know.</dd><br>
@@ -52,7 +52,7 @@
 <dd>An adjective used to emphasize one's objection.</dd><br>
 </li>
 <li><i>interjection</i><br>
-<dt>응 [응]</dt><br>
+<dt><span>&#8227;&nbsp;</span>응 [응]</dt><br>
 <dd>1. yes</dd><br>
 <dd>상대방의 부름에 대답할 때 쓰는 말.</dd><br>
 <dd>An exclamation uttered when the speaker answers someone's call.</dd><br>
@@ -68,7 +68,7 @@
 <dd>5. hm; eh</dd><br>
 <dd>상대방의 말이나 행동이 마음에 들지 않아 불평을 할 때 쓰는 말.</dd><br>
 <dd>An exclamation uttered when the speaker complains because he/she does not like someone's words or behavior.</dd><br>
-<dt>어 [어]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어 [어]</dt><br>
 <dd>1. yes; yup; yeah</dd><br>
 <dd>상대방의 부름에 대답할 때 쓰는 말.</dd><br>
 <dd>An exclamation used when answering the call of someone.</dd><br>
@@ -84,7 +84,7 @@
 <dd>5. eh; huh</dd><br>
 <dd>상대방의 말이나 행동이 마음에 들지 않아 불평을 할 때 쓰는 말.</dd><br>
 <dd>An exclamation used when the speaker makes a complaint because he/she does not like the other party's way of speaking or behaving.</dd><br>
-<dt>어 [어]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어 [어]</dt><br>
 <dd>1. oh no; what; huh</dd><br>
 <dd>놀라움, 당황함, 초조함, 다급함의 느낌을 나타낼 때 내는 소리.</dd><br>
 <dd>An exclamation uttered when the speaker expresses his/her surprise, embarrassment, impatience, or urgency.</dd><br>
@@ -103,14 +103,14 @@
 <dd>6. umm</dd><br>
 <dd>주저하며 말을 시작할 때 내는 소리.</dd><br>
 <dd>An exclamation uttered when the speaker begins to talk in hesitation.</dd><br>
-<dt>아니 [아니]</dt><br>
+<dt><span>&#8227;&nbsp;</span>아니 [아니]</dt><br>
 <dd>1. no; nope; no way</dd><br>
 <dd>아랫사람이나 나이나 지위 등이 비슷한 사람이 물어 보는 말에 대해 부정하여 대답할 때 쓰는 말.</dd><br>
 <dd>An exclamation uttered when the speaker gives a negative answer to the question asked by his/her junior or someone of a similar age or position.</dd><br>
 <dd>2. what; no way; oh no</dd><br>
 <dd>놀라거나 감탄스러울 때, 또는 의심스럽고 이상할 때 하는 말.</dd><br>
 <dd>An exclamation uttered when the speaker is surprised, impressed, has doubts, or feels that something is strange.</dd><br>
-<dt>뭐 [뭐ː]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뭐 [뭐ː]</dt><br>
 <dd>1. what; oh my goodness; oh my gosh</dd><br>
 <dd>놀랐을 때 내는 소리.</dd><br>
 <dd>An exclamation used when the speaker is surprised.</dd><br>
@@ -126,7 +126,7 @@
 <dd>5. oh well; anyway</dd><br>
 <dd>더 이상 여러 말 할 것 없다는 뜻으로 어떤 사실을 체념하여 받아들이며 하는 말.</dd><br>
 <dd>An exclamation used to indicate that it is useless to say anymore, when the speaker accepts a certain fact resignedly.</dd><br>
-<dt>무어 [무어]</dt><br>
+<dt><span>&#8227;&nbsp;</span>무어 [무어]</dt><br>
 <dd>1. what; oh my goodness; oh my gosh</dd><br>
 <dd>놀랐을 때 내는 소리.</dd><br>
 <dd>An exclamation used when the speaker is surprised.</dd><br>
@@ -142,7 +142,7 @@
 <dd>5. oh well; anyway</dd><br>
 <dd>더 이상 여러 말 할 것 없다는 뜻으로 어떤 사실을 체념하여 받아들이며 하는 말.</dd><br>
 <dd>An exclamation used to indicate that it is useless to say anymore, when the speaker accepts a certain fact resignedly.</dd><br>
-<dt>머 [머]</dt><br>
+<dt><span>&#8227;&nbsp;</span>머 [머]</dt><br>
 <dd>1. what; oh my goodness; oh my gosh</dd><br>
 <dd>놀랐을 때 내는 소리.</dd><br>
 <dd>An exclamation used when the speaker is surprised.</dd><br>
@@ -160,14 +160,14 @@
 <dd>An exclamation used to indicate that it is useless to say anymore, when the speaker accepts a certain fact resignedly.</dd><br>
 </li>
 <li><i>pronoun</i><br>
-<dt>뭣 [뭗ː]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뭣 [뭗ː]</dt><br>
 <dd>1. what</dd><br>
 <dd>모르는 사실이나 사물을 가리키는 말.</dd><br>
 <dd>A word indicating an unknown fact or thing.</dd><br>
 <dd>2. anything; something</dd><br>
 <dd>정해지지 않은 대상이나 굳이 이름을 밝힐 필요가 없는 대상을 가리키는 말.</dd><br>
 <dd>A word that refers to an object that is not specified or whose name it is not necessary to reveal.</dd><br>
-<dt>뭐 [뭐ː]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뭐 [뭐ː]</dt><br>
 <dd>1. what</dd><br>
 <dd>모르는 사실이나 사물을 가리키는 말.</dd><br>
 <dd>A pronoun used to refer to a fact or object that one does not know of.</dd><br>
@@ -177,21 +177,21 @@
 <dd></dd><br>
 <dd>3. 이미 일어난 뜻밖의 일이나 상황에 놀라거나 후회하거나 아쉬워하면서 그것을 강조함을 나타내는 말.</dd><br>
 <dd></dd><br>
-<dt>무엇 [무얻]</dt><br>
+<dt><span>&#8227;&nbsp;</span>무엇 [무얻]</dt><br>
 <dd>1. what</dd><br>
 <dd>모르는 사실이나 사물을 가리키는 말.</dd><br>
 <dd>A word indicating an unknown fact or thing.</dd><br>
 <dd>2. anything; something</dd><br>
 <dd>정해지지 않은 대상이나 굳이 이름을 밝힐 필요가 없는 대상을 가리키는 말.</dd><br>
 <dd>Anything; something</dd><br>
-<dt>무어 [무어]</dt><br>
+<dt><span>&#8227;&nbsp;</span>무어 [무어]</dt><br>
 <dd>1. what</dd><br>
 <dd>모르는 사실이나 사물을 가리키는 말.</dd><br>
 <dd>A pronoun used to refer to a fact or object that one does not know of.</dd><br>
 <dd>2. whichever</dd><br>
 <dd>정해지지 않은 대상이나 굳이 이름을 밝힐 필요가 없는 대상을 가리키는 말.</dd><br>
 <dd>A pronoun used to refer to a subject that does not need to be specified or named.</dd><br>
-<dt>머 [머]</dt><br>
+<dt><span>&#8227;&nbsp;</span>머 [머]</dt><br>
 <dd>1. what</dd><br>
 <dd>모르는 사실이나 사물을 가리키는 말.</dd><br>
 <dd>A word that refers to an unknown fact or thing.</dd><br>

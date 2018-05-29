@@ -1,7 +1,7 @@
 <i>adverb</i>: 툭툭 [툭툭], 툭 [툭], 톡톡 [톡톡], 톡 [톡], 쫄랑쫄랑 [쫄랑쫄랑], 지그시 [지그시], 졸졸 [졸졸], 졸랑졸랑 [졸랑졸랑], 조르르 [조르르], 조록조록 [조록쪼록], 잔잔히 [잔잔히], 원만히 [원만히], 얌전히 [얌전히], 슬슬 [슬슬], 슬며시 [슬며시], 술술 [술술], 솔솔 [솔솔], 소르르 [소르르], 설설 [설설], 새근새근 [새근새근], 살포시 [살포시], 살살 [살살], 살살 [살살], 살랑살랑 [살랑살랑], 살랑 [살랑], 사르르 [사르르], 부슬부슬 [부슬부슬], 보슬보슬 [보슬보슬], 두리둥실 [두리둥실], 두둥실 [두둥실], 그윽이 [그으기], 고즈넉이 [고즈너기], 건들건들 [건들건들], 간들간들 [간들간들], 가만가만히 [가만가만히], 가만가만 [가만가만] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adverb</i><br>
-<dt>툭툭 [툭툭]</dt><br>
+<dt><span>&#8227;&nbsp;</span>툭툭 [툭툭]</dt><br>
 <dd>1. pop-pop</dd><br>
 <dd>자꾸 튀거나 터지는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when something suddenly keeps popping up or bursting open, or describing such a scene.</dd><br>
@@ -26,7 +26,7 @@
 <dd>8. bulgingly</dd><br>
 <dd>여기저기 둥글게 내밀어 나온 모양.</dd><br>
 <dd>A word describing several parts of something protruding here and there.</dd><br>
-<dt>툭 [툭]</dt><br>
+<dt><span>&#8227;&nbsp;</span>툭 [툭]</dt><br>
 <dd>1. pop</dd><br>
 <dd>갑자기 튀거나 터지는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when something suddenly pops up or bursts open, or describing such a scene.</dd><br>
@@ -54,7 +54,7 @@
 <dd>9. openly</dd><br>
 <dd>환하게 트이거나 숨기는 것 없이 터놓는 모양.</dd><br>
 <dd>A word describing a place with an open view, or someone speaking frankly.</dd><br>
-<dt>톡톡 [톡톡]</dt><br>
+<dt><span>&#8227;&nbsp;</span>톡톡 [톡톡]</dt><br>
 <dd>1. pop pop</dd><br>
 <dd>작은 것이 갑자기 자꾸 튀거나 터지는 소리나 모양.</dd><br>
 <dd>In a manner of small things suddenly popping up or bursting open repeatedly, or such sound.</dd><br>
@@ -85,7 +85,7 @@
 <dd>10. pungently</dd><br>
 <dd>갑자기 혀끝이나 코 등이 자꾸 짜릿해지는 느낌.</dd><br>
 <dd>In a manner of the tip of the tongue, nose, etc., feeling pungency.</dd><br>
-<dt>톡 [톡]</dt><br>
+<dt><span>&#8227;&nbsp;</span>톡 [톡]</dt><br>
 <dd>1. pop</dd><br>
 <dd>작은 것이 갑자기 튀거나 터지는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when a small thing suddenly pops up or bursts open, or describing such a scene.</dd><br>
@@ -116,21 +116,21 @@
 <dd>10. pungently</dd><br>
 <dd>갑자기 혀끝이나 코 등이 짜릿해지는 느낌.</dd><br>
 <dd>A word describing the feeling of pungency at the tip of the tongue, nose, etc.</dd><br>
-<dt>쫄랑쫄랑 [쫄랑쫄랑]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쫄랑쫄랑 [쫄랑쫄랑]</dt><br>
 <dd>1. gently</dd><br>
 <dd>물 등이 자꾸 작은 물결을 이루며 흔들리는 소리. 또는 그 모양.</dd><br>
 <dd>A word used to describe the shaking sound made when water, etc., forms small ripples, or such a motion.</dd><br>
 <dd>2. playfully</dd><br>
 <dd>자꾸 가볍고 조심성 없게 까부는 모양.</dd><br>
 <dd>In the manner of acting lightly and playfully with no regard to caution.</dd><br>
-<dt>지그시 [지그시]</dt><br>
+<dt><span>&#8227;&nbsp;</span>지그시 [지그시]</dt><br>
 <dd>1. softly; gently</dd><br>
 <dd>슬며시 힘을 주는 모양.</dd><br>
 <dd>In the manner of applying pressure lightly.</dd><br>
 <dd>2. patiently</dd><br>
 <dd>조용히 참고 견디는 모양.</dd><br>
 <dd>In the manner of enduring quietly.</dd><br>
-<dt>졸졸 [졸졸]</dt><br>
+<dt><span>&#8227;&nbsp;</span>졸졸 [졸졸]</dt><br>
 <dd>1. continuously; gently</dd><br>
 <dd>가는 물줄기 등이 계속해서 부드럽게 흐르는 소리. 또는 그런 모양.</dd><br>
 <dd>With a sound resembling the one that is produced when a thin, narrow flow of water, etc., keeps running gently, or such an action.</dd><br>
@@ -143,14 +143,14 @@
 <dd>4. without stopping</dd><br>
 <dd>조금도 막힘이 없이 글을 읽거나 쓰거나 말하는 모양.</dd><br>
 <dd>In such a manner that one reads, writes or speaks without faltering a bit.</dd><br>
-<dt>졸랑졸랑 [졸랑졸랑]</dt><br>
+<dt><span>&#8227;&nbsp;</span>졸랑졸랑 [졸랑졸랑]</dt><br>
 <dd>1. gently</dd><br>
 <dd>물 등이 자꾸 작은 물결을 이루며 흔들리는 소리. 또는 그 모양.</dd><br>
 <dd>In a manner of water, etc., forming small ripples repeatedly and producing shaking sound, or such a shape.</dd><br>
 <dd>2. playfully</dd><br>
 <dd>자꾸 가볍고 조심성 없게 까부는 모양.</dd><br>
 <dd>In a manner of acting lightly and playfully with no regard to caution.</dd><br>
-<dt>조르르 [조르르]</dt><br>
+<dt><span>&#8227;&nbsp;</span>조르르 [조르르]</dt><br>
 <dd>1. gently</dd><br>
 <dd>가는 물줄기 등이 빠르게 흘러내리는 소리. 또는 그 모양.</dd><br>
 <dd>In such a manner that a thin, narrow flow of water, etc., runs down, or the sound made by such a flow.</dd><br>
@@ -163,11 +163,11 @@
 <dd>4. neatly</dd><br>
 <dd>작은 것들이 한 줄로 고르게 있는 모양.</dd><br>
 <dd>In a manner of a group of small objects being in a single, neat file.</dd><br>
-<dt>조록조록 [조록쪼록]</dt><br>
+<dt><span>&#8227;&nbsp;</span>조록조록 [조록쪼록]</dt><br>
 <dd>gently; softly</dd><br>
 <dd>비나 가는 물줄기 등이 빠르게 자꾸 내리거나 흐르는 소리 또는 모양.</dd><br>
 <dd>With a sound resembling one that is produced when rain or a narrow stream of water falls down quickly and continuously, or such an action.</dd><br>
-<dt>잔잔히 [잔잔히]</dt><br>
+<dt><span>&#8227;&nbsp;</span>잔잔히 [잔잔히]</dt><br>
 <dd>1. calmly; tranquilly; quietly</dd><br>
 <dd>바람이나 물결 등이 심하지 않고 움직임이 거의 없이.</dd><br>
 <dd>In the state of the wind, a wave, etc., being still and not severe.</dd><br>
@@ -180,7 +180,7 @@
 <dd>4. gently</dd><br>
 <dd>소리가 조용하고 부드럽게.</dd><br>
 <dd>In the state of a sound being quiet and soft.</dd><br>
-<dt>원만히 [원만히]</dt><br>
+<dt><span>&#8227;&nbsp;</span>원만히 [원만히]</dt><br>
 <dd>1. mildly; gently</dd><br>
 <dd>성격이 부드럽고 너그럽게.</dd><br>
 <dd>In the state of one's personality being gentle and generous.</dd><br>
@@ -190,14 +190,14 @@
 <dd>3. intimately; harmoniously</dd><br>
 <dd>서로 사이가 좋게.</dd><br>
 <dd>In the state of getting along well with each other.</dd><br>
-<dt>얌전히 [얌전히]</dt><br>
+<dt><span>&#8227;&nbsp;</span>얌전히 [얌전히]</dt><br>
 <dd>1. gently; meekly</dd><br>
 <dd>성격이나 태도가 조용하고 차분하게.</dd><br>
 <dd>With a quiet and calm personality or attitude.</dd><br>
 <dd>2. neatly; cleanly; tidily</dd><br>
 <dd>모양이 단정하고 반듯하게.</dd><br>
 <dd>In a neat and tidy shape.</dd><br>
-<dt>슬슬 [슬슬]</dt><br>
+<dt><span>&#8227;&nbsp;</span>슬슬 [슬슬]</dt><br>
 <dd>1. stealthily</dd><br>
 <dd>남이 알아차리지 못하게 천천히 조용하게 행동하는 모양.</dd><br>
 <dd>In the manner of acting slowly and quietly so that others do not know.</dd><br>
@@ -222,7 +222,7 @@
 <dd>8. effortlessly</dd><br>
 <dd>힘들이지 않고 쉽게 하는 모양.</dd><br>
 <dd>In the manner of doing something easily without much effort.</dd><br>
-<dt>슬며시 [슬며시]</dt><br>
+<dt><span>&#8227;&nbsp;</span>슬며시 [슬며시]</dt><br>
 <dd>1. gently</dd><br>
 <dd>남이 알아차리지 못하도록 드러나지 않게 가만히.</dd><br>
 <dd>In a gentle manner that someone behaves so that other people will not notice.</dd><br>
@@ -232,7 +232,7 @@
 <dd>3. slowly</dd><br>
 <dd>속으로 천천히 은밀하게.</dd><br>
 <dd>In a manner of being slow and secretive.</dd><br>
-<dt>술술 [술술]</dt><br>
+<dt><span>&#8227;&nbsp;</span>술술 [술술]</dt><br>
 <dd>1. smoothly</dd><br>
 <dd>물이나 가루 등이 틈이나 구멍으로 잇따라 조금씩 새어 나오는 모양.</dd><br>
 <dd>A word describing water, powder, etc., coming through a crack or hole little by little.</dd><br>
@@ -251,7 +251,7 @@
 <dd>6. easily</dd><br>
 <dd>해결하기 어려운 일이나 문제가 쉽게 풀리는 모양.</dd><br>
 <dd>In the state of a knotty or difficult problem being solved easily.</dd><br>
-<dt>솔솔 [솔솔]</dt><br>
+<dt><span>&#8227;&nbsp;</span>솔솔 [솔솔]</dt><br>
 <dd>1. smoothly</dd><br>
 <dd>물이나 가루 등이 틈이나 구멍으로 조금씩 새어 나오는 모양.</dd><br>
 <dd>A word describing water, powder, etc., coming through a crack or hole little by little.</dd><br>
@@ -279,7 +279,7 @@
 <dd>9. slowly; quietly</dd><br>
 <dd>잠에 조금씩 빠지는 모양.</dd><br>
 <dd>In the state of falling asleep slowly.</dd><br>
-<dt>소르르 [소르르]</dt><br>
+<dt><span>&#8227;&nbsp;</span>소르르 [소르르]</dt><br>
 <dd>1. smoothly; readily</dd><br>
 <dd>얽히거나 뭉친 물건이 쉽게 잘 풀리는 모양.</dd><br>
 <dd>A word describing a tangled thing unwinding easily.</dd><br>
@@ -292,28 +292,28 @@
 <dd>4. quietly</dd><br>
 <dd>살며시 졸음이 오거나 잠이 드는 모양.</dd><br>
 <dd>A word describing one falling asleep or dozing off quietly.</dd><br>
-<dt>설설 [설설]</dt><br>
+<dt><span>&#8227;&nbsp;</span>설설 [설설]</dt><br>
 <dd>1. gently; comfortably</dd><br>
 <dd>물이 천천히 고루 끓거나 바닥이 고루 따뜻한 모양.</dd><br>
 <dd>In the manner of water boiling slowly and evenly, or the floor being evenly warm.</dd><br>
 <dd>2. gently</dd><br>
 <dd>머리를 좌우로 천천히 잇따라 흔드는 모양.</dd><br>
 <dd>In the manner of slowly shaking one's head left and right in a continuous fashion.</dd><br>
-<dt>새근새근 [새근새근]</dt><br>
+<dt><span>&#8227;&nbsp;</span>새근새근 [새근새근]</dt><br>
 <dd>1. in a gasp</dd><br>
 <dd>고르지 않고 가쁘게 자꾸 숨 쉬는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when gasping unevenly and repeatedly, or describing one in this state.</dd><br>
 <dd>2. quietly; gently</dd><br>
 <dd>어린아이가 깊이 잠들어 조용하게 자꾸 숨 쉬는 소리. 또는 그 모양.</dd><br>
 <dd>A word imitating the sound made when a child makes quiet, breathing sounds repeatedly in his/her sleep, or to make such sounds repeatedly.</dd><br>
-<dt>살포시 [살포시]</dt><br>
+<dt><span>&#8227;&nbsp;</span>살포시 [살포시]</dt><br>
 <dd>1. gently; softly</dd><br>
 <dd>포근하게 살며시.</dd><br>
 <dd>In a snug and discreet manner.</dd><br>
 <dd>2. secretly; furtively</dd><br>
 <dd>남의 눈에 뜨지 않게 살짝.</dd><br>
 <dd>In such a stealthy manner that it does not attract attention.</dd><br>
-<dt>살살 [살살]</dt><br>
+<dt><span>&#8227;&nbsp;</span>살살 [살살]</dt><br>
 <dd>1. stealthily</dd><br>
 <dd>남이 알아차리지 못하게 천천히 조용하게 행동하는 모양.</dd><br>
 <dd>In the manner of acting slowly and quietly so that others do not know.</dd><br>
@@ -335,7 +335,7 @@
 <dd>7. smoothly</dd><br>
 <dd>얽힌 실 등이 잘 풀리는 모양.</dd><br>
 <dd>In the manner of tangled thread, etc., disentangling easily.</dd><br>
-<dt>살살 [살살]</dt><br>
+<dt><span>&#8227;&nbsp;</span>살살 [살살]</dt><br>
 <dd>1. gently</dd><br>
 <dd>물 등이 천천히 고루 끓는 모양.</dd><br>
 <dd>In the manner of water, etc., boiling slowly and evenly.</dd><br>
@@ -351,7 +351,7 @@
 <dd>5. gently</dd><br>
 <dd>머리나 꼬리 등을 좌우로 가볍게 흔드는 모양.</dd><br>
 <dd>In the manner of lightly shaking one's head, tail, etc. left and right.</dd><br>
-<dt>살랑살랑 [살랑살랑]</dt><br>
+<dt><span>&#8227;&nbsp;</span>살랑살랑 [살랑살랑]</dt><br>
 <dd>1. lightly</dd><br>
 <dd>바람이 가볍게 자꾸 부는 모양.</dd><br>
 <dd>A word describing a breeze blowing lightly and repeatedly.</dd><br>
@@ -361,11 +361,11 @@
 <dd>3. gently</dd><br>
 <dd>사람이나 동물이 몸이나 물건 등을 가볍게 자꾸 움직이는 모양.</dd><br>
 <dd>A word describing a person or animal moving a body, object, etc., lightly and repeatedly.</dd><br>
-<dt>살랑 [살랑]</dt><br>
+<dt><span>&#8227;&nbsp;</span>살랑 [살랑]</dt><br>
 <dd>lightly; gently</dd><br>
 <dd>바람이 가볍게 부는 모양.</dd><br>
 <dd>A word describing breeze blowing lightly.</dd><br>
-<dt>사르르 [사르르]</dt><br>
+<dt><span>&#8227;&nbsp;</span>사르르 [사르르]</dt><br>
 <dd>1. of itself</dd><br>
 <dd>얽히거나 뭉쳤던 것이 저절로 부드럽게 풀리는 모양.</dd><br>
 <dd>In the manner that something tangled or lumped is gently disentangled by itself.</dd><br>
@@ -387,37 +387,37 @@
 <dd>7. slightly</dd><br>
 <dd>배 등 몸의 일부가 조금씩 아픈 느낌.</dd><br>
 <dd>In a state in which a part of one's body such as the stomach aches a little.</dd><br>
-<dt>부슬부슬 [부슬부슬]</dt><br>
+<dt><span>&#8227;&nbsp;</span>부슬부슬 [부슬부슬]</dt><br>
 <dd>softly; gently</dd><br>
 <dd>비나 눈이 조금씩 조용히 내리는 모양.</dd><br>
 <dd>A word describing the manner of rain or snow falling lightly and quietly.</dd><br>
-<dt>보슬보슬 [보슬보슬]</dt><br>
+<dt><span>&#8227;&nbsp;</span>보슬보슬 [보슬보슬]</dt><br>
 <dd>drizzly; gently</dd><br>
 <dd>비나 눈이 조금씩 가늘고 조용하게 내리는 모양.</dd><br>
 <dd>A word describing the manner of rain or snow falling little by little, quietly.</dd><br>
-<dt>두리둥실 [두리둥실]</dt><br>
+<dt><span>&#8227;&nbsp;</span>두리둥실 [두리둥실]</dt><br>
 <dd>buoyantly; gently</dd><br>
 <dd>물체가 물 위나 공중에 가볍게 떠서 움직이는 모양.</dd><br>
 <dd>A word describing the movement of something floating lightly on the water or in the air.</dd><br>
-<dt>두둥실 [두둥실]</dt><br>
+<dt><span>&#8227;&nbsp;</span>두둥실 [두둥실]</dt><br>
 <dd>lightly; gently</dd><br>
 <dd>물건이 가볍게 떠오르거나 떠 있는 모양.</dd><br>
 <dd>A word describing the state or movement of something floating or rising softly.</dd><br>
-<dt>그윽이 [그으기]</dt><br>
+<dt><span>&#8227;&nbsp;</span>그윽이 [그으기]</dt><br>
 <dd>1. quietly; intimately</dd><br>
 <dd>마음에 주는 느낌이 깊고 평안하게.</dd><br>
 <dd>In the manner of giving deep and peaceful feelings.</dd><br>
 <dd>2. gently; mildly</dd><br>
 <dd>인상이나 느낌이 은근하게.</dd><br>
 <dd>In the manner of looking or feeling soft.</dd><br>
-<dt>고즈넉이 [고즈너기]</dt><br>
+<dt><span>&#8227;&nbsp;</span>고즈넉이 [고즈너기]</dt><br>
 <dd>1. snugly; cozily</dd><br>
 <dd>조용하고 편안하게.</dd><br>
 <dd>Quietly and comfortably.</dd><br>
 <dd>2. quiety; gently</dd><br>
 <dd>조용하고 소리가 낮게.</dd><br>
 <dd>Quietly and with a low sound.</dd><br>
-<dt>건들건들 [건들건들]</dt><br>
+<dt><span>&#8227;&nbsp;</span>건들건들 [건들건들]</dt><br>
 <dd>1. gently; softly</dd><br>
 <dd>바람이 가볍고 부드럽게 자꾸 부는 모양.</dd><br>
 <dd>A word describing the manner of the wind blowing lightly.</dd><br>
@@ -430,7 +430,7 @@
 <dd>4. waveringly</dd><br>
 <dd>물체가 이리저리 가볍게 자꾸 흔들리는 모양.</dd><br>
 <dd>A word describing the motion of a small object swaying back and forth gently.</dd><br>
-<dt>간들간들 [간들간들]</dt><br>
+<dt><span>&#8227;&nbsp;</span>간들간들 [간들간들]</dt><br>
 <dd>1. gently; softly</dd><br>
 <dd>바람이 가볍게 부는 모양.</dd><br>
 <dd>A word describing the manner of the wind blowing lightly.</dd><br>
@@ -443,11 +443,11 @@
 <dd>4. danglingly</dd><br>
 <dd>위태롭게 매달려 힘들게 붙어 있는 모양.</dd><br>
 <dd>A word describing the state of something hanging dangerously.</dd><br>
-<dt>가만가만히 [가만가만히]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가만가만히 [가만가만히]</dt><br>
 <dd>softly; gently</dd><br>
 <dd>아주 조용하고 조심스럽게.</dd><br>
 <dd>Very quietly and carefully.</dd><br>
-<dt>가만가만 [가만가만]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가만가만 [가만가만]</dt><br>
 <dd>softly; gently</dd><br>
 <dd>아주 조용하고 조심스럽게.</dd><br>
 <dd>Very quietly and carefully.</dd><br>

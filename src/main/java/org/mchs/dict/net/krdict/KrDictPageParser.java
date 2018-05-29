@@ -78,7 +78,7 @@ public class KrDictPageParser {
 
     private static String htmlizeEntry(Elements elements, List<String> list) {
         StringBuilder stringBuilder = new StringBuilder();
-        stringBuilder.append("<dt>").append(getEntryName(elements.get(0)))
+        stringBuilder.append("<dt><span>&#8227;&nbsp;</span>").append(getEntryName(elements.get(0)))
                 .append(" ").append(getPronunciation(elements.get(0)))
                 .append("</dt><br>").append("\n");
 

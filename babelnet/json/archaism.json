@@ -1,0 +1,506 @@
+[
+  {
+    "id": {
+      "id": "bn:00005396n",
+      "pos": "NOUN",
+      "source": "BABELNET"
+    },
+    "bKeyConcept": false,
+    "bLoaded": true,
+    "senses": [
+      {
+        "fullLemma": "고문체",
+        "simpleLemma": "고문체",
+        "source": "WIKI",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176802
+      },
+      {
+        "fullLemma": "고문법",
+        "simpleLemma": "고문법",
+        "source": "WIKIRED",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176808
+      },
+      {
+        "fullLemma": "고어체",
+        "simpleLemma": "고어체",
+        "source": "WIKIRED",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176805
+      },
+      {
+        "fullLemma": "아르카이즘",
+        "simpleLemma": "아르카이즘",
+        "source": "WIKIRED",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176804
+      },
+      {
+        "fullLemma": "아케이즘",
+        "simpleLemma": "아케이즘",
+        "source": "WIKIRED",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176806
+      },
+      {
+        "fullLemma": "의고주의",
+        "simpleLemma": "의고주의",
+        "source": "WIKIRED",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176807
+      },
+      {
+        "fullLemma": "의고체",
+        "simpleLemma": "의고체",
+        "source": "WIKIRED",
+        "senseKey": "1648182",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 269176803
+      },
+      {
+        "fullLemma": "archaicism",
+        "simpleLemma": "archaicism",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 45532791
+      },
+      {
+        "fullLemma": "의고체",
+        "simpleLemma": "의고체",
+        "source": "WNTR",
+        "senseKey": "",
+        "frequency": 0,
+        "language": "KO",
+        "pos": "NOUN",
+        "synsetID": {
+          "id": "bn:00005396n",
+          "pos": "NOUN",
+          "source": "BABELNET"
+        },
+        "translationInfo": "1.0_0_0",
+        "pronunciations": {
+          "audios": [],
+          "transcriptions": []
+        },
+        "bKeySense": false,
+        "idSense": 45532854
+      }
+    ],
+    "domains": {
+      "LANGUAGE_AND_LINGUISTICS": 0.5791100263595581
+    },
+    "lnToCompound": {},
+    "lnToOtherForm": {},
+    "wnOffsets": [
+      {
+        "versionMapping": {
+          "1.6": [
+            "05297902n"
+          ],
+          "2.0": [
+            "06639075n"
+          ],
+          "2.1": [
+            "06976509n"
+          ],
+          "1.5": [
+            "04579588n"
+          ],
+          "1.7": [
+            "05909864n"
+          ],
+          "3.0": [
+            "07073447n"
+          ]
+        },
+        "version": "WN_30",
+        "id": "wn:07073447n",
+        "pos": "NOUN",
+        "source": "WN"
+      }
+    ],
+    "mainSenses": {},
+    "glosses": [
+      {
+        "source": "WN",
+        "sourceSense": "45532780",
+        "language": "EN",
+        "gloss": "The use of an archaic expression",
+        "tokens": []
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "45532880",
+        "language": "EN",
+        "gloss": "In language, an archaism is the use of a form of speech or writing that is no longer current or that is current only within a few special contexts.",
+        "tokens": [
+          {
+            "start": 49,
+            "end": 54,
+            "id": {
+              "id": "bn:00049911n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "speech"
+          },
+          {
+            "start": 3,
+            "end": 10,
+            "id": {
+              "id": "bn:00049910n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "language"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDIS",
+        "sourceSense": "45532880",
+        "language": "EN",
+        "gloss": "A corpse (as in the term lich-house and a folk etymology for the toponyms Lichfield and Litchfield)",
+        "tokens": [
+          {
+            "start": 65,
+            "end": 72,
+            "id": {
+              "id": "bn:00077642n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "toponyms"
+          }
+        ]
+      },
+      {
+        "source": "WIKIDATA",
+        "sourceSense": "254773578",
+        "language": "EN",
+        "gloss": "Use of a form of speech or writing that is no longer current or that is current only within a few special contexts",
+        "tokens": []
+      },
+      {
+        "source": "WIKT",
+        "sourceSense": "45533089",
+        "language": "EN",
+        "gloss": "An archaic word, style, etc.",
+        "tokens": [
+          {
+            "start": 11,
+            "end": 14,
+            "id": {
+              "id": "bn:00081546n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "word"
+          }
+        ]
+      },
+      {
+        "source": "WIKTLB",
+        "sourceSense": "45533089",
+        "language": "EN",
+        "gloss": "Archaic word, language.",
+        "tokens": [
+          {
+            "start": 14,
+            "end": 21,
+            "id": {
+              "id": "bn:00049910n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "language"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "id": {
+              "id": "bn:00081546n",
+              "pos": "NOUN",
+              "source": "BABELNET"
+            },
+            "word": "word"
+          }
+        ]
+      },
+      {
+        "source": "WIKI",
+        "sourceSense": "269176802",
+        "language": "KO",
+        "gloss": "고문체 또는 의고체는 더 이상 일상 언어에서 사용되지 않거나, 특수한 문맥에서만 의도적으로 사용하는 어구이다.",
+        "tokens": []
+      }
+    ],
+    "examples": [],
+    "images": [
+      {
+        "name": "Nuvola_apps_edu_languages.svg#OMWIKI",
+        "languages": [
+          "KO"
+        ],
+        "urlSource": "OMWIKI",
+        "license": "CC_BY_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nuvola_apps_edu_languages.svg/200px-Nuvola_apps_edu_languages.svg.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nuvola_apps_edu_languages.svg",
+        "badImage": false
+      },
+      {
+        "name": "Ling_template-be.png#WIKI",
+        "languages": [
+          "BE_X_OLD"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ling_template-be.png/200px-Ling_template-be.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ling_template-be.png",
+        "badImage": false
+      },
+      {
+        "name": "Fr-archaïsme.ogg#WIKI",
+        "languages": [
+          "FR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fr-archa%C3%AFsme.ogg",
+        "badImage": false
+      },
+      {
+        "name": "LingusticStub.svg#WIKI",
+        "languages": [
+          "AR"
+        ],
+        "urlSource": "WIKI",
+        "license": "OTHER",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/ar/1/10/LingusticStub.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/ar/1/10/LingusticStub.svg",
+        "badImage": false
+      },
+      {
+        "name": "Inkwell_icon_-_Noun_Project_2512.svg#WIKI",
+        "languages": [
+          "TR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Inkwell_icon_-_Noun_Project_2512.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Inkwell_icon_-_Noun_Project_2512.svg",
+        "badImage": false
+      },
+      {
+        "name": "IPA_for_nikulec.svg#WIKI",
+        "languages": [
+          "MK"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/IPA_for_nikulec.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/IPA_for_nikulec.svg",
+        "badImage": false
+      },
+      {
+        "name": "Nuvola_mimetypes_charnotfound.PNG#WIKI",
+        "languages": [
+          "IT"
+        ],
+        "urlSource": "WIKI",
+        "license": "OTHER",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/it/6/63/Nuvola_mimetypes_charnotfound.PNG",
+        "url": "https://upload.wikimedia.org/wikipedia/it/6/63/Nuvola_mimetypes_charnotfound.PNG",
+        "badImage": false
+      },
+      {
+        "name": "Phonetik.svg#WIKI",
+        "languages": [
+          "FR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Phonetik.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Phonetik.svg",
+        "badImage": false
+      },
+      {
+        "name": "Small2_template.gif#WIKI",
+        "languages": [
+          "LV"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Small2_template.gif",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Small2_template.gif",
+        "badImage": false
+      },
+      {
+        "name": "Six_glyphs.svg#WIKI",
+        "languages": [
+          "JA"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Six_glyphs.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Six_glyphs.svg",
+        "badImage": false
+      },
+      {
+        "name": "Test-be-urdu.svg#WIKI",
+        "languages": [
+          "AR"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Test-be-urdu.svg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Test-be-urdu.svg",
+        "badImage": false
+      },
+      {
+        "name": "Current_event_marker.png#WIKI",
+        "languages": [
+          "EO"
+        ],
+        "urlSource": "WIKI",
+        "license": "CC_BY_SA_30",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Current_event_marker.png/200px-Current_event_marker.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Current_event_marker.png",
+        "badImage": false
+      }
+    ],
+    "categories": [
+      {
+        "category": "어휘론",
+        "language": "KO"
+      },
+      {
+        "category": "Archaic_words_and_phrases",
+        "language": "EN"
+      },
+      {
+        "category": "Lexicology",
+        "language": "EN"
+      }
+    ],
+    "synsetType": "CONCEPT",
+    "translations": {},
+    "targetLangs": [
+      "KO",
+      "EN"
+    ]
+  }
+]

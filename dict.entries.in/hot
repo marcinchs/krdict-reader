@@ -1,7 +1,7 @@
 <i>adjective</i>: 컬컬하다 [컬컬하다], 칼칼하다 [칼칼하다], 얼큰하다 [얼큰하다], 얼얼하다 [어럴하다], 아리다 [아리다], 시원하다 [시원하다], 섹시하다 [], 맵다 [맵따], 뜨겁다 [뜨겁따], 따끔하다 [따끔하다], 따끈따끈하다 [따끈따끈하다], 덥다 [덥ː따] <i>adverb</i>: 절절 [절절] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adjective</i><br>
-<dt>컬컬하다 [컬컬하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>컬컬하다 [컬컬하다]</dt><br>
 <dd>1. thirsty</dd><br>
 <dd>목이 몹시 말라서 물이나 술 등을 마시고 싶은 느낌이 있다.</dd><br>
 <dd>Having a desire to drink water, an alcoholic drink, etc., due to one's thirst.</dd><br>
@@ -11,7 +11,7 @@
 <dd>3. hot</dd><br>
 <dd>매워서 목을 자극하는 맛이 있다.</dd><br>
 <dd>Tasting so hot and spicy that one's throat burns.</dd><br>
-<dt>칼칼하다 [칼칼하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>칼칼하다 [칼칼하다]</dt><br>
 <dd>1. thirsty</dd><br>
 <dd>목이 말라서 물이나 술 등을 마시고 싶은 느낌이 있다.</dd><br>
 <dd>Having a desire to drink water, an alcoholic drink, etc., due to one's thirst.</dd><br>
@@ -21,14 +21,14 @@
 <dd>3. hot</dd><br>
 <dd>매워서 목을 자극하는 맛이 조금 있다.</dd><br>
 <dd>Tasting so hot and spicy that one's throat slightly burns.</dd><br>
-<dt>얼큰하다 [얼큰하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>얼큰하다 [얼큰하다]</dt><br>
 <dd>1. spicy; hot</dd><br>
 <dd>입 안이 얼얼할 정도로 약간 맵다.</dd><br>
 <dd>Being a bit spicy enough to feel tingly in one's mouth</dd><br>
 <dd>2. tipsy; drunk</dd><br>
 <dd>술에 취하여 정신이 약간 흐릿하다.</dd><br>
 <dd>One's mind being a bit foggy because one is drunk.</dd><br>
-<dt>얼얼하다 [어럴하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>얼얼하다 [어럴하다]</dt><br>
 <dd>1. hot; pungent</dd><br>
 <dd>맵거나 독하여 혀를 찌르는 듯이 아픈 느낌이 있다.</dd><br>
 <dd>One's tongue stinging due to a hot or strong flavor as if it had been pierced by something.</dd><br>
@@ -41,7 +41,7 @@
 <dd>4. confounded; bewildered; perplexed</dd><br>
 <dd>갑작스럽거나 혼란스러워서 정신이 흐리고 어리둥절한 느낌이 있다.</dd><br>
 <dd>Feeling stupefied and dazed because something is sudden or confusing.</dd><br>
-<dt>아리다 [아리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>아리다 [아리다]</dt><br>
 <dd>1. hot; pungent</dd><br>
 <dd>맵거나 독하여 혀가 찌르는 듯이 아픈 느낌이 있다.</dd><br>
 <dd>One's tongue aching due to a hot or strong flavor as if it had been pierced by something.</dd><br>
@@ -51,7 +51,7 @@
 <dd>3. aching</dd><br>
 <dd>마음이 몹시 아프다.</dd><br>
 <dd>One's heart being so painful.</dd><br>
-<dt>시원하다 [시원하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>시원하다 [시원하다]</dt><br>
 <dd>1. cool</dd><br>
 <dd>덥지도 춥지도 않고 적당하게 서늘하다.</dd><br>
 <dd>Moderately cool, neither hot nor cold.</dd><br>
@@ -76,11 +76,11 @@
 <dd>8. refreshed</dd><br>
 <dd>가렵거나 속이 더부룩하던 느낌이 사라져 기분이 좋다.</dd><br>
 <dd>Feeling good because an itch or heaviness on the stomach has gone away.</dd><br>
-<dt>섹시하다 []</dt><br>
+<dt><span>&#8227;&nbsp;</span>섹시하다 []</dt><br>
 <dd>sexy; hot</dd><br>
 <dd>외모나 행동에 성적인 매력이 있다.</dd><br>
 <dd>One's appearance or behavior being sexually attractive.</dd><br>
-<dt>맵다 [맵따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>맵다 [맵따]</dt><br>
 <dd>1. spicy; hot</dd><br>
 <dd>고추나 겨자처럼 맛이 화끈하고 혀끝을 쏘는 느낌이 있다.</dd><br>
 <dd>Having a tangy taste like red peppers or mustard, which causes a sharp sensation at the tip of the tongue.</dd><br>
@@ -93,7 +93,7 @@
 <dd>4. stinging</dd><br>
 <dd>연기 등이 눈이나 코를 자극하여 시큰하고 따갑다.</dd><br>
 <dd>A person's eyes or nose stinging or burning due to smoke, etc.</dd><br>
-<dt>뜨겁다 [뜨겁따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>뜨겁다 [뜨겁따]</dt><br>
 <dd>1. hot</dd><br>
 <dd>어떤 것의 온도가 높다.</dd><br>
 <dd>(temperature) High.</dd><br>
@@ -106,7 +106,7 @@
 <dd>4. strong; warm; passionate</dd><br>
 <dd>(비유적으로) 감정이나 열정 등이 격렬하고 강하다.</dd><br>
 <dd>(figurative) Intense and strong in feeling, passion, etc.</dd><br>
-<dt>따끔하다 [따끔하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>따끔하다 [따끔하다]</dt><br>
 <dd>1. smarting; hot</dd><br>
 <dd>따가울 정도로 몹시 덥다.</dd><br>
 <dd>Having a very hot, smarting feeling continuously.</dd><br>
@@ -116,11 +116,11 @@
 <dd>3. painful</dd><br>
 <dd>찔리거나 꼬집히는 것처럼 아프다.</dd><br>
 <dd>To have a hurtful feeling like being poked or pinched continuously.</dd><br>
-<dt>따끈따끈하다 [따끈따끈하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>따끈따끈하다 [따끈따끈하다]</dt><br>
 <dd>hot</dd><br>
 <dd>매우 따뜻하고 덥다.</dd><br>
 <dd>Very warm and hot.</dd><br>
-<dt>덥다 [덥ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>덥다 [덥ː따]</dt><br>
 <dd>1. hot</dd><br>
 <dd>몸으로 느끼기에 기온이 높다.</dd><br>
 <dd>(temperature) Feeling high.</dd><br>
@@ -129,7 +129,7 @@
 <dd>(temperature) High and warm.</dd><br>
 </li>
 <li><i>adverb</i><br>
-<dt>절절 [절절]</dt><br>
+<dt><span>&#8227;&nbsp;</span>절절 [절절]</dt><br>
 <dd>1. intensely; hot</dd><br>
 <dd>액체 등이 높은 온도로 끓는 모양.</dd><br>
 <dd>In a manner of a liquid, etc., boiling at a high temperature.</dd><br>

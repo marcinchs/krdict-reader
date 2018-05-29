@@ -1,7 +1,7 @@
 <i>verb</i>: 접속하다 [접쏘카다], 잇달다 [읻ː딸다], 잇다 [읻ː따], 연락하다 [열라카다], 연관하다 [연관하다], 연관시키다 [연관시키다], 연계하다 [연계하다/연게하다], 연계시키다 [연계시키다/연게시키다], 연결하다 [연결하다], 대다 [대ː다], 결부하다 [결부하다], 결부시키다 [결부시키다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>verb</i><br>
-<dt>접속하다 [접쏘카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>접속하다 [접쏘카다]</dt><br>
 <dd>1. connect</dd><br>
 <dd>서로 맞대어 잇다.</dd><br>
 <dd>To connect by conjunction.</dd><br>
@@ -11,7 +11,7 @@
 <dd>3. connect</dd><br>
 <dd>컴퓨터에서, 여러 개의 프로세서와 기억 장치 사이를 물리적으로 또는 전자 회로로 연결하다.</dd><br>
 <dd>In computing, to connect multiple processors and memory devices physically or through an electronic circuit.</dd><br>
-<dt>잇달다 [읻ː딸다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>잇달다 [읻ː딸다]</dt><br>
 <dd>1. come one after another</dd><br>
 <dd>어떤 물체가 다른 물체의 뒤를 이어 따르다.</dd><br>
 <dd>For one thing to follow another thing.</dd><br>
@@ -21,7 +21,7 @@
 <dd>3. connect; link</dd><br>
 <dd>어떤 사물을 다른 사물에 이어서 달다.</dd><br>
 <dd>To join one thing to another.</dd><br>
-<dt>잇다 [읻ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>잇다 [읻ː따]</dt><br>
 <dd>1. connect; link; join</dd><br>
 <dd>실, 끈, 조각 등의 두 끝을 매거나 붙여서 하나로 만들거나 물건 등을 맞대어 붙이다.</dd><br>
 <dd>To tie or glue two strings, cords, pieces, etc., together, or put things, etc., into contact.</dd><br>
@@ -34,7 +34,7 @@
 <dd>4. follow</dd><br>
 <dd>바로 뒤를 잇따르다.</dd><br>
 <dd>To happen right after something.</dd><br>
-<dt>연락하다 [열라카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연락하다 [열라카다]</dt><br>
 <dd>1. notify; communicate; speak to</dd><br>
 <dd>어떤 사실을 전하여 알리다.</dd><br>
 <dd>To deliver a fact in order to inform someone of it.</dd><br>
@@ -44,33 +44,33 @@
 <dd>3. connect</dd><br>
 <dd>떨어져 있는 두 지역을 서로 이어 주다.</dd><br>
 <dd>To connect two areas that are apart from each other.</dd><br>
-<dt>연관하다 [연관하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연관하다 [연관하다]</dt><br>
 <dd>connect; relate</dd><br>
 <dd>둘 이상의 사물이나 현상 등이 서로 관계를 맺다.</dd><br>
 <dd>To connect or relate two or more things or phenomena, etc., to each other.</dd><br>
-<dt>연관시키다 [연관시키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연관시키다 [연관시키다]</dt><br>
 <dd>connect; relate</dd><br>
 <dd>둘 이상의 사물이나 현상 등이 서로 관계를 맺게 하다.</dd><br>
 <dd>To connect or relate two or more things or phenomena, etc., to each other.</dd><br>
-<dt>연계하다 [연계하다/연게하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연계하다 [연계하다/연게하다]</dt><br>
 <dd>1. connect; link</dd><br>
 <dd>서로 연결되게 하다.</dd><br>
 <dd>To connect something.</dd><br>
 <dd>2. associate; connect</dd><br>
 <dd>서로 밀접하게 관계를 맺다.</dd><br>
 <dd>To form a close relationship.</dd><br>
-<dt>연계시키다 [연계시키다/연게시키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연계시키다 [연계시키다/연게시키다]</dt><br>
 <dd>1. connect; link</dd><br>
 <dd>서로 연결되게 하다.</dd><br>
 <dd>To connect persons, things, etc.</dd><br>
 <dd>2. associate; connect</dd><br>
 <dd>서로 밀접하게 관계를 맺게 하다.</dd><br>
 <dd>To form a close relationship.</dd><br>
-<dt>연결하다 [연결하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>연결하다 [연결하다]</dt><br>
 <dd>connect</dd><br>
 <dd>둘 이상의 사물이나 현상 등이 서로 이어지거나 관계를 맺다.</dd><br>
 <dd>To connect or relate two or more things or phenomena, etc., to each other.</dd><br>
-<dt>대다 [대ː다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>대다 [대ː다]</dt><br>
 <dd>1. be on time</dd><br>
 <dd>정해진 시간에 닿거나 맞추다.</dd><br>
 <dd>To be on time.</dd><br>
@@ -119,11 +119,11 @@
 <dd>16. say</dd><br>
 <dd>어떤 사실을 밝혀 말하다.</dd><br>
 <dd>To disclose a fact and speak of it.</dd><br>
-<dt>결부하다 [결부하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>결부하다 [결부하다]</dt><br>
 <dd>connect; relate</dd><br>
 <dd>어떤 사물이나 현상을 다른 것과 서로 관련시키다.</dd><br>
 <dd>To relate an object or phenomenon to another.</dd><br>
-<dt>결부시키다 [결부시키다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>결부시키다 [결부시키다]</dt><br>
 <dd>connect; relate</dd><br>
 <dd>어떤 사물이나 현상을 다른 것과 서로 관련시키다.</dd><br>
 <dd>To relate an object or phenomenon to another.</dd><br>

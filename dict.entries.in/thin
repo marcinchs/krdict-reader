@@ -1,7 +1,7 @@
 <i>adjective</i>: 희박하다 [히바카다], 홀쭉하다 [홀쭈카다], 잘다 [잘다], 옅다 [엳따], 엷다 [열ː따], 엉성하다 [엉성하다], 어설프다 [어ː설프다], 얇다 [얄ː따], 박약하다 [바갸카다], 묽다 [묵따], 멀겋다 [멀ː거타], 맹맹하다 [맹맹하다], 듬성하다 [듬성하다], 듬성듬성하다 [듬성듬성하다], 강마르다 [강마르다], 가늘다 [가늘다], 가느스름하다 [가느스름하다], 가느다랗다 [가느다라타] <i>verb</i>: 희석하다 [히서카다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>adjective</i><br>
-<dt>희박하다 [히바카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>희박하다 [히바카다]</dt><br>
 <dd>1. sparse; thin</dd><br>
 <dd>기체나 액체 등의 밀도나 농도가 짙지 못하고 낮거나 엷다.</dd><br>
 <dd>The density or concentration of a gas or liquid, etc., being low.</dd><br>
@@ -11,7 +11,7 @@
 <dd>3. slim; rare; little</dd><br>
 <dd>어떤 일이 이루어질 가능성이 적다.</dd><br>
 <dd>Something having little chance of being realized.</dd><br>
-<dt>홀쭉하다 [홀쭈카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>홀쭉하다 [홀쭈카다]</dt><br>
 <dd>1. slim; slender; thin</dd><br>
 <dd>길이에 비해 몸통이 가늘고 길다.</dd><br>
 <dd>The body of an object being thin and long compared to its length.</dd><br>
@@ -24,7 +24,7 @@
 <dd>4. pointy; thin; slim</dd><br>
 <dd>끝이 뾰족하고 길다.</dd><br>
 <dd>The edge of an object being long and pointy.</dd><br>
-<dt>잘다 [잘다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>잘다 [잘다]</dt><br>
 <dd>1. small; tiny; fine</dd><br>
 <dd>알곡이나 과일, 모래 등의 둥근 물건이나 글씨의 크기가 작다.</dd><br>
 <dd>A round object such as a grain, fruit, a grain of sand, etc., or the size of a character being small.</dd><br>
@@ -40,7 +40,7 @@
 <dd>5. small</dd><br>
 <dd>움직임이 작고 빠르다.</dd><br>
 <dd>Movements being small and fast.</dd><br>
-<dt>옅다 [엳따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>옅다 [엳따]</dt><br>
 <dd>1. shallow</dd><br>
 <dd>물의 겉면이 밑바닥에 가깝다.</dd><br>
 <dd>The surface of water being close to the ground.</dd><br>
@@ -68,7 +68,7 @@
 <dd>9. low; faint; hushed</dd><br>
 <dd>소리가 높지 않고 보통보다 작다.</dd><br>
 <dd>For a sound being not high and smaller than the average.</dd><br>
-<dt>엷다 [열ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>엷다 [열ː따]</dt><br>
 <dd>1. thin</dd><br>
 <dd>두께가 적다.</dd><br>
 <dd>Small in thickness.</dd><br>
@@ -81,7 +81,7 @@
 <dd>4. faint</dd><br>
 <dd>있는 듯 없는 듯 가볍다.</dd><br>
 <dd>So weak as to be barely perceived.</dd><br>
-<dt>엉성하다 [엉성하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>엉성하다 [엉성하다]</dt><br>
 <dd>1. loose</dd><br>
 <dd>잘 짜이지 않아 어설프고 빈틈이 있다.</dd><br>
 <dd>Something being incomplete and not dense in structure because it was made haphazardly.</dd><br>
@@ -94,7 +94,7 @@
 <dd>4. imperfect; deficient</dd><br>
 <dd>모양이나 내용이 부실하다.</dd><br>
 <dd>Poor in form or substance.</dd><br>
-<dt>어설프다 [어ː설프다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>어설프다 [어ː설프다]</dt><br>
 <dd>1. awkward; slovenly; poor</dd><br>
 <dd>익숙하지 않아 엉성하고 서투르다.</dd><br>
 <dd>Imperfect and clumsy because one is not familiar with something.</dd><br>
@@ -110,7 +110,7 @@
 <dd>5. thin; light</dd><br>
 <dd>연기나 냄새 등이 짙거나 선명하지 않고 매우 연하다.</dd><br>
 <dd>Smoke, smell, etc., being very weak, not thick or strong.</dd><br>
-<dt>얇다 [얄ː따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>얇다 [얄ː따]</dt><br>
 <dd>1. thin</dd><br>
 <dd>두께가 두껍지 않다.</dd><br>
 <dd>Not thick.</dd><br>
@@ -123,7 +123,7 @@
 <dd>4. thin</dd><br>
 <dd>빤히 들여다보일 만큼 속이 좁다.</dd><br>
 <dd>One’s mind being so shallow as to be guessed easily.</dd><br>
-<dt>박약하다 [바갸카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>박약하다 [바갸카다]</dt><br>
 <dd>1. feeble</dd><br>
 <dd>의지나 체력 등이 굳세지 못하고 허약하다.</dd><br>
 <dd>Weak in one's will, physical strength, etc.</dd><br>
@@ -136,11 +136,11 @@
 <dd>4. thin; weak</dd><br>
 <dd>얇고 약하다.</dd><br>
 <dd>Thin and weak.</dd><br>
-<dt>묽다 [묵따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>묽다 [묵따]</dt><br>
 <dd>thin; watery</dd><br>
 <dd>죽이나 반죽 등이 원래 있어야 하는 양보다 지나치게 물기가 많다.</dd><br>
 <dd>A porridge, dough, etc., having too much water, compared to the proper amount.</dd><br>
-<dt>멀겋다 [멀ː거타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>멀겋다 [멀ː거타]</dt><br>
 <dd>1. not clear</dd><br>
 <dd>깨끗하게 맑지 못하고 약간 흐리다.</dd><br>
 <dd>A bit murky, not clean.</dd><br>
@@ -150,29 +150,29 @@
 <dd>3. dull</dd><br>
 <dd>눈빛이 생기가 없고 초점이 없다.</dd><br>
 <dd>Eyes being lifeless and unfocused.</dd><br>
-<dt>맹맹하다 [맹맹하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>맹맹하다 [맹맹하다]</dt><br>
 <dd>1. bland; thin; insipid</dd><br>
 <dd>음식 맛이 싱겁다.</dd><br>
 <dd>Tasting bland.</dd><br>
 <dd>2. dull; insipid</dd><br>
 <dd>재미가 없고 심심하다.</dd><br>
 <dd>Uninteresting and boring.</dd><br>
-<dt>듬성하다 [듬성하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>듬성하다 [듬성하다]</dt><br>
 <dd>sparse; thin; scattered</dd><br>
 <dd>촘촘하지 않고 드물다.</dd><br>
 <dd>Sparsely located, not dense.</dd><br>
-<dt>듬성듬성하다 [듬성듬성하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>듬성듬성하다 [듬성듬성하다]</dt><br>
 <dd>sparse; thin; scattered</dd><br>
 <dd>촘촘하지 않고 매우 드물다.</dd><br>
 <dd>Very sparsely located, not dense.</dd><br>
-<dt>강마르다 [강마르다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>강마르다 [강마르다]</dt><br>
 <dd>1. dried up; parched</dd><br>
 <dd>물기가 없이 바싹 마르다.</dd><br>
 <dd>Dried up with no water.</dd><br>
 <dd>2. skinny; bony; thin</dd><br>
 <dd>몸에 살이 없어 몹시 마르다.</dd><br>
 <dd>Having little flesh or fat in one's body.</dd><br>
-<dt>가늘다 [가늘다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가늘다 [가늘다]</dt><br>
 <dd>1. thin</dd><br>
 <dd>물체의 너비가 좁거나 굵기가 얇으면서 길다.</dd><br>
 <dd>An object having a narrow width or being thin and long.</dd><br>
@@ -194,17 +194,17 @@
 <dd>7. slight</dd><br>
 <dd>움직이는 정도가 아주 약하다.</dd><br>
 <dd>A movement being very small.</dd><br>
-<dt>가느스름하다 [가느스름하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가느스름하다 [가느스름하다]</dt><br>
 <dd>slim; slender; thin</dd><br>
 <dd>조금 가늘다.</dd><br>
 <dd>A little slim or thin.</dd><br>
-<dt>가느다랗다 [가느다라타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가느다랗다 [가느다라타]</dt><br>
 <dd>thin; narrow; slim</dd><br>
 <dd>아주 가늘다.</dd><br>
 <dd>Very thin.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>희석하다 [히서카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>희석하다 [히서카다]</dt><br>
 <dd>dilute; thin</dd><br>
 <dd>어떤 물질이 녹아 있는 액체에 물이나 다른 액체를 더하여 농도를 묽게 하다.</dd><br>
 <dd>To make something thinner by adding water or another liquid to liquid in which a certain substance is dissolved.</dd><br>

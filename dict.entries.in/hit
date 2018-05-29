@@ -1,33 +1,33 @@
 <i>noun</i>: 히트 [], 적중 [적쭝], 안타 [안타], 득점포 [득쩜포], 대성황 [대ː성황], 강타 [강타] <i>verb</i>: 후리다 [후리다], 타격하다 [타ː겨카다], 쿵쾅하다 [쿵쾅하다], 쿵쾅이다 [쿵쾅이다], 쿡쿡하다 [쿡쿠카다], 쿡쿡대다 [쿡쿡때다], 쿡쿡거리다 [쿡쿡꺼리다], 치받다 [치받따], 치다 [치다], 처박다 [처박따], 찧다 [찌타], 찔리다 [찔리다], 찌르다 [찌르다], 짚다 [집따], 쥐어지르다 [쥐어지르다/쥐여지르다], 쥐어박다 [쥐어박따/쥐여박따], 적중하다 [적쭝하다], 적중되다 [적쭝되다/적쭝뒈다], 저미다 [저미다], 손대다 [손대다], 빤짝하다 [빤짜카다 ], 불어닥치다 [부러닥치다], 부딪치다 [부딛치다], 부딪다 [부딛따], 부닥치다 [부닥치다], 부닥뜨리다 [부닥뜨리다], 번쩍하다 [번쩌카다], 번뜩하다 [번뜨카다], 번뜩이다 [번뜨기다], 번뜩번뜩하다 [번뜩뻔뜨카다], 번뜩거리다 [번뜩꺼리다], 박다 [박따], 먹이다 [머기다], 맴매하다 [맴매하다], 맞히다 [마치다], 때리다 [때리다], 들이받다 [드리받따], 덮치다 [덥치다], 내려치다 [내려치다], 내갈기다 [내ː갈기다], 까다 [까다], 강타하다 [강타하다], 갈기다 [갈기다], 가격하다 [가겨카다] <br>
-<ul style="list-style-type:square">
+<ul>
 <li><i>noun</i><br>
-<dt>히트 []</dt><br>
+<dt><span>&#8227;&nbsp;</span>히트 []</dt><br>
 <dd>1. hit</dd><br>
 <dd>세상에 내놓거나 발표한 것이 크게 인기를 얻음.</dd><br>
 <dd>A state in which something released or published to the market gains enormous popularity.</dd><br>
 <dd>2. hit; safety; base hit</dd><br>
 <dd>야구에서, 타자가 한 베이스 이상을 갈 수 있도록 공을 치는 일.</dd><br>
 <dd>In baseball, an act of hitting a ball by a batter, far enough for a runner to safely reach the next base or bases.</dd><br>
-<dt>적중 [적쭝]</dt><br>
+<dt><span>&#8227;&nbsp;</span>적중 [적쭝]</dt><br>
 <dd>1. hit</dd><br>
 <dd>화살이나 총알 등이 목표물에 맞음.</dd><br>
 <dd>The act of an arrow, bullet, etc., hitting the target.</dd><br>
 <dd>2. guessing right</dd><br>
 <dd>예상이나 추측 또는 목표 등에 꼭 들어맞음.</dd><br>
 <dd>The act of a prediction or speculation coming true.</dd><br>
-<dt>안타 [안타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>안타 [안타]</dt><br>
 <dd>hit; safety; base hit</dd><br>
 <dd>야구에서, 타자가 한 베이스 이상을 갈 수 있도록 공을 치는 일.</dd><br>
 <dd>In baseball, the act of hitting a ball by a batter, far enough for a runner to safely reach the next base or bases.</dd><br>
-<dt>득점포 [득쩜포]</dt><br>
+<dt><span>&#8227;&nbsp;</span>득점포 [득쩜포]</dt><br>
 <dd>goal; hit</dd><br>
 <dd>(비유적으로) 운동 경기나 시합 등에서 점수를 올리는 슛이나 안타.</dd><br>
 <dd>(figurative) A goal or hit that contributes to raising the score in a sports game, match, etc.</dd><br>
-<dt>대성황 [대ː성황]</dt><br>
+<dt><span>&#8227;&nbsp;</span>대성황 [대ː성황]</dt><br>
 <dd>hit; smash hit; success</dd><br>
 <dd>공연이나 행사에 사람이 아주 많이 몰려드는 상황.</dd><br>
 <dd>The lively, grand atmosphere of a crowded performance, event, etc.</dd><br>
-<dt>강타 [강타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>강타 [강타]</dt><br>
 <dd>1. hit; strike</dd><br>
 <dd>세게 침.</dd><br>
 <dd>The act of hitting hard.</dd><br>
@@ -42,7 +42,7 @@
 <dd>(figurative) The act of having an enormous impact on something financially.</dd><br>
 </li>
 <li><i>verb</i><br>
-<dt>후리다 [후리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>후리다 [후리다]</dt><br>
 <dd>1. drive out; chase away; snatch</dd><br>
 <dd>어느 한 방향으로 세차게 몰아 채거나 쫓다.</dd><br>
 <dd>To drive something vigorously in one direction and snatch or chase it away.</dd><br>
@@ -61,7 +61,7 @@
 <dd>6. deceive; delude; trick</dd><br>
 <dd>그럴듯한 말로 속여 넘기다.</dd><br>
 <dd>To deceive another with plausible words.</dd><br>
-<dt>타격하다 [타ː겨카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>타격하다 [타ː겨카다]</dt><br>
 <dd>1. beat</dd><br>
 <dd>때려 치다.</dd><br>
 <dd>To hit and beat someone.</dd><br>
@@ -71,7 +71,7 @@
 <dd>3. hit</dd><br>
 <dd>야구에서, 투수가 던진 공을 타자가 방망이로 치다.</dd><br>
 <dd>In baseball, for a hitter to hit the ball thrown by a pitcher, using a bat.</dd><br>
-<dt>쿵쾅하다 [쿵쾅하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쿵쾅하다 [쿵쾅하다]</dt><br>
 <dd>1. bang; pound</dd><br>
 <dd>폭발물이나 북소리 등이 크고 작게 바뀌면서 요란하게 울리는 소리가 나다. 또는 그런 소리를 내다.</dd><br>
 <dd>For the sound of a bomb, drum, etc., exploding or being pounded loudly and then quietly to be made; or to make such a sound.</dd><br>
@@ -81,7 +81,7 @@
 <dd>3. stamp</dd><br>
 <dd>발로 바닥을 구르는 소리가 나다. 또는 그런 소리를 내다.</dd><br>
 <dd>For the sound of stamping the floor with a foot to be made; or to make such a sound.</dd><br>
-<dt>쿵쾅이다 [쿵쾅이다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쿵쾅이다 [쿵쾅이다]</dt><br>
 <dd>1. bang; pound</dd><br>
 <dd>폭발물이나 북소리 등이 크고 작게 바뀌면서 요란하게 울리는 소리가 나다. 또는 그런 소리를 내다.</dd><br>
 <dd>For the sound of a bomb, drum, etc., exploding or being pounded loudly and then quietly to be made; or to make such a sound.</dd><br>
@@ -91,7 +91,7 @@
 <dd>3. stamp</dd><br>
 <dd>발로 바닥을 구르는 소리가 나다. 또는 그런 소리를 내다.</dd><br>
 <dd>For the sound of stamping the floor with a foot to be made; or to make such a sound.</dd><br>
-<dt>쿡쿡하다 [쿡쿠카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쿡쿡하다 [쿡쿠카다]</dt><br>
 <dd>1. thrust; stab; hit</dd><br>
 <dd>크게 또는 깊이 자꾸 찌르거나 박거나 찍다.</dd><br>
 <dd>To repeatedly prod, knuckle, or spear something severely or deeply.</dd><br>
@@ -101,7 +101,7 @@
 <dd>3. stimulate</dd><br>
 <dd>감정이나 감각을 자꾸 세게 자극하다.</dd><br>
 <dd>To stimulate a feeling, sense, etc., repeatedly and strongly.</dd><br>
-<dt>쿡쿡대다 [쿡쿡때다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쿡쿡대다 [쿡쿡때다]</dt><br>
 <dd>1. thrust; stab; hit</dd><br>
 <dd>크게 또는 깊이 계속해서 찌르거나 박거나 찍다.</dd><br>
 <dd>To repeatedly prod, knuckle, or spear something severely or deeply.</dd><br>
@@ -111,7 +111,7 @@
 <dd>3. stimulate</dd><br>
 <dd>감정이나 감각을 자꾸 세게 자극하다.</dd><br>
 <dd>To stimulate a feeling, sense, etc., repeatedly and strongly.</dd><br>
-<dt>쿡쿡거리다 [쿡쿡꺼리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쿡쿡거리다 [쿡쿡꺼리다]</dt><br>
 <dd>1. thrust; stab; hit</dd><br>
 <dd>크게 또는 깊이 계속해서 찌르거나 박거나 찍다.</dd><br>
 <dd>To repeatedly prod, knuckle, or spear something severely or deeply.</dd><br>
@@ -121,7 +121,7 @@
 <dd>3. stimulate</dd><br>
 <dd>감정이나 감각을 자꾸 세게 자극하다.</dd><br>
 <dd>To stimulate a feeling, sense, etc., repeatedly and strongly.</dd><br>
-<dt>치받다 [치받따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>치받다 [치받따]</dt><br>
 <dd>1. receive and lift</dd><br>
 <dd>아래에서 위쪽을 향하여 받다.</dd><br>
 <dd>To receive something at a spot below something and raise it.</dd><br>
@@ -131,7 +131,7 @@
 <dd>3. stand up to</dd><br>
 <dd>(속된 말로) 윗사람에게 맞서 대들다.</dd><br>
 <dd>(slang) To confront and defy one's superior.</dd><br>
-<dt>치다 [치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>치다 [치다]</dt><br>
 <dd>1. hit; strike</dd><br>
 <dd>손이나 다른 물건이 무엇에 세게 부딪치게 하다.</dd><br>
 <dd>To cause the hand or an object to bump hard against something.</dd><br>
@@ -207,7 +207,7 @@
 <dd>25. have told</dd><br>
 <dd>점으로 운이 좋고 나쁨을 알아보다.</dd><br>
 <dd>To have one's fortune told to see if one will be lucky or not.</dd><br>
-<dt>처박다 [처박따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>처박다 [처박따]</dt><br>
 <dd>1. slam into</dd><br>
 <dd>몹시 세게 박다.</dd><br>
 <dd>To drive against something powerfully.</dd><br>
@@ -220,7 +220,7 @@
 <dd>4. confine</dd><br>
 <dd>한곳에만 있게 하고 다른 데로 나가지 못하게 하다.</dd><br>
 <dd>To make something or someone stay in one place.</dd><br>
-<dt>찧다 [찌타]</dt><br>
+<dt><span>&#8227;&nbsp;</span>찧다 [찌타]</dt><br>
 <dd>1. pound</dd><br>
 <dd>곡식 등을 빻기 위해 절구에 넣고 공이로 내리치다.</dd><br>
 <dd>To put grains etc. in a mortar and ground them by striking them with a pestle.</dd><br>
@@ -230,14 +230,14 @@
 <dd>3. hit</dd><br>
 <dd>어디에 부딪치다.</dd><br>
 <dd>To bump into something.</dd><br>
-<dt>찔리다 [찔리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>찔리다 [찔리다]</dt><br>
 <dd>1. be pierced; be poked; be pricked; be inserted; be stuck</dd><br>
 <dd>끝이 뾰족하거나 날카로운 것에 의해 어떤 것의 겉면이 뚫어지거나 쑥 들어가도록 세차게 밀리다.</dd><br>
 <dd>For something to be pushed hard and penetrated or dented by a pointed or sharp object.</dd><br>
 <dd>2. resonate; hit</dd><br>
 <dd>감정 등이 강하게 자극을 받다.</dd><br>
 <dd>To cause a strong emotional reaction.</dd><br>
-<dt>찌르다 [찌르다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>찌르다 [찌르다]</dt><br>
 <dd>1. pierce; poke; prick; insert; stick</dd><br>
 <dd>끝이 뾰족하거나 날카로운 것으로 어떤 것의 겉면이 뚫어지거나 쑥 들어가도록 세차게 들이밀다.</dd><br>
 <dd>To push something hard with a pointed or sharp object to penetrate or dent it.</dd><br>
@@ -256,7 +256,7 @@
 <dd>6. irritate</dd><br>
 <dd>냄새가 강해서 후각을 자극하다.</dd><br>
 <dd>For a smell to be so strong that it annoys someone.</dd><br>
-<dt>짚다 [집따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>짚다 [집따]</dt><br>
 <dd>1. use; push against</dd><br>
 <dd>바닥이나 벽, 지팡이 등에 몸을 기대어 의지하다.</dd><br>
 <dd>To use the floor, wall, cane, etc. to support one's body.</dd><br>
@@ -269,32 +269,32 @@
 <dd>4. tell; guess</dd><br>
 <dd>상황을 헤아려 어림잡아 짐작하다.</dd><br>
 <dd>To evaluate and guess the situation.</dd><br>
-<dt>쥐어지르다 [쥐어지르다/쥐여지르다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쥐어지르다 [쥐어지르다/쥐여지르다]</dt><br>
 <dd>hit</dd><br>
 <dd>주먹으로 힘껏 뻗치다.</dd><br>
 <dd>To thrust one's fist forcefully.</dd><br>
-<dt>쥐어박다 [쥐어박따/쥐여박따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>쥐어박다 [쥐어박따/쥐여박따]</dt><br>
 <dd>1. hit</dd><br>
 <dd>주먹으로 아프게 힘껏 때리다.</dd><br>
 <dd>To hit someone hard with a fist to cause pain.</dd><br>
 <dd>2. scold</dd><br>
 <dd>꾸짖거나 혼을 내어 상대가 움츠러들게 하다.</dd><br>
 <dd>To bring someone down by scolding or rebuking him/her.</dd><br>
-<dt>적중하다 [적쭝하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>적중하다 [적쭝하다]</dt><br>
 <dd>1. hit</dd><br>
 <dd>화살이나 총알 등이 목표물에 맞다.</dd><br>
 <dd>For an arrow, bullet, etc., to hit a target.</dd><br>
 <dd>2. be realized</dd><br>
 <dd>예상이나 추측 또는 목표 등에 꼭 들어맞다.</dd><br>
 <dd>For a prediction, speculation, goal, etc., to come true.</dd><br>
-<dt>적중되다 [적쭝되다/적쭝뒈다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>적중되다 [적쭝되다/적쭝뒈다]</dt><br>
 <dd>1. hit</dd><br>
 <dd>화살이나 총알 등이 목표물에 맞다.</dd><br>
 <dd>For an arrow, bullet, etc., to hit a target.</dd><br>
 <dd>2. be realized</dd><br>
 <dd>예상이나 추측 또는 목표 등에 꼭 들어맞다.</dd><br>
 <dd>For a prediction, speculation, goal, etc., to come true.</dd><br>
-<dt>저미다 [저미다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>저미다 [저미다]</dt><br>
 <dd>1. slice</dd><br>
 <dd>여러 개의 작은 조각으로 얇게 베어 내다.</dd><br>
 <dd>To cut something into thin slices.</dd><br>
@@ -304,7 +304,7 @@
 <dd>3. break</dd><br>
 <dd>마음을 몹시 아프게 하다.</dd><br>
 <dd>To cause someone's feelings to hurt badly.</dd><br>
-<dt>손대다 [손대다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>손대다 [손대다]</dt><br>
 <dd>1. touch; make physical contact; lay one's hands on</dd><br>
 <dd>손으로 만지거나 건드리다.</dd><br>
 <dd>To feel something with one's hand.</dd><br>
@@ -332,7 +332,7 @@
 <dd>9. eat; touch</dd><br>
 <dd>음식을 먹다.</dd><br>
 <dd>To eat food.</dd><br>
-<dt>빤짝하다 [빤짜카다 ]</dt><br>
+<dt><span>&#8227;&nbsp;</span>빤짝하다 [빤짜카다 ]</dt><br>
 <dd>1. be sober</dd><br>
 <dd>순간적으로 마음이나 정신을 가다듬다.</dd><br>
 <dd>To pull oneself together suddenly.</dd><br>
@@ -354,14 +354,14 @@
 <dd>7. sparkle</dd><br>
 <dd>작은 빛이 잠깐 나타났다가 사라지다. 또는 그렇게 되게 하다.</dd><br>
 <dd>For a small light to appear and disappear for a short time, or to make this happen.</dd><br>
-<dt>불어닥치다 [부러닥치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>불어닥치다 [부러닥치다]</dt><br>
 <dd>1. strike</dd><br>
 <dd>바람이 몹시 세게 불어 오다.</dd><br>
 <dd>For wind to come in a gust.</dd><br>
 <dd>2. hit; overtake</dd><br>
 <dd>외부에서 일어난 유행, 풍조, 변화 등이 강하게 영향을 미치다.</dd><br>
 <dd>For a trend, tendency, change, etc., that began in the outside world, to affect people strongly.</dd><br>
-<dt>부딪치다 [부딛치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>부딪치다 [부딛치다]</dt><br>
 <dd>1. hit; bump; crash</dd><br>
 <dd>(강조하는 말로) 매우 세게 마주 닿다. 또는 마주 닿게 하다.</dd><br>
 <dd>(emphasizing form) For something to hit hard against another thing; to make this situation happen.</dd><br>
@@ -380,28 +380,28 @@
 <dd>6. meet</dd><br>
 <dd>어떤 일과 관계가 있는 사람을 문제 해결을 위해 만나다.</dd><br>
 <dd>To meet someone involved in a certain affair in order to solve a problem.</dd><br>
-<dt>부딪다 [부딛따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>부딪다 [부딛따]</dt><br>
 <dd>1. hit; bump; crash</dd><br>
 <dd>매우 세게 마주 닿다. 또는 마주 닿게 하다.</dd><br>
 <dd>For something to hit hard against another thing; to make this happen.</dd><br>
 <dd>2. encounter; run into; be faced with</dd><br>
 <dd>예상치 못한 일이나 상황을 직접 당하거나 접하다.</dd><br>
 <dd>To suffer or hear of an unexpected event or situation.</dd><br>
-<dt>부닥치다 [부닥치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>부닥치다 [부닥치다]</dt><br>
 <dd>1. hit; bump; crash</dd><br>
 <dd>세게 부딪치다.</dd><br>
 <dd>To hit hard against something.</dd><br>
 <dd>2. encounter; run into; be faced</dd><br>
 <dd>예상하지 못한 일이나 어려운 문제에 직면하다.</dd><br>
 <dd>To face an unexpected event or difficult problem.</dd><br>
-<dt>부닥뜨리다 [부닥뜨리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>부닥뜨리다 [부닥뜨리다]</dt><br>
 <dd>1. hit; bump; crash</dd><br>
 <dd>사람이나 사물과 부딪칠 정도로 마주치다.</dd><br>
 <dd>To come face-to-face with a person or thing at such close range as to nearly run into the person or thing.</dd><br>
 <dd>2. encounter; face; be confronted</dd><br>
 <dd>어떤 일이나 상황에 처하다.</dd><br>
 <dd>To be placed into a certain event or situation.</dd><br>
-<dt>번쩍하다 [번쩌카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>번쩍하다 [번쩌카다]</dt><br>
 <dd>1. become sober</dd><br>
 <dd>정신이 갑자기 아주 맑아지다.</dd><br>
 <dd>For one's mind to suddenly become very clear.</dd><br>
@@ -420,35 +420,35 @@
 <dd>6. sparkle</dd><br>
 <dd>큰 빛이 잠깐 나타났다가 사라지다. 또는 그렇게 되게 하다.</dd><br>
 <dd>For a big light to appear and disappear for a short time, or to make this happen.</dd><br>
-<dt>번뜩하다 [번뜨카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>번뜩하다 [번뜨카다]</dt><br>
 <dd>1. sparkle</dd><br>
 <dd>물체 등에 반사된 큰 빛이 빠르게 잠깐씩 나타나다. 또는 그렇게 되게 하다.</dd><br>
 <dd>For a big light reflected onto an object, etc., to quickly and momentarily appear, or to make this happen.</dd><br>
 <dd>2. hit</dd><br>
 <dd>어떤 생각이 머릿속에 갑자기 떠오르다.</dd><br>
 <dd>For a thought to suddenly come to one's mind.</dd><br>
-<dt>번뜩이다 [번뜨기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>번뜩이다 [번뜨기다]</dt><br>
 <dd>1. sparkle</dd><br>
 <dd>물체 등에 반사된 큰 빛이 빠르게 잠깐씩 나타나다. 또는 그렇게 되게 하다.</dd><br>
 <dd>For a big light reflected onto an object, etc., to quickly and momentarily appear, or to make this happen.</dd><br>
 <dd>2. hit</dd><br>
 <dd>어떤 생각이 갑자기 머릿속에 떠오르다.</dd><br>
 <dd>For a thought to suddenly come to one's mind.</dd><br>
-<dt>번뜩번뜩하다 [번뜩뻔뜨카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>번뜩번뜩하다 [번뜩뻔뜨카다]</dt><br>
 <dd>1. sparkle</dd><br>
 <dd>물체 등에 반사된 큰 빛이 자꾸 빠르게 잠깐씩 나타나다. 또는 그렇게 되게 하다.</dd><br>
 <dd>For a big light reflected onto an object, etc., to quickly and momentarily appear, or to make this happen.</dd><br>
 <dd>2. hit</dd><br>
 <dd>어떤 생각이 갑자기 머릿속에 자꾸 떠오르다.</dd><br>
 <dd>For a thought to suddenly and repeatedly come to one's mind.</dd><br>
-<dt>번뜩거리다 [번뜩꺼리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>번뜩거리다 [번뜩꺼리다]</dt><br>
 <dd>1. sparkle</dd><br>
 <dd>물체 등에 반사된 큰 빛이 빠르게 잠깐씩 자꾸 나타나다. 또는 그렇게 되게 하다.</dd><br>
 <dd>For a big light reflected onto an object, etc., to quickly and momentarily appear, or to make this happen.</dd><br>
 <dd>2. hit</dd><br>
 <dd>어떤 생각이 갑자기 머릿속에 자꾸 떠오르다.</dd><br>
 <dd>For a thought to suddenly and repeatedly come to one's mind.</dd><br>
-<dt>박다 [박따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>박다 [박따]</dt><br>
 <dd>1. hammer; ram; peg; screw</dd><br>
 <dd>두들겨 치거나 돌려서 꽂히게 하다.</dd><br>
 <dd>To strike or screw down something into another thing.</dd><br>
@@ -491,7 +491,7 @@
 <dd>14. speak clearly; print</dd><br>
 <dd>정확히 알아듣게 말하거나 글씨를 알아보게 쓰다.</dd><br>
 <dd>To speak accurately and slowly or to write down something clearly so that anyone can understand it.</dd><br>
-<dt>먹이다 [머기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>먹이다 [머기다]</dt><br>
 <dd>1. make someone eat; feed</dd><br>
 <dd>음식을 입에 넣어 삼키게 하다.</dd><br>
 <dd>To put food into the mouth of someone or something and make him/her or it swallow it.</dd><br>
@@ -510,11 +510,11 @@
 <dd>6. breed; raise; keep; feed</dd><br>
 <dd>가축을 기르다.</dd><br>
 <dd>To breed livestock.</dd><br>
-<dt>맴매하다 [맴매하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>맴매하다 [맴매하다]</dt><br>
 <dd>strike; hit</dd><br>
 <dd>(어린아이의 말로) 잘못한 아이를 때리다.</dd><br>
 <dd>(children's term) To strike a child who did something wrong.</dd><br>
-<dt>맞히다 [마치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>맞히다 [마치다]</dt><br>
 <dd>1. (no equivalent expression)</dd><br>
 <dd>눈이나 비 등을 맞게 하다.</dd><br>
 <dd>To have someone exposed to rain, snow, etc.</dd><br>
@@ -527,7 +527,7 @@
 <dd>4. hit</dd><br>
 <dd>무엇을 목표 지점에 맞게 하다.</dd><br>
 <dd>To hit a target with something.</dd><br>
-<dt>때리다 [때리다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>때리다 [때리다]</dt><br>
 <dd>1. hit; beat; strike; smack; slap; punch</dd><br>
 <dd>손이나 손에 든 물건으로 아프게 치다.</dd><br>
 <dd>To hit hard and give pain with a hand or something in hand.</dd><br>
@@ -543,14 +543,14 @@
 <dd>5. do carelessly; do randomly; do haphazardly</dd><br>
 <dd>(낮잡아 이르는 말로) 함부로 마구 하다.</dd><br>
 <dd>(disparaging) To do something carelessly and randomly.</dd><br>
-<dt>들이받다 [드리받따]</dt><br>
+<dt><span>&#8227;&nbsp;</span>들이받다 [드리받따]</dt><br>
 <dd>1. butt; gore</dd><br>
 <dd>머리를 가까이 가져다 대고 세게 부딪치다.</dd><br>
 <dd>To thrust one's head close to something and hit it hard.</dd><br>
 <dd>2. hit; bump</dd><br>
 <dd>함부로 세게 부딪다.</dd><br>
 <dd>To indiscriminately hit something hard.</dd><br>
-<dt>덮치다 [덥치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>덮치다 [덥치다]</dt><br>
 <dd>1. hit</dd><br>
 <dd>좋지 않은 여러 가지 일이 한꺼번에 닥쳐오다.</dd><br>
 <dd>For bad things to happen all at once.</dd><br>
@@ -560,14 +560,14 @@
 <dd>3. pounce</dd><br>
 <dd>무엇을 잡으려고 갑자기 들이닥치다.</dd><br>
 <dd>To appear suddenly to seize something or someone.</dd><br>
-<dt>내려치다 [내려치다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>내려치다 [내려치다]</dt><br>
 <dd>1. strike; hit</dd><br>
 <dd>사람이 위에서 아래로 힘껏 때리거나 치다.</dd><br>
 <dd>For someone to hit or strike something by moving from an upward position and then moving downward.</dd><br>
 <dd>2. strike; hit</dd><br>
 <dd>어떤 물체가 위에서 아래로 힘껏 부딪거나 치다.</dd><br>
 <dd>For something to hit or strike something by moving from an upward position and then moving downward.</dd><br>
-<dt>내갈기다 [내ː갈기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>내갈기다 [내ː갈기다]</dt><br>
 <dd>1. strike; hit; beat; slap</dd><br>
 <dd>뺨이나 얼굴 등을 힘껏 때리다.</dd><br>
 <dd>To hit or strike someone or something very hard.</dd><br>
@@ -583,7 +583,7 @@
 <dd>5. babble; gabble</dd><br>
 <dd>말 등을 마구 함부로 해 대다.</dd><br>
 <dd>To pour words or hurl insults.</dd><br>
-<dt>까다 [까다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>까다 [까다]</dt><br>
 <dd>1. peel; hull; shell; husk</dd><br>
 <dd>껍질이나 껍데기를 벗기다.</dd><br>
 <dd>To peel the skin or shell.</dd><br>
@@ -605,7 +605,7 @@
 <dd>7. turn something over and show it</dd><br>
 <dd>(속된 말로) 뒤집어 보여 주다.</dd><br>
 <dd>(slang) To turn something inside out and show it.</dd><br>
-<dt>강타하다 [강타하다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>강타하다 [강타하다]</dt><br>
 <dd>1. hit; strike</dd><br>
 <dd>세게 치다.</dd><br>
 <dd>To hit hard.</dd><br>
@@ -618,7 +618,7 @@
 <dd>4. hit hard; deal a blow</dd><br>
 <dd>(비유적으로) 경제적으로 큰 타격을 주다.</dd><br>
 <dd>(figurative) To have an enormous impact on something financially.</dd><br>
-<dt>갈기다 [갈기다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>갈기다 [갈기다]</dt><br>
 <dd>1. strike; hit; beat; slap</dd><br>
 <dd>몹시 세게 때리거나 치다.</dd><br>
 <dd>To hit or strike someone or something very hard.</dd><br>
@@ -634,7 +634,7 @@
 <dd>5. babble; gabble</dd><br>
 <dd>말을 되는대로 마구 지껄이다.</dd><br>
 <dd>To pour words or hurl insults.</dd><br>
-<dt>가격하다 [가겨카다]</dt><br>
+<dt><span>&#8227;&nbsp;</span>가격하다 [가겨카다]</dt><br>
 <dd>hit; strike</dd><br>
 <dd>손이나 주먹, 몽둥이 등으로 치거나 때리다.</dd><br>
 <dd>To hit or strike someone with one’s fists, a club, etc.</dd><br>
