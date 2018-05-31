@@ -23,7 +23,10 @@ import java.util.TreeSet;
 public class InputDictionaryWordListsOperations {
 
     public static void main(String[] args) throws Exception {
+        createRequiredWordFiles();
+    }
 
+    static void createRequiredWordFiles() throws Exception {
         Map<String, Set<String>> adjMap = combineBaseWordnetFilesWithInflections("en.words/in/base_adj", "en.words/in/adj.exc");
         Map<String, Set<String>> advMap = combineBaseWordnetFilesWithInflections("en.words/in/base_adv", "en.words/in/adv.exc");
         Map<String, Set<String>> verbMap = combineBaseWordnetFilesWithInflections("en.words/in/base_verb", "en.words/in/verb.exc");
@@ -56,7 +59,7 @@ public class InputDictionaryWordListsOperations {
         return list;
     }
 
-    private static List<String> mapToListOfLines(Map<String, Set<String>> initialMap) {
+    public static List<String> mapToListOfLines(Map<String, Set<String>> initialMap) {
         List<String> list = new ArrayList<>();
         Map<String, Set<String>> map = new TreeMap<>(initialMap);
         for (String s : map.keySet()) {

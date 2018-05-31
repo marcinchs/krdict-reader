@@ -4,11 +4,11 @@ import org.mchs.dict.file.DirectoryAndFileOperations;
 import org.mchs.dict.file.LocalFileReader;
 
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -16,7 +16,6 @@ import java.util.TreeMap;
 import java.util.stream.Collectors;
 
 import static org.mchs.dict.file.LocalFileReader.readExternalFileToArray;
-import static org.mchs.dict.local.EomwInflectionMerger.EOMW_FOLDER_PATH;
 
 
 public class KindleRequiredFilesCreator {
@@ -28,72 +27,12 @@ public class KindleRequiredFilesCreator {
     private static final String DICTIONARY_METADATA_TEMPLATE_OPF = "kindle/templates/dictionary_metadata_template";
     private static final String RELEASE_NOTES_TEMPLATE = "kindle/templates/rel_notes_template";
 
+    private DirectoryAndFileOperations directoryAndFileOperations = new DirectoryAndFileOperations(getTodaysDateAndTime());
+
     public static void main(String[] args) throws Exception {
-
-        boolean addEomw = true;
-        LocalFileReader fileReader = new LocalFileReader();
-        List<String> outputFileList = new ArrayList<>();
-
-        Map<String, String> fileSet = new TreeMap<>();
-        addEntryFilesMapFromDirectory(fileSet, FILE_FOLDER_PATH);
-
-        if (addEomw) {
-            addEntryFilesMapFromDirectory(fileSet, EOMW_FOLDER_PATH);
-        }
-        Map<String, Set<String>> inflectionsFromFile = fileReader.readBaseFileToMap("combined_inflections.txt");
-
-        Map<String, Set<String>> inflections;
-        if (addEomw) {
-            Map<String, Set<String>> combinedInflections = EomwInflectionMerger.combineWithEomwInflections(inflectionsFromFile);
-            inflections = buildInflectionsMapBasedOnAvailableDictionaryEntries(fileSet.keySet(), combinedInflections);
-        } else {
-            inflections = buildInflectionsMapBasedOnAvailableDictionaryEntries(fileSet.keySet(), inflectionsFromFile);
-        }
-
-        System.out.println(fileSet.keySet().size() + " files to process.");
-
-        StringBuilder sb = new StringBuilder();
-        String outputFileNameId;
-
-        int id = 1;
-        int fileCounter = 0;
-        int eomwCounter = 0;
-
-        for (Map.Entry<String, String> entry : fileSet.entrySet()) {
-            String k = entry.getKey();
-            String v = entry.getValue();
-
-            String fileContent = DirectoryAndFileOperations.readFileToString(v).concat("<hr>");
-
-            if (!fileContent.contains(NO_RESULTS)) {
-                String idxEntryNoContent = WriteXMLFile.createIdxEntry(k, inflections.get(k), id);
-                String idxEntryFull = String.format(idxEntryNoContent, fileContent);
-                sb.append(idxEntryFull);
-                id++;
-
-                if (id % 1500 == 0) {
-                    outputFileNameId = saveEntries(fileReader, sb, fileCounter);
-                    outputFileList.add(outputFileNameId);
-                    fileCounter++;
-                }
-                if (fileContent.contains("<!-- eomw1.2 -->")) {
-                    eomwCounter++;
-                }
-            }
-        }
-
-        // save remaining entries
-        outputFileNameId = saveEntries(fileReader, sb, fileCounter);
-        outputFileList.add(outputFileNameId);
-
-        System.out.printf("Dictionary will contain %s entries.", id - 1);
-
-        prepareOpf(fileReader, outputFileList);
-
-        int translatedWordsCount = countTranslatedWords(fileSet);
-        prepareReleaseNotes(fileReader, id - 1, eomwCounter, translatedWordsCount);
-        DirectoryAndFileOperations.copyAdditionalFiles();
-
+        KindleRequiredFilesCreator kindleRequiredFilesCreator = new KindleRequiredFilesCreator();
+        InputDictionaryWordListsOperations.createRequiredWordFiles();
+        kindleRequiredFilesCreator.createDictionary();
     }
 
     private static void addEntryFilesMapFromDirectory(Map<String, String> map, String directoryPath) {
@@ -111,34 +50,98 @@ public class KindleRequiredFilesCreator {
         return count;
     }
 
-    private static Map<String, Set<String>> buildInflectionsMapBasedOnAvailableDictionaryEntries(Set<String> dictEntries, Map<String, Set<String>> inputInflections) throws IOException {
+    private static String getTodaysDate() {
+        Date dNow = new Date();
+        SimpleDateFormat ft = new SimpleDateFormat("yyyy-MM-dd");
+        return ft.format(dNow);
+    }
+
+    private static String getTodaysDateAndTime() {
+        Date dNow = new Date();
+        SimpleDateFormat ft = new SimpleDateFormat("yyyy-MM-dd_HH-mm");
+        return ft.format(dNow);
+    }
+
+    private void createDictionary() throws Exception {
+        boolean addEomw = true;
         LocalFileReader fileReader = new LocalFileReader();
-        Map<String, Set<String>> outputInflections = new HashMap<>();
+        List<String> outputFileList = new ArrayList<>();
 
-        dictEntries.stream()
-                .filter(entry -> !entry.contains(" "))
-                .forEach(
-                        entry -> {
-                            outputInflections.put(entry, inputInflections.getOrDefault(entry, Collections.emptySet()));
-                        });
+        Map<String, String> fileSet = new TreeMap<>();
+        if (addEomw) {
+            addEntryFilesMapFromDirectory(fileSet, "eomw");
+        }
+        // overwrite eomw paths (if there are any) with these from Krdict
+        addEntryFilesMapFromDirectory(fileSet, FILE_FOLDER_PATH);
 
-        Set<String> keys = outputInflections.keySet();
+        Map<String, Set<String>> inflectionsMap = fileReader.readBaseFileToMap("combined_inflections.txt");
 
-        for (Map.Entry<String, Set<String>> mapEntry : outputInflections.entrySet()) {
-            Set<String> values = mapEntry.getValue();
-            values.removeAll(keys);
+        if (addEomw) {
+            InflectionMerger.combineWithAdditionalInflections("eomw", inflectionsMap, fileSet);
+        }
+        InflectionMerger.combineWithAdditionalInflections(FILE_FOLDER_PATH, inflectionsMap, fileSet);
+
+        InflectionMerger.cleanUpInflections(inflectionsMap, fileSet);
+        System.out.println(fileSet.keySet().size() + " files to process.");
+
+        StringBuilder sb = new StringBuilder();
+        String outputFileNameId;
+
+        int id = 1;
+        int fileCounter = 0;
+        int eomwCounter = 0;
+
+        List<String> outputListOfInflections = new ArrayList<>();
+
+        for (Map.Entry<String, String> entry : fileSet.entrySet()) {
+            String k = entry.getKey();
+            String v = entry.getValue();
+
+            String fileContent = DirectoryAndFileOperations.readFileToString(v).concat("<hr>");
+
+            if (!fileContent.contains(NO_RESULTS)) {
+
+                String vv = inflectionsMap.get(k) == null ? "" : String.join(" ", inflectionsMap.get(k));
+                outputListOfInflections.add(v + "::" + vv);
+
+                String idxEntryNoContent = WriteXMLFile.createIdxEntry(k, inflectionsMap.get(k), id);
+                String idxEntryFull = String.format(idxEntryNoContent, fileContent);
+                sb.append(idxEntryFull);
+                id++;
+
+                if (id % 1500 == 0) {
+                    outputFileNameId = saveEntries(fileReader, sb, fileCounter);
+                    outputFileList.add(outputFileNameId);
+                    fileCounter++;
+                }
+                if (fileContent.contains("<!-- eomw1.2 -->")) {
+                    eomwCounter++;
+                }
+            }
         }
 
-        return outputInflections;
+        Files.write(Paths.get("src/main/resources/all_inflections.txt"), outputListOfInflections);
+
+        // save remaining entries
+        outputFileNameId = saveEntries(fileReader, sb, fileCounter);
+        outputFileList.add(outputFileNameId);
+
+        System.out.printf("Dictionary will contain %s entries.", id - 1);
+
+        prepareOpf(fileReader, outputFileList);
+
+        int translatedWordsCount = countTranslatedWords(fileSet);
+        prepareReleaseNotes(fileReader, id - 1, eomwCounter, translatedWordsCount);
+        directoryAndFileOperations.copyAdditionalFiles();
     }
 
-    private static void prepareReleaseNotes(LocalFileReader fileReader, int numOfEntries, int eomwCount, int translationCount) throws IOException {
+    private void prepareReleaseNotes(LocalFileReader fileReader, int numOfEntries, int eomwCount, int translationCount) throws IOException {
         String relNotesTemplate = fileReader.readBaseFileToArray(RELEASE_NOTES_TEMPLATE).stream().collect(Collectors.joining("\n"));
         String relNotesContent = String.format(relNotesTemplate, DICTIONARY_TITLE, numOfEntries, eomwCount, translationCount, getTodaysDate());
-        DirectoryAndFileOperations.printToFile(relNotesContent, "rel_notes.xhtml");
+        directoryAndFileOperations.printToFile(relNotesContent, "rel_notes.xhtml");
     }
 
-    private static void prepareOpf(LocalFileReader fileReader, List<String> outputFileList) throws IOException {
+    private void prepareOpf(LocalFileReader fileReader, List<String> outputFileList) throws IOException {
         String opfSkeleton = fileReader.readBaseFileToArray(DICTIONARY_METADATA_TEMPLATE_OPF).stream().collect(Collectors.joining("\n"));
 
         String manifestContent = outputFileList.stream()
@@ -153,23 +156,15 @@ public class KindleRequiredFilesCreator {
 
         String opfFileContent = String.format(opfSkeleton, DICTIONARY_TITLE, DICTIONARY_TITLE, getTodaysDate(), manifestContent, spineContent);
         String opfFileName = DICTIONARY_TITLE.replaceAll("\\W", "").concat(".opf");
-        DirectoryAndFileOperations.printToFile(opfFileContent, opfFileName);
+        directoryAndFileOperations.printToFile(opfFileContent, opfFileName);
     }
 
-    private static String saveEntries(LocalFileReader fileReader, StringBuilder sb, int fileCounter) throws IOException {
+    private String saveEntries(LocalFileReader fileReader, StringBuilder sb, int fileCounter) throws IOException {
         String opfHtmlSkeleton = fileReader.readBaseFileToArray("kindle/templates/opf_html_skeleton").stream().collect(Collectors.joining());
         String opfFileContent = String.format(opfHtmlSkeleton, sb.toString());
         String outputFileNameId = String.format(DICT_FILE_NAME_TEMPLATE, fileCounter);
-        DirectoryAndFileOperations.printToFile(opfFileContent, outputFileNameId.concat(".html"));
+        directoryAndFileOperations.printToFile(opfFileContent, outputFileNameId.concat(".html"));
         sb.setLength(0);
         return outputFileNameId;
     }
-
-    private static String getTodaysDate() {
-        Date dNow = new Date();
-        SimpleDateFormat ft =
-                new SimpleDateFormat("yyyy-MM-dd");
-        return ft.format(dNow);
-    }
-
 }

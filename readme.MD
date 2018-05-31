@@ -2,7 +2,7 @@
 
 This is English-Korean dictionary for e-readers (e.g. _Kindle_) mainly based on [_National Institute of Korean Language's Korean-English Learners' Dictionary_](https://dict.korean.go.kr). It contains also entries from [_Extended Open Multilingual Wordnet_](http://compling.hss.ntu.edu.sg/omw/summx.html)
 
-- As of May 2018 it contains 20,329 (English) entries. That maps to a much bigger list of Korean words (over 59,000). See changelog or release notes (in mobi file) for details
+- As of May 2018 it contains 18,044 (English) entries. That maps to a much bigger list of Korean words (56,182). See changelog or release notes (in mobi file) for details
 - Inflections are also supported
 - Most entries contain pronunciation. If they don't then probably it wasn't included in Korean Language's Korean-English Learners' Dictionary. There is no pronunciation for entries from Extended Open Multilingual Wordnet.
 
@@ -30,9 +30,9 @@ It will take a lot of time because of the fact that you'd need to simply look up
 
 #### Credits
 
-- 15,457 Korean entries come from [_National Institute of Korean Language's Korean-English Learners' Dictionary_](https://dict.korean.go.kr)
+- 14,627 Korean entries come from [_National Institute of Korean Language's Korean-English Learners' Dictionary_](https://dict.korean.go.kr)
 and additional
-- 4,872 entries from [_Extended Open Multilingual Wordnet 1.2_](http://compling.hss.ntu.edu.sg/omw/summx.html)
+- 3,417 entries from [_Extended Open Multilingual Wordnet 1.2_](http://compling.hss.ntu.edu.sg/omw/summx.html)
 
 English words used are from [_WordNet®_](https://wordnet.princeton.edu) and [_12dicts_](http://wordlist.aspell.net/12dicts/) from [_SCOWL (And Friends)_](http://wordlist.aspell.net).
 

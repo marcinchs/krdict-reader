@@ -1,9 +1,10 @@
 package org.mchs.dict.file;
 
+import lombok.RequiredArgsConstructor;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -17,23 +18,17 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import java.util.TreeSet;
 import java.util.stream.Collectors;
 
 import static org.mchs.dict.file.LocalFileReader.readExternalFileToArray;
 import static org.mchs.dict.local.KindleRequiredFilesCreator.NO_RESULTS;
 
+@RequiredArgsConstructor
 public class DirectoryAndFileOperations {
 
-    private static final String DICTIONARY_OUTPUT_DIR = "dict.out";
+    private static final String DICTIONARY_MAIN_OUTPUT_DIR = "dict.out";
     private static final String ADDITIONAL_FILES_DIRECTORY = "src/main/resources/kindle/additionalfiles";
-
-    public static void printToFile(String outString, String dictFile) throws IOException {
-        Files.createDirectories(Paths.get(DICTIONARY_OUTPUT_DIR));
-        PrintWriter out = new PrintWriter(new File(DICTIONARY_OUTPUT_DIR + File.separator + dictFile), "UTF-8");
-        out.print(outString);
-        out.close();
-    }
+    private final String outDirectoryName;
 
     public static String readFileToString(String v) throws IOException {
         List<String> list = readExternalFileToArray(v);
@@ -67,20 +62,6 @@ public class DirectoryAndFileOperations {
         return false;
     }
 
-    public static void copyAdditionalFiles() throws IOException {
-        Files.createDirectories(Paths.get(DICTIONARY_OUTPUT_DIR));
-        createFileList(ADDITIONAL_FILES_DIRECTORY, true).values().forEach(DirectoryAndFileOperations::copyFiles);
-    }
-
-    private static void copyFiles(String s) {
-        try {
-            String outputFile = s.substring(s.lastIndexOf(File.separator));
-            Files.copy(Paths.get(s), Paths.get(DICTIONARY_OUTPUT_DIR + File.separator + outputFile));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
     public static Map<String, Set<String>> createMd5Map(Map<String, String> fileMap) throws IOException, NoSuchAlgorithmException {
         Map<String, Set<String>> md5map = new HashMap<>();
 
@@ -103,5 +84,29 @@ public class DirectoryAndFileOperations {
         byte[] hash = digest.digest(string.getBytes(StandardCharsets.UTF_8));
         return Base64.getEncoder().encodeToString(hash);
 
+    }
+
+    private void copyFiles(String s) {
+        String outputDir = DICTIONARY_MAIN_OUTPUT_DIR + File.separator + outDirectoryName;
+        try {
+            String outputFile = s.substring(s.lastIndexOf(File.separator));
+            Files.copy(Paths.get(s), Paths.get(outputDir + File.separator + outputFile));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void printToFile(String outString, String dictFile) throws IOException {
+        String outputDir = DICTIONARY_MAIN_OUTPUT_DIR + File.separator + outDirectoryName;
+        Files.createDirectories(Paths.get(outputDir));
+        PrintWriter out = new PrintWriter(new File(outputDir + File.separator + dictFile), "UTF-8");
+        out.print(outString);
+        out.close();
+    }
+
+    public void copyAdditionalFiles() throws IOException {
+        String outputDir = DICTIONARY_MAIN_OUTPUT_DIR + File.separator + outDirectoryName;
+        Files.createDirectories(Paths.get(outputDir));
+        createFileList(ADDITIONAL_FILES_DIRECTORY, true).values().forEach(this::copyFiles);
     }
 }

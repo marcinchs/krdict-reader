@@ -11,6 +11,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class LocalFileReader {
 
@@ -77,7 +79,7 @@ public class LocalFileReader {
             while ((sCurrentLine = br.readLine()) != null) {
                 String[] list = sCurrentLine.split("[\\s]+");
                 String key = list[0];
-                Set<String> values = new TreeSet<>(Arrays.asList(list));
+                Set<String> values = Stream.of(list).skip(1).collect(Collectors.toSet());
 
                 if (listMap.containsKey(key)) {
                     Set<String> existingValues = listMap.get(key);
