@@ -36,22 +36,8 @@ class InflectionMerger {
             }
         }
 
-        List<String> keys = new ArrayList<>(initialInflections.keySet());
-        List<Set<String>> values = new ArrayList<>(initialInflections.values());
-
-        for (int i = 0; i < keys.size(); i++) {
-            String key = keys.get(i);
-            System.out.println("processing key " + i + " of " + keys.size() + " (" + key + ")");
-            for (int j = 0; j < values.size(); j++) {
-                Set<String> set = values.get(j);
-                set.remove(key);
-                values.set(j, set);
-            }
-        }
-
-        for (int i = 0; i < keys.size(); i++) {
-            initialInflections.put(keys.get(i), values.get(i));
-        }
+        initialInflections.keySet().parallelStream().forEach(
+                key -> initialInflections.values().forEach(set -> set.remove(key)));
     }
 
    /*
